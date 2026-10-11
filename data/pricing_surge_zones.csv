@@ -1,0 +1,10 @@
+zone_id,zone_name,city,base_fare_zar,per_km_rate_zar,per_min_rate_zar
+ZONE_JHB_CBD,Johannesburg CBD / Maboneng,Johannesburg,25.0,9.5,1.2
+ZONE_SANDTON,Sandton Gautrain & Financial Core,Johannesburg,28.0,11.0,1.5
+ZONE_PTA_MENLYN,Menlyn Maine & Hatfield,Pretoria,24.0,9.0,1.1
+ZONE_VDBP_VAAL,Vanderbijlpark Vaal Mall & VUT Campus,Vanderbijlpark,21.0,8.5,1.05
+ZONE_CPT_WATERFRONT,V&A Waterfront & Atlantic Seaboard,Cape Town,30.0,12.0,1.6
+ZONE_CPT_AIRPORT,Cape Town International Airport,Cape Town,35.0,11.5,1.4
+ZONE_DBN_UMHLANGA,Umhlanga Rocks & Gateway,Durban,26.0,10.0,1.3
+ZONE_POTCH_NWU,NWU Campus & Bult Area,Potchefstroom,20.0,8.0,1.0
+ZONE_PLZ_SUMMERSTRAND,Summerstrand & Airport,Gqeberha,22.0,8.5,1.05

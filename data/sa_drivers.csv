@@ -1,0 +1,801 @@
+driver_id,first_name,last_name,operating_city,platform_affiliation,platform_commission_pct,driver_rating,total_lifetime_trips,onboarding_date
+DRV_00001,Zola,Baloyi,Gqeberha,Uber,0.25,4.44,2673,2023/08/07
+DRV_00002,Zaheer,Walker,Durban,Bolt,0.2,4.29,358,2023/10/14
+DRV_00003,Katlego,Baloyi,Vanderbijlpark,Dual-Platform (Both),0.22,4.11,5454,2023/03/14
+DRV_00004,Bandile,Williams,Potchefstroom,Dual-Platform (Both),0.22,4.73,1717,2022/10/26
+DRV_00005,David,Moosa,Vanderbijlpark,Bolt,0.2,4.26,4893,2024/10/07
+DRV_00006,Megan,Bezuidenhout,Cape Town,Bolt,0.2,4.52,5426,2022/04/04
+DRV_00007,Chantelle,Mabena,Potchefstroom,Uber,0.25,4.14,6062,2023/04/27
+DRV_00008,Jessica,Coetzee,Gqeberha,Uber,0.25,4.16,2281,2023/07/15
+DRV_00009,Khotso,Nkosi,Cape Town,Uber,0.25,4.5,5527,2024/06/25
+DRV_00010,Devan,Joubert,Pretoria,Uber,0.25,4.1,311,2022/12/24
+DRV_00011,Willem,Pillay,Gqeberha,Bolt,0.2,4.32,302,2024/02/19
+DRV_00012,Sipho,Hendricks,Potchefstroom,Bolt,0.2,4.46,5612,2023/04/20
+DRV_00013,Khotso,Hendricks,Pretoria,Uber,0.25,4.75,589,2024/06/05
+DRV_00014,Chad,Fortuin,Vanderbijlpark,Uber,0.25,4.45,5450,2024/02/20
+DRV_00015,Chester,Johnson,Durban,Dual-Platform (Both),0.22,4.37,1481,2022/12/27
+DRV_00016,Nthabiseng,Moodley,Johannesburg,Uber,0.25,4.64,5847,2022/01/30
+DRV_00017,Mulalo,Smit,Potchefstroom,Bolt,0.2,4.39,3934,2022/03/01
+DRV_00018,Johan,Smit,Johannesburg,Uber,0.25,4.68,5391,2024/08/14
+DRV_00019,Kabelo,Reddy,Gqeberha,Dual-Platform (Both),0.22,4.43,3019,2024/07/19
+DRV_00020,Willem,Hendricks,Gqeberha,Dual-Platform (Both),0.22,4.36,2471,2023/12/14
+DRV_00021,Keanu,Williams,Durban,Uber,0.25,4.42,3425,2024/07/14
+DRV_00022,Ayrton,Petersen,Potchefstroom,Dual-Platform (Both),0.22,4.69,492,2023/01/24
+DRV_00023,Pieter,Govender,Vanderbijlpark,Dual-Platform (Both),0.22,4.8,1471,2022/03/14
+DRV_00024,Kavita,Phakathi,Cape Town,Bolt,0.2,4.32,4340,2022/06/06
+DRV_00025,Bradley,Molefe,Gqeberha,Uber,0.25,4.67,5333,2023/02/13
+DRV_00026,Brandon,Makhanya,Vanderbijlpark,Bolt,0.2,4.16,4441,2022/12/19
+DRV_00027,Tebogo,Moosa,Pretoria,Dual-Platform (Both),0.22,4.7,6176,2024/04/21
+DRV_00028,Sbusiso,Cupido,Pretoria,Dual-Platform (Both),0.22,4.42,2746,2024/12/27
+DRV_00029,Sbusiso,Govender,Johannesburg,Bolt,0.2,4.63,1272,2023/12/28
+DRV_00030,Brandon,Oosthuizen,Pretoria,Dual-Platform (Both),0.22,4.28,5504,2024/04/25
+DRV_00031,Sumaiya,Modise,Durban,Dual-Platform (Both),0.22,4.12,2428,2023/07/23
+DRV_00032,Brandon,Abrahams,Pretoria,Dual-Platform (Both),0.22,4.59,2171,2024/12/12
+DRV_00033,Monique,Pretorius,Potchefstroom,Bolt,0.2,4.48,2715,2023/02/15
+DRV_00034,Ayesha,Modise,Cape Town,Dual-Platform (Both),0.22,4.23,2141,2023/07/08
+DRV_00035,Ayrton,Botha,Johannesburg,Dual-Platform (Both),0.22,4.41,4778,2024/08/28
+DRV_00036,Cheslyn,Zulu,Potchefstroom,Bolt,0.2,4.97,5559,2022/04/25
+DRV_00037,Nirav,Hendricks,Johannesburg,Dual-Platform (Both),0.22,4.69,1773,2024/11/11
+DRV_00038,Suraj,Fortuin,Potchefstroom,Bolt,0.2,4.59,877,2023/06/06
+DRV_00039,Suraj,Mbalula,Gqeberha,Dual-Platform (Both),0.22,4.97,2474,2022/07/25
+DRV_00040,Anika,Khumalo,Johannesburg,Bolt,0.2,4.92,3677,2024/08/31
+DRV_00041,Kevin,Mokoena,Gqeberha,Uber,0.25,4.43,2579,2022/09/22
+DRV_00042,Zola,van der Merwe,Gqeberha,Uber,0.25,4.1,427,2022/12/07
+DRV_00043,Thandeka,Bester,Durban,Uber,0.25,4.27,2973,2024/02/12
+DRV_00044,Tumelo,van der Merwe,Cape Town,Dual-Platform (Both),0.22,4.33,3049,2024/10/09
+DRV_00045,Mthokozisi,Singh,Potchefstroom,Bolt,0.2,4.55,528,2024/01/11
+DRV_00046,Brandon,Kruger,Cape Town,Bolt,0.2,4.78,5546,2024/07/17
+DRV_00047,Ntsako,Makhanya,Vanderbijlpark,Uber,0.25,4.39,6705,2022/01/21
+DRV_00048,Katlego,Davies,Gqeberha,Uber,0.25,4.89,5692,2022/12/29
+DRV_00049,Amina,Hendricks,Gqeberha,Dual-Platform (Both),0.22,4.14,1513,2022/08/23
+DRV_00050,Tamtyn,Solomons,Vanderbijlpark,Uber,0.25,4.8,3297,2024/11/10
+DRV_00051,Palesa,Julies,Gqeberha,Uber,0.25,4.53,6563,2022/02/07
+DRV_00052,Nandipha,Makhanya,Vanderbijlpark,Uber,0.25,4.86,1967,2023/05/22
+DRV_00053,David,Venter,Cape Town,Bolt,0.2,4.88,1156,2024/01/01
+DRV_00054,Thandeka,Govender,Durban,Dual-Platform (Both),0.22,4.43,4498,2024/05/03
+DRV_00055,Yusuf,Mabena,Johannesburg,Uber,0.25,4.43,6719,2022/05/24
+DRV_00056,Zanele,Taylor,Cape Town,Dual-Platform (Both),0.22,4.51,181,2024/03/02
+DRV_00057,Lerato,Naidoo,Potchefstroom,Uber,0.25,4.55,5310,2024/02/14
+DRV_00058,Tumelo,Pillay,Potchefstroom,Uber,0.25,4.63,1088,2024/01/30
+DRV_00059,Megan,Khumalo,Gqeberha,Uber,0.25,4.83,3272,2024/01/05
+DRV_00060,Nthabiseng,Adams,Cape Town,Bolt,0.2,4.16,2056,2024/10/05
+DRV_00061,Thabo,Ndlovu,Durban,Uber,0.25,4.65,2489,2022/07/14
+DRV_00062,Ayesha,Ndlovu,Cape Town,Uber,0.25,4.26,4120,2024/07/27
+DRV_00063,Nthabiseng,Khoza,Cape Town,Bolt,0.2,4.44,246,2023/03/10
+DRV_00064,Kiran,Singh,Gqeberha,Dual-Platform (Both),0.22,4.2,6221,2023/11/18
+DRV_00065,Keanu,Fortuin,Cape Town,Uber,0.25,4.64,4664,2022/06/26
+DRV_00066,Chad,Molefe,Vanderbijlpark,Dual-Platform (Both),0.22,4.55,3914,2024/04/10
+DRV_00067,Elize,Miller,Potchefstroom,Uber,0.25,4.41,761,2023/06/25
+DRV_00068,Gareth,Phakathi,Potchefstroom,Uber,0.25,4.37,3655,2023/08/11
+DRV_00069,Samantha,Ndlovu,Potchefstroom,Uber,0.25,4.13,2621,2024/02/05
+DRV_00070,Ayesha,Pillay,Durban,Uber,0.25,4.3,6668,2022/09/13
+DRV_00071,Ntsako,Venter,Pretoria,Dual-Platform (Both),0.22,4.57,6138,2023/07/22
+DRV_00072,Stacy,Brown,Vanderbijlpark,Uber,0.25,4.59,885,2023/11/13
+DRV_00073,Cheslyn,Petersen,Durban,Dual-Platform (Both),0.22,4.97,3269,2024/07/31
+DRV_00074,Thabo,Molefe,Cape Town,Dual-Platform (Both),0.22,4.21,1902,2022/12/31
+DRV_00075,Keanu,Smith,Potchefstroom,Bolt,0.2,4.42,4490,2024/04/27
+DRV_00076,Sumaiya,Fourie,Potchefstroom,Bolt,0.2,4.87,5983,2024/03/02
+DRV_00077,David,Dawood,Johannesburg,Uber,0.25,4.8,2176,2024/12/14
+DRV_00078,Sarah,Nel,Potchefstroom,Dual-Platform (Both),0.22,4.72,3439,2022/09/12
+DRV_00079,Yusuf,Smith,Cape Town,Dual-Platform (Both),0.22,4.88,2711,2024/10/03
+DRV_00080,Willem,Bester,Gqeberha,Uber,0.25,4.9,2198,2023/09/06
+DRV_00081,Zubair,Mabena,Potchefstroom,Uber,0.25,4.22,4093,2024/01/13
+DRV_00082,Tariq,Zulu,Gqeberha,Bolt,0.2,4.94,5972,2022/06/07
+DRV_00083,Tebogo,Ismail,Cape Town,Uber,0.25,4.79,521,2022/07/31
+DRV_00084,Stefan,Botha,Johannesburg,Uber,0.25,4.18,1760,2023/02/27
+DRV_00085,Nandipha,Harrison,Durban,Dual-Platform (Both),0.22,4.55,5336,2023/09/24
+DRV_00086,Megan,Taylor,Johannesburg,Uber,0.25,4.69,3877,2023/06/07
+DRV_00087,Dylan,Williams,Cape Town,Bolt,0.2,4.77,1222,2024/06/21
+DRV_00088,Nthabiseng,Fortuin,Gqeberha,Dual-Platform (Both),0.22,4.77,5159,2022/10/01
+DRV_00089,Luyanda,Chetty,Cape Town,Bolt,0.2,4.94,5465,2023/04/19
+DRV_00090,Francois,Chetty,Cape Town,Bolt,0.2,4.2,6498,2022/08/09
+DRV_00091,Kabelo,Ramaphosa,Potchefstroom,Uber,0.25,4.87,1703,2023/07/30
+DRV_00092,Devan,Botha,Potchefstroom,Uber,0.25,4.34,3226,2024/06/10
+DRV_00093,Nthabiseng,Majozi,Pretoria,Dual-Platform (Both),0.22,4.97,4047,2024/09/04
+DRV_00094,Dakalo,Khumalo,Pretoria,Bolt,0.2,4.4,5613,2024/12/18
+DRV_00095,Lungile,Petersen,Cape Town,Uber,0.25,4.74,5438,2022/08/28
+DRV_00096,Megan,Mbalula,Vanderbijlpark,Uber,0.25,4.4,2777,2022/10/17
+DRV_00097,Chantelle,Fourie,Vanderbijlpark,Uber,0.25,4.14,4690,2024/02/11
+DRV_00098,Luyanda,Walker,Vanderbijlpark,Dual-Platform (Both),0.22,4.77,3350,2022/08/10
+DRV_00099,Lungile,Patel,Durban,Uber,0.25,4.18,5875,2022/07/31
+DRV_00100,Anika,Fourie,Vanderbijlpark,Uber,0.25,4.12,3673,2022/08/17
+DRV_00101,Mulalo,Julies,Potchefstroom,Dual-Platform (Both),0.22,4.54,5022,2024/10/03
+DRV_00102,Suraj,Moodley,Potchefstroom,Bolt,0.2,4.49,1194,2024/04/02
+DRV_00103,Ashley,Phakathi,Potchefstroom,Dual-Platform (Both),0.22,4.29,3736,2023/10/20
+DRV_00104,Mpho,Nkosi,Johannesburg,Uber,0.25,4.77,5702,2024/09/28
+DRV_00105,Megan,Mthembu,Vanderbijlpark,Uber,0.25,4.34,4011,2024/07/21
+DRV_00106,Nthabiseng,Moosa,Vanderbijlpark,Uber,0.25,4.91,636,2024/08/28
+DRV_00107,Sipho,Majozi,Cape Town,Bolt,0.2,4.79,3263,2023/09/23
+DRV_00108,Chantelle,Nel,Johannesburg,Dual-Platform (Both),0.22,4.34,1370,2024/04/18
+DRV_00109,Willem,Singh,Durban,Bolt,0.2,4.33,5859,2022/09/12
+DRV_00110,Michael,Cupido,Cape Town,Dual-Platform (Both),0.22,4.66,4935,2022/04/27
+DRV_00111,Willem,Moodley,Johannesburg,Dual-Platform (Both),0.22,4.22,4061,2024/06/20
+DRV_00112,Tamtyn,Chetty,Durban,Bolt,0.2,4.45,6772,2024/06/21
+DRV_00113,Megan,Kruger,Cape Town,Dual-Platform (Both),0.22,4.35,3422,2022/05/12
+DRV_00114,Stacy,Padayachee,Pretoria,Bolt,0.2,4.18,4311,2023/05/05
+DRV_00115,Rohan,Abrahams,Durban,Uber,0.25,4.26,5299,2023/07/28
+DRV_00116,Kayla,Sithole,Gqeberha,Dual-Platform (Both),0.22,4.43,1030,2023/01/26
+DRV_00117,Bradley,Ndlovu,Gqeberha,Dual-Platform (Both),0.22,4.93,820,2023/06/18
+DRV_00118,Ayrton,du Plessis,Cape Town,Uber,0.25,4.91,6354,2024/03/10
+DRV_00119,Sarah,Jacobs,Potchefstroom,Bolt,0.2,4.52,6415,2022/10/22
+DRV_00120,Zanele,Bester,Johannesburg,Bolt,0.2,4.47,2960,2024/05/27
+DRV_00121,Zaheer,Dawood,Cape Town,Uber,0.25,4.23,4149,2024/02/17
+DRV_00122,Ayesha,Abrahams,Vanderbijlpark,Dual-Platform (Both),0.22,4.13,2513,2024/09/14
+DRV_00123,Dylan,Cassim,Cape Town,Bolt,0.2,4.37,2076,2022/10/22
+DRV_00124,Kevin,Dawood,Durban,Bolt,0.2,4.26,1633,2022/07/09
+DRV_00125,Sumaiya,Davies,Durban,Bolt,0.2,4.67,5707,2024/01/09
+DRV_00126,Lungile,Kruger,Durban,Uber,0.25,4.62,3087,2024/06/25
+DRV_00127,Ayesha,Smith,Potchefstroom,Bolt,0.2,4.91,2067,2024/12/11
+DRV_00128,Bandile,Fourie,Pretoria,Uber,0.25,4.17,2485,2023/10/10
+DRV_00129,Tebogo,Mahomed,Johannesburg,Dual-Platform (Both),0.22,4.12,6393,2022/04/14
+DRV_00130,Monique,Fortuin,Potchefstroom,Dual-Platform (Both),0.22,4.98,1160,2022/07/14
+DRV_00131,Tamtyn,Modise,Potchefstroom,Uber,0.25,4.68,1626,2024/06/26
+DRV_00132,Zaheer,Fourie,Cape Town,Dual-Platform (Both),0.22,4.86,6556,2024/01/31
+DRV_00133,Kevin,Tau,Pretoria,Bolt,0.2,4.32,6272,2022/09/16
+DRV_00134,Johan,Mbalula,Pretoria,Bolt,0.2,4.23,6246,2024/08/26
+DRV_00135,Tshepo,Cupido,Pretoria,Uber,0.25,4.7,5678,2024/01/08
+DRV_00136,Dakalo,Davies,Gqeberha,Bolt,0.2,4.73,511,2024/05/24
+DRV_00137,Samantha,Zulu,Vanderbijlpark,Bolt,0.2,4.17,2182,2023/02/17
+DRV_00138,Tebogo,Fourie,Potchefstroom,Dual-Platform (Both),0.22,4.92,6132,2022/05/15
+DRV_00139,Nthabiseng,Ismail,Gqeberha,Bolt,0.2,4.55,5634,2023/01/24
+DRV_00140,Fatima,Isaacs,Durban,Bolt,0.2,4.35,6396,2023/12/24
+DRV_00141,Palesa,Joubert,Potchefstroom,Uber,0.25,4.34,1314,2022/04/30
+DRV_00142,Rethabile,Chauke,Potchefstroom,Bolt,0.2,4.95,331,2022/10/05
+DRV_00143,Stefan,Smit,Cape Town,Bolt,0.2,4.91,5294,2023/02/12
+DRV_00144,Tumelo,Pretorius,Cape Town,Uber,0.25,4.5,5776,2022/01/28
+DRV_00145,Suné,Govender,Cape Town,Dual-Platform (Both),0.22,4.18,3491,2022/09/05
+DRV_00146,Chad,Sithole,Pretoria,Dual-Platform (Both),0.22,4.25,3706,2024/04/24
+DRV_00147,Chad,Steyn,Cape Town,Bolt,0.2,4.46,2137,2024/01/06
+DRV_00148,Khotso,Joubert,Vanderbijlpark,Uber,0.25,4.2,3854,2023/08/05
+DRV_00149,Tamtyn,Makhanya,Potchefstroom,Bolt,0.2,4.23,5169,2023/12/31
+DRV_00150,Megan,Molefe,Potchefstroom,Bolt,0.2,4.75,4658,2022/03/17
+DRV_00151,Tamtyn,Brown,Pretoria,Bolt,0.2,4.3,3158,2022/02/16
+DRV_00152,Zaheer,Chetty,Durban,Uber,0.25,4.37,2914,2023/06/06
+DRV_00153,Chester,Sithole,Vanderbijlpark,Uber,0.25,4.74,1725,2022/03/22
+DRV_00154,Ashley,Chetty,Cape Town,Bolt,0.2,4.58,2407,2023/12/08
+DRV_00155,Chester,Patel,Gqeberha,Uber,0.25,4.78,1753,2024/10/21
+DRV_00156,Zubair,Dawood,Potchefstroom,Dual-Platform (Both),0.22,4.7,1904,2023/07/03
+DRV_00157,Suné,Adams,Gqeberha,Dual-Platform (Both),0.22,4.3,3359,2022/04/09
+DRV_00158,Stefan,Joubert,Vanderbijlpark,Bolt,0.2,4.63,2270,2024/10/17
+DRV_00159,Ayesha,Oosthuizen,Potchefstroom,Bolt,0.2,4.71,3808,2022/08/05
+DRV_00160,Thandeka,Solomons,Cape Town,Uber,0.25,4.67,5972,2024/10/21
+DRV_00161,Dylan,Mabena,Cape Town,Uber,0.25,4.66,5446,2024/12/10
+DRV_00162,Cheslyn,van der Merwe,Vanderbijlpark,Uber,0.25,4.2,4049,2023/09/20
+DRV_00163,Mpho,Singh,Pretoria,Bolt,0.2,4.72,3181,2022/07/03
+DRV_00164,Bandile,Khumalo,Vanderbijlpark,Bolt,0.2,4.22,5354,2022/09/23
+DRV_00165,Gareth,Miller,Cape Town,Uber,0.25,4.12,5264,2024/05/18
+DRV_00166,Francois,Mokoena,Potchefstroom,Bolt,0.2,4.85,1512,2022/08/29
+DRV_00167,Zanele,Coetzee,Durban,Bolt,0.2,4.77,669,2023/07/18
+DRV_00168,Mulalo,Naidoo,Vanderbijlpark,Uber,0.25,4.73,2040,2023/04/27
+DRV_00169,Amina,Fortuin,Johannesburg,Bolt,0.2,4.38,6286,2024/06/14
+DRV_00170,Pieter,Singh,Vanderbijlpark,Bolt,0.2,4.36,4812,2022/12/30
+DRV_00171,Jessica,Cassim,Vanderbijlpark,Dual-Platform (Both),0.22,4.78,3049,2023/03/29
+DRV_00172,Bradley,Johnson,Cape Town,Uber,0.25,4.14,6706,2025/01/01
+DRV_00173,Nandipha,Moodley,Pretoria,Bolt,0.2,4.16,373,2024/02/29
+DRV_00174,Lerato,Nel,Cape Town,Dual-Platform (Both),0.22,4.94,1969,2022/11/25
+DRV_00175,Dakalo,Bester,Potchefstroom,Dual-Platform (Both),0.22,4.71,220,2024/02/19
+DRV_00176,Simphiwe,Ismail,Cape Town,Bolt,0.2,4.71,798,2022/05/29
+DRV_00177,Tamtyn,Kruger,Gqeberha,Uber,0.25,4.83,4782,2023/04/13
+DRV_00178,Tebogo,Fortuin,Johannesburg,Bolt,0.2,4.53,609,2022/03/21
+DRV_00179,David,Oosthuizen,Gqeberha,Dual-Platform (Both),0.22,4.88,2792,2022/07/25
+DRV_00180,Rohan,Zulu,Vanderbijlpark,Bolt,0.2,4.82,1072,2024/01/08
+DRV_00181,Lungile,Fourie,Gqeberha,Uber,0.25,4.54,4135,2023/05/15
+DRV_00182,Bradley,Modise,Johannesburg,Bolt,0.2,4.45,5761,2023/10/13
+DRV_00183,Samantha,Chetty,Gqeberha,Dual-Platform (Both),0.22,4.34,3938,2022/07/12
+DRV_00184,Michael,Johnson,Vanderbijlpark,Dual-Platform (Both),0.22,4.98,4048,2022/07/26
+DRV_00185,Amina,Mthembu,Pretoria,Uber,0.25,4.47,6720,2022/11/18
+DRV_00186,Jessica,Venter,Vanderbijlpark,Bolt,0.2,4.19,5701,2024/11/09
+DRV_00187,Sarah,Cassim,Vanderbijlpark,Uber,0.25,4.32,5243,2024/09/27
+DRV_00188,Sbusiso,Williams,Durban,Uber,0.25,4.15,4815,2022/09/28
+DRV_00189,Kabelo,Khumalo,Cape Town,Uber,0.25,4.28,2584,2024/12/08
+DRV_00190,Chad,Fortuin,Johannesburg,Dual-Platform (Both),0.22,4.13,3115,2024/07/30
+DRV_00191,Stefan,Joubert,Johannesburg,Dual-Platform (Both),0.22,4.81,2922,2024/05/18
+DRV_00192,Khensani,Smit,Cape Town,Bolt,0.2,4.55,1395,2023/01/11
+DRV_00193,Jacques,Mokoena,Pretoria,Bolt,0.2,4.51,3385,2023/02/04
+DRV_00194,Tumelo,Bezuidenhout,Vanderbijlpark,Uber,0.25,4.22,3792,2024/07/16
+DRV_00195,Nthabiseng,Molefe,Gqeberha,Dual-Platform (Both),0.22,4.12,4217,2023/01/15
+DRV_00196,Dakalo,Modise,Gqeberha,Dual-Platform (Both),0.22,4.11,6447,2024/08/12
+DRV_00197,Dylan,Smith,Cape Town,Dual-Platform (Both),0.22,4.36,6620,2024/02/08
+DRV_00198,Brandon,Reddy,Pretoria,Uber,0.25,4.99,2479,2022/12/14
+DRV_00199,Megan,Solomons,Johannesburg,Bolt,0.2,4.13,4276,2024/01/30
+DRV_00200,Nirav,Miller,Gqeberha,Dual-Platform (Both),0.22,4.83,4799,2023/08/01
+DRV_00201,Devan,Chauke,Johannesburg,Dual-Platform (Both),0.22,4.96,1301,2023/04/14
+DRV_00202,Monique,Mthembu,Cape Town,Uber,0.25,4.93,3436,2024/12/07
+DRV_00203,Yusuf,Mahomed,Potchefstroom,Dual-Platform (Both),0.22,4.31,3486,2022/04/25
+DRV_00204,Dylan,Williams,Pretoria,Bolt,0.2,4.88,5640,2023/05/30
+DRV_00205,Pieter,du Plessis,Gqeberha,Uber,0.25,4.18,6634,2023/11/06
+DRV_00206,Kevin,Williams,Pretoria,Bolt,0.2,4.84,203,2023/08/03
+DRV_00207,Nirav,Chetty,Pretoria,Uber,0.25,4.46,4364,2023/10/01
+DRV_00208,Kiran,Solomons,Durban,Dual-Platform (Both),0.22,4.55,1130,2023/05/07
+DRV_00209,Luyanda,Ndlovu,Durban,Uber,0.25,4.59,3586,2022/11/28
+DRV_00210,Stacy,Majozi,Pretoria,Bolt,0.2,4.83,4709,2022/12/07
+DRV_00211,Chad,Pretorius,Johannesburg,Uber,0.25,4.5,3893,2023/12/05
+DRV_00212,Kiran,Tau,Vanderbijlpark,Uber,0.25,4.72,3140,2022/05/18
+DRV_00213,Ntsako,Botha,Vanderbijlpark,Bolt,0.2,4.69,3965,2023/03/26
+DRV_00214,Dylan,Moodley,Pretoria,Uber,0.25,4.42,6258,2022/03/11
+DRV_00215,Mulalo,Bester,Potchefstroom,Dual-Platform (Both),0.22,4.58,3206,2024/06/02
+DRV_00216,Cheslyn,Chauke,Pretoria,Bolt,0.2,4.69,6524,2024/07/23
+DRV_00217,Tumelo,Petersen,Gqeberha,Bolt,0.2,4.5,1512,2022/04/13
+DRV_00218,Devan,Makhanya,Gqeberha,Bolt,0.2,4.64,2238,2024/03/09
+DRV_00219,Tumelo,Padayachee,Cape Town,Bolt,0.2,4.89,4790,2023/05/06
+DRV_00220,Nirav,Johnson,Johannesburg,Bolt,0.2,4.23,1552,2023/02/26
+DRV_00221,David,Botha,Pretoria,Uber,0.25,4.18,4173,2023/11/05
+DRV_00222,Willem,Joubert,Durban,Uber,0.25,4.13,1883,2023/05/29
+DRV_00223,David,du Plessis,Cape Town,Bolt,0.2,4.15,5801,2022/10/10
+DRV_00224,Samantha,Jacobs,Durban,Bolt,0.2,4.45,5907,2023/11/15
+DRV_00225,Ayesha,Mthembu,Potchefstroom,Uber,0.25,4.26,573,2022/07/03
+DRV_00226,Mpho,du Plessis,Durban,Bolt,0.2,4.54,3650,2022/11/06
+DRV_00227,Dylan,Miller,Gqeberha,Dual-Platform (Both),0.22,4.35,345,2024/08/27
+DRV_00228,Luyanda,Molefe,Cape Town,Uber,0.25,4.96,895,2024/12/21
+DRV_00229,Michael,Nel,Durban,Dual-Platform (Both),0.22,4.81,2736,2023/07/31
+DRV_00230,Bandile,Oosthuizen,Gqeberha,Uber,0.25,4.64,5877,2024/08/01
+DRV_00231,Johan,du Plessis,Potchefstroom,Dual-Platform (Both),0.22,4.99,5232,2023/07/10
+DRV_00232,Francois,Botha,Vanderbijlpark,Bolt,0.2,4.5,3946,2022/02/11
+DRV_00233,Tamtyn,Steyn,Cape Town,Uber,0.25,4.95,418,2024/10/31
+DRV_00234,Mpho,du Plessis,Gqeberha,Dual-Platform (Both),0.22,4.97,990,2024/12/29
+DRV_00235,Nirav,Fourie,Potchefstroom,Bolt,0.2,4.41,6503,2023/06/21
+DRV_00236,Michael,Baloyi,Johannesburg,Bolt,0.2,4.8,5318,2022/11/17
+DRV_00237,Khensani,Fourie,Gqeberha,Uber,0.25,4.55,6314,2023/07/03
+DRV_00238,Suné,Adams,Potchefstroom,Dual-Platform (Both),0.22,4.92,1134,2023/11/17
+DRV_00239,Simphiwe,Cupido,Durban,Bolt,0.2,4.47,2657,2022/02/22
+DRV_00240,Yusuf,Chetty,Vanderbijlpark,Dual-Platform (Both),0.22,4.73,2595,2024/06/23
+DRV_00241,Nirav,Bester,Pretoria,Uber,0.25,4.48,4741,2024/03/23
+DRV_00242,Devan,Solomons,Vanderbijlpark,Uber,0.25,4.22,3651,2022/03/24
+DRV_00243,Chester,Reddy,Johannesburg,Bolt,0.2,4.29,426,2022/08/30
+DRV_00244,Willem,Venter,Potchefstroom,Uber,0.25,4.81,3048,2023/09/05
+DRV_00245,Stefan,Mahomed,Potchefstroom,Bolt,0.2,4.68,1504,2024/04/18
+DRV_00246,Chester,Mabena,Gqeberha,Dual-Platform (Both),0.22,4.92,620,2023/04/30
+DRV_00247,Siyabonga,Smit,Cape Town,Bolt,0.2,4.8,6655,2023/02/16
+DRV_00248,Zola,Dlamini,Durban,Dual-Platform (Both),0.22,4.99,2205,2023/04/25
+DRV_00249,Rethabile,du Plessis,Johannesburg,Uber,0.25,4.59,4192,2022/03/04
+DRV_00250,Cheslyn,du Plessis,Vanderbijlpark,Dual-Platform (Both),0.22,4.65,4192,2022/02/09
+DRV_00251,Tariq,Steyn,Durban,Uber,0.25,4.64,3648,2023/06/24
+DRV_00252,Stacy,Naidoo,Johannesburg,Dual-Platform (Both),0.22,4.66,807,2022/02/05
+DRV_00253,Chantelle,Coetzee,Cape Town,Bolt,0.2,4.97,3095,2022/04/12
+DRV_00254,Simphiwe,Singh,Potchefstroom,Bolt,0.2,4.96,4508,2022/11/21
+DRV_00255,Rulani,Mabena,Johannesburg,Dual-Platform (Both),0.22,4.13,602,2023/06/03
+DRV_00256,Megan,Singh,Potchefstroom,Dual-Platform (Both),0.22,4.59,3954,2022/06/28
+DRV_00257,Rulani,Brown,Johannesburg,Dual-Platform (Both),0.22,4.5,4542,2022/06/04
+DRV_00258,Tariq,Khumalo,Johannesburg,Uber,0.25,4.11,6503,2023/05/25
+DRV_00259,Luyanda,Walker,Pretoria,Uber,0.25,4.49,1860,2023/01/31
+DRV_00260,Jessica,Ndlovu,Durban,Uber,0.25,4.14,238,2022/01/11
+DRV_00261,Siyabonga,Cupido,Durban,Uber,0.25,4.32,2454,2024/12/25
+DRV_00262,Anika,Harrison,Potchefstroom,Uber,0.25,4.32,5280,2022/07/14
+DRV_00263,Ntsako,Mbalula,Gqeberha,Dual-Platform (Both),0.22,4.33,920,2024/05/20
+DRV_00264,Keanu,Nel,Vanderbijlpark,Uber,0.25,4.73,4523,2024/04/10
+DRV_00265,Luyanda,Oosthuizen,Potchefstroom,Bolt,0.2,4.51,4213,2024/03/24
+DRV_00266,Kiran,Govender,Potchefstroom,Bolt,0.2,4.37,1496,2024/09/23
+DRV_00267,Dylan,Cupido,Gqeberha,Dual-Platform (Both),0.22,4.11,4804,2024/06/08
+DRV_00268,Tariq,Khan,Potchefstroom,Uber,0.25,4.16,5405,2022/03/02
+DRV_00269,Sarah,Ndlovu,Vanderbijlpark,Uber,0.25,4.73,4079,2022/01/12
+DRV_00270,Megan,du Plessis,Gqeberha,Bolt,0.2,4.26,6565,2022/04/20
+DRV_00271,Dakalo,Phakathi,Vanderbijlpark,Bolt,0.2,4.35,6103,2022/05/24
+DRV_00272,Sbusiso,Mahomed,Durban,Uber,0.25,4.37,1060,2023/06/07
+DRV_00273,Zola,Harrison,Johannesburg,Uber,0.25,4.52,2633,2023/07/27
+DRV_00274,Chad,Dlamini,Potchefstroom,Dual-Platform (Both),0.22,4.52,5664,2023/05/31
+DRV_00275,Kevin,Baloyi,Cape Town,Dual-Platform (Both),0.22,4.99,5625,2022/12/04
+DRV_00276,Thandeka,Hendricks,Gqeberha,Bolt,0.2,4.37,2620,2023/01/28
+DRV_00277,Sarah,Khumalo,Durban,Uber,0.25,4.96,5530,2023/11/21
+DRV_00278,Kavita,Kruger,Gqeberha,Dual-Platform (Both),0.22,4.46,4210,2023/04/02
+DRV_00279,Khotso,Nel,Vanderbijlpark,Dual-Platform (Both),0.22,4.82,4226,2024/11/02
+DRV_00280,Siyabonga,Abrahams,Pretoria,Bolt,0.2,4.21,3929,2023/05/24
+DRV_00281,Kabelo,Khan,Johannesburg,Dual-Platform (Both),0.22,4.47,1360,2024/09/08
+DRV_00282,Bongani,Mbalula,Gqeberha,Dual-Platform (Both),0.22,4.2,2280,2023/08/13
+DRV_00283,Kiran,Khoza,Vanderbijlpark,Dual-Platform (Both),0.22,4.92,4645,2022/06/29
+DRV_00284,Nandipha,Abrahams,Pretoria,Bolt,0.2,4.73,5273,2023/06/10
+DRV_00285,Stefan,Abrahams,Cape Town,Uber,0.25,4.23,1218,2022/04/30
+DRV_00286,Anika,Majozi,Cape Town,Bolt,0.2,4.24,1270,2023/06/16
+DRV_00287,Rethabile,Molefe,Durban,Uber,0.25,4.58,5422,2023/01/13
+DRV_00288,Willem,Padayachee,Durban,Dual-Platform (Both),0.22,4.19,3979,2023/06/02
+DRV_00289,Megan,Adams,Vanderbijlpark,Uber,0.25,4.4,4486,2023/05/14
+DRV_00290,Ayrton,Nel,Cape Town,Dual-Platform (Both),0.22,4.46,4666,2023/08/16
+DRV_00291,Mulalo,Tau,Pretoria,Uber,0.25,4.29,6357,2023/11/14
+DRV_00292,Luyanda,Reddy,Vanderbijlpark,Uber,0.25,4.95,4334,2023/02/10
+DRV_00293,Thandeka,Padayachee,Cape Town,Uber,0.25,4.56,6215,2023/03/04
+DRV_00294,Dylan,Sithole,Pretoria,Bolt,0.2,4.74,1165,2024/09/24
+DRV_00295,Francois,Campbell,Pretoria,Uber,0.25,4.91,1126,2023/06/16
+DRV_00296,Kevin,Chetty,Pretoria,Dual-Platform (Both),0.22,4.56,6093,2022/12/25
+DRV_00297,Rulani,Moosa,Cape Town,Uber,0.25,4.33,997,2022/12/19
+DRV_00298,Tshepo,Mbalula,Vanderbijlpark,Bolt,0.2,4.91,4243,2024/08/11
+DRV_00299,Palesa,Jacobs,Cape Town,Bolt,0.2,4.62,3359,2023/02/09
+DRV_00300,Kagiso,Davies,Vanderbijlpark,Bolt,0.2,4.65,4178,2023/02/03
+DRV_00301,Zola,Louw,Durban,Bolt,0.2,4.3,2917,2023/08/24
+DRV_00302,Bradley,Cupido,Johannesburg,Uber,0.25,4.4,366,2023/12/11
+DRV_00303,Tariq,Chetty,Potchefstroom,Uber,0.25,4.26,2984,2024/05/02
+DRV_00304,Priya,Oosthuizen,Potchefstroom,Uber,0.25,4.37,4510,2022/03/15
+DRV_00305,Luyanda,Pillay,Gqeberha,Bolt,0.2,4.38,5688,2023/09/16
+DRV_00306,Kagiso,Mabena,Johannesburg,Uber,0.25,4.23,6454,2024/12/05
+DRV_00307,Kiran,Miller,Johannesburg,Uber,0.25,4.28,5812,2022/12/15
+DRV_00308,Mthokozisi,van der Merwe,Vanderbijlpark,Dual-Platform (Both),0.22,4.63,2858,2022/03/22
+DRV_00309,Cheslyn,Zulu,Potchefstroom,Dual-Platform (Both),0.22,4.97,1802,2024/04/27
+DRV_00310,Ntsako,Pillay,Johannesburg,Uber,0.25,4.85,1375,2023/05/11
+DRV_00311,Priya,Mbalula,Johannesburg,Dual-Platform (Both),0.22,4.94,6033,2023/02/08
+DRV_00312,Katlego,Joubert,Cape Town,Uber,0.25,4.67,6341,2024/09/06
+DRV_00313,Suné,Smit,Vanderbijlpark,Uber,0.25,5,6453,2024/10/27
+DRV_00314,Tshepo,Chauke,Potchefstroom,Uber,0.25,4.31,4542,2022/04/24
+DRV_00315,Rohan,Taylor,Potchefstroom,Dual-Platform (Both),0.22,4.14,5661,2023/04/28
+DRV_00316,Dakalo,Mokoena,Durban,Dual-Platform (Both),0.22,4.17,3922,2024/09/06
+DRV_00317,Megan,Zulu,Johannesburg,Bolt,0.2,4.77,2843,2022/08/15
+DRV_00318,Rethabile,Pillay,Pretoria,Bolt,0.2,4.46,6605,2024/06/07
+DRV_00319,Chad,Nel,Potchefstroom,Uber,0.25,4.99,2218,2023/04/07
+DRV_00320,Zubair,Adams,Pretoria,Uber,0.25,4.32,3628,2022/10/30
+DRV_00321,Gareth,Chauke,Vanderbijlpark,Uber,0.25,4.33,1457,2024/04/20
+DRV_00322,Rohan,Ismail,Gqeberha,Bolt,0.2,4.97,6467,2023/02/24
+DRV_00323,Kayla,Singh,Durban,Bolt,0.2,4.95,5328,2023/05/26
+DRV_00324,Mpho,Solomons,Johannesburg,Bolt,0.2,4.24,6384,2022/01/15
+DRV_00325,Ashley,Harrison,Pretoria,Bolt,0.2,4.96,1474,2023/09/04
+DRV_00326,Khotso,Chauke,Cape Town,Uber,0.25,4.36,261,2022/06/23
+DRV_00327,Palesa,Dlamini,Gqeberha,Bolt,0.2,4.26,3241,2022/02/26
+DRV_00328,Brandon,Mabena,Potchefstroom,Bolt,0.2,4.24,6109,2024/03/04
+DRV_00329,Nthabiseng,Khan,Potchefstroom,Dual-Platform (Both),0.22,4.72,4672,2022/02/18
+DRV_00330,Kabelo,Campbell,Gqeberha,Dual-Platform (Both),0.22,4.41,588,2023/03/09
+DRV_00331,Sipho,Pretorius,Gqeberha,Uber,0.25,4.72,6697,2023/10/14
+DRV_00332,Jacques,Botha,Johannesburg,Dual-Platform (Both),0.22,4.2,4999,2024/05/02
+DRV_00333,Thabo,Williams,Vanderbijlpark,Bolt,0.2,4.43,6002,2023/05/13
+DRV_00334,Dylan,Govender,Gqeberha,Dual-Platform (Both),0.22,4.18,2112,2024/11/30
+DRV_00335,Chad,Padayachee,Cape Town,Dual-Platform (Both),0.22,4.94,1012,2024/01/25
+DRV_00336,Sbusiso,Makhanya,Vanderbijlpark,Dual-Platform (Both),0.22,4.11,1034,2023/12/19
+DRV_00337,Dylan,Nkosi,Vanderbijlpark,Uber,0.25,4.52,5444,2023/04/17
+DRV_00338,Dakalo,Mbalula,Vanderbijlpark,Uber,0.25,4.76,3440,2023/12/01
+DRV_00339,Ayesha,Sithole,Vanderbijlpark,Uber,0.25,4.5,2001,2022/08/16
+DRV_00340,Kagiso,Smit,Gqeberha,Bolt,0.2,4.35,3503,2022/01/19
+DRV_00341,Kabelo,Coetzee,Gqeberha,Dual-Platform (Both),0.22,4.95,6402,2024/03/21
+DRV_00342,Jacques,Khumalo,Johannesburg,Uber,0.25,4.19,5869,2022/05/08
+DRV_00343,Tebogo,Khumalo,Pretoria,Uber,0.25,4.41,2826,2024/12/18
+DRV_00344,Palesa,Williams,Vanderbijlpark,Dual-Platform (Both),0.22,4.3,6009,2022/06/16
+DRV_00345,Devan,Joubert,Cape Town,Uber,0.25,4.33,2359,2024/03/10
+DRV_00346,Ntsako,Ndlovu,Johannesburg,Uber,0.25,4.57,2641,2022/10/04
+DRV_00347,Anika,Steyn,Durban,Uber,0.25,4.25,3615,2022/02/21
+DRV_00348,Sbusiso,Botha,Johannesburg,Uber,0.25,4.81,1007,2022/09/01
+DRV_00349,Devan,Kruger,Durban,Bolt,0.2,4.86,1728,2022/10/29
+DRV_00350,Tebogo,Mokoena,Durban,Dual-Platform (Both),0.22,4.98,2303,2022/11/14
+DRV_00351,Stefan,Julies,Pretoria,Dual-Platform (Both),0.22,4.73,6340,2024/08/17
+DRV_00352,Fatima,Cassim,Cape Town,Bolt,0.2,4.12,2268,2024/09/03
+DRV_00353,Zola,Reddy,Gqeberha,Uber,0.25,4.44,4589,2024/11/04
+DRV_00354,Ntsako,Bester,Johannesburg,Dual-Platform (Both),0.22,4.44,3566,2024/06/29
+DRV_00355,Ayesha,Mabena,Potchefstroom,Bolt,0.2,4.46,1432,2022/04/04
+DRV_00356,Ayesha,Mbalula,Pretoria,Dual-Platform (Both),0.22,4.95,3897,2024/05/21
+DRV_00357,Palesa,Ndlovu,Durban,Bolt,0.2,4.98,3015,2022/07/20
+DRV_00358,Johan,Botha,Potchefstroom,Bolt,0.2,4.17,1752,2022/11/10
+DRV_00359,Zola,Makhanya,Cape Town,Dual-Platform (Both),0.22,4.99,3018,2023/07/05
+DRV_00360,Mthokozisi,Modise,Durban,Uber,0.25,4.31,3777,2024/01/21
+DRV_00361,Mpho,Majozi,Durban,Dual-Platform (Both),0.22,4.83,2339,2023/09/14
+DRV_00362,Rohan,Brown,Gqeberha,Dual-Platform (Both),0.22,4.95,2745,2023/11/15
+DRV_00363,Kevin,Zulu,Vanderbijlpark,Uber,0.25,4.87,4452,2024/07/28
+DRV_00364,Stefan,Modise,Johannesburg,Dual-Platform (Both),0.22,4.39,2046,2022/12/26
+DRV_00365,Simphiwe,Zulu,Cape Town,Bolt,0.2,4.38,3144,2023/04/06
+DRV_00366,Bongani,Miller,Gqeberha,Uber,0.25,4.71,2004,2024/08/16
+DRV_00367,Lerato,Mbalula,Johannesburg,Bolt,0.2,4.95,5420,2024/06/11
+DRV_00368,Nirav,Ndlovu,Potchefstroom,Uber,0.25,4.61,4356,2022/01/01
+DRV_00369,Mpho,Mabena,Johannesburg,Dual-Platform (Both),0.22,4.5,4200,2024/12/04
+DRV_00370,Lungile,Oosthuizen,Cape Town,Dual-Platform (Both),0.22,4.21,2847,2022/08/06
+DRV_00371,Tariq,Bester,Pretoria,Uber,0.25,4.15,5475,2023/07/15
+DRV_00372,Fatima,Bezuidenhout,Cape Town,Dual-Platform (Both),0.22,4.79,3904,2022/01/29
+DRV_00373,Kiran,Chetty,Johannesburg,Bolt,0.2,4.24,6528,2022/01/14
+DRV_00374,Priya,Harrison,Pretoria,Uber,0.25,4.2,2695,2022/02/16
+DRV_00375,Nthabiseng,Patel,Pretoria,Uber,0.25,4.74,3806,2023/04/01
+DRV_00376,Megan,Bester,Durban,Dual-Platform (Both),0.22,4.98,4627,2024/10/31
+DRV_00377,Keanu,Petersen,Gqeberha,Dual-Platform (Both),0.22,4.85,1171,2024/01/04
+DRV_00378,Nthabiseng,Harrison,Pretoria,Uber,0.25,4.65,4396,2024/08/25
+DRV_00379,Suraj,Moosa,Pretoria,Dual-Platform (Both),0.22,4.88,3210,2022/10/28
+DRV_00380,Ashley,Davies,Cape Town,Dual-Platform (Both),0.22,4.25,3613,2024/05/02
+DRV_00381,Lungile,Isaacs,Pretoria,Uber,0.25,4.81,1611,2022/10/11
+DRV_00382,Chad,Mbalula,Johannesburg,Dual-Platform (Both),0.22,4.87,5247,2022/10/13
+DRV_00383,David,Bezuidenhout,Gqeberha,Bolt,0.2,4.7,3801,2022/07/02
+DRV_00384,Bandile,Solomons,Cape Town,Bolt,0.2,4.42,3462,2023/07/24
+DRV_00385,Monique,Phakathi,Durban,Bolt,0.2,4.56,5496,2022/01/08
+DRV_00386,Chester,Smith,Pretoria,Uber,0.25,4.86,1915,2022/11/11
+DRV_00387,Sumaiya,Taylor,Vanderbijlpark,Dual-Platform (Both),0.22,4.61,4829,2022/01/15
+DRV_00388,Sipho,Petersen,Durban,Uber,0.25,4.44,3185,2022/07/05
+DRV_00389,Brandon,Adams,Pretoria,Bolt,0.2,4.92,4492,2023/11/16
+DRV_00390,Khensani,Naidoo,Potchefstroom,Uber,0.25,4.2,5658,2022/07/26
+DRV_00391,Simphiwe,Patel,Potchefstroom,Dual-Platform (Both),0.22,4.57,2056,2023/04/05
+DRV_00392,Chester,Kruger,Johannesburg,Dual-Platform (Both),0.22,4.72,6250,2023/10/27
+DRV_00393,Ayrton,Naidoo,Gqeberha,Dual-Platform (Both),0.22,4.84,3977,2022/02/06
+DRV_00394,Cheslyn,Mabena,Cape Town,Bolt,0.2,4.78,2447,2022/01/17
+DRV_00395,Palesa,Baloyi,Pretoria,Uber,0.25,4.97,2899,2023/03/16
+DRV_00396,Gareth,Mbalula,Gqeberha,Bolt,0.2,4.65,3565,2023/02/22
+DRV_00397,Khotso,Sithole,Vanderbijlpark,Uber,0.25,4.48,3375,2023/02/25
+DRV_00398,Tamtyn,Miller,Durban,Dual-Platform (Both),0.22,4.53,5613,2022/01/15
+DRV_00399,Ashley,Cassim,Cape Town,Dual-Platform (Both),0.22,4.73,5020,2024/11/02
+DRV_00400,Devan,Dawood,Potchefstroom,Uber,0.25,4.45,3410,2023/03/05
+DRV_00401,Nthabiseng,Steyn,Potchefstroom,Dual-Platform (Both),0.22,4.56,825,2024/11/19
+DRV_00402,Khensani,Venter,Potchefstroom,Dual-Platform (Both),0.22,4.22,6327,2023/06/01
+DRV_00403,Tshepo,Singh,Pretoria,Uber,0.25,4.33,3653,2023/11/26
+DRV_00404,Suné,Smit,Durban,Uber,0.25,4.15,4817,2023/07/10
+DRV_00405,Kiran,Mabena,Gqeberha,Bolt,0.2,4.12,1756,2024/10/22
+DRV_00406,Kiran,Davies,Vanderbijlpark,Uber,0.25,4.59,2292,2024/11/06
+DRV_00407,Monique,Singh,Johannesburg,Uber,0.25,4.2,3354,2023/02/17
+DRV_00408,Kabelo,Miller,Vanderbijlpark,Dual-Platform (Both),0.22,4.62,4884,2024/08/02
+DRV_00409,Dylan,Phakathi,Johannesburg,Uber,0.25,4.17,4884,2024/05/12
+DRV_00410,Ntsako,Chauke,Durban,Dual-Platform (Both),0.22,4.46,5257,2022/09/01
+DRV_00411,Chester,Brown,Durban,Bolt,0.2,4.44,1653,2023/07/23
+DRV_00412,Chantelle,Oosthuizen,Cape Town,Bolt,0.2,4.8,3817,2023/02/16
+DRV_00413,Stefan,Ismail,Vanderbijlpark,Uber,0.25,4.75,298,2022/08/08
+DRV_00414,Ntsako,Dawood,Pretoria,Dual-Platform (Both),0.22,4.2,4230,2022/08/24
+DRV_00415,Thabo,Chauke,Durban,Bolt,0.2,4.87,3506,2024/12/29
+DRV_00416,Nirav,Mahomed,Gqeberha,Dual-Platform (Both),0.22,4.48,3481,2024/06/28
+DRV_00417,Dakalo,Khoza,Vanderbijlpark,Uber,0.25,4.85,1844,2025/01/05
+DRV_00418,Kayla,Makhanya,Johannesburg,Dual-Platform (Both),0.22,4.2,4764,2022/01/18
+DRV_00419,Khensani,Pillay,Gqeberha,Uber,0.25,4.72,288,2024/08/26
+DRV_00420,Anika,Modise,Vanderbijlpark,Bolt,0.2,4.81,2396,2023/04/14
+DRV_00421,Nthabiseng,Zulu,Pretoria,Bolt,0.2,4.7,5434,2022/12/25
+DRV_00422,Bandile,Adams,Pretoria,Uber,0.25,4.26,4240,2022/12/26
+DRV_00423,Zola,Ismail,Pretoria,Dual-Platform (Both),0.22,4.26,4087,2024/12/11
+DRV_00424,Ayesha,Naidoo,Pretoria,Bolt,0.2,4.2,4752,2023/01/22
+DRV_00425,Nandipha,Cupido,Potchefstroom,Dual-Platform (Both),0.22,5,5515,2023/12/04
+DRV_00426,Willem,Moodley,Durban,Uber,0.25,4.83,4249,2023/02/17
+DRV_00427,Thabo,Bezuidenhout,Gqeberha,Uber,0.25,4.95,1403,2024/02/16
+DRV_00428,Bradley,Jacobs,Cape Town,Dual-Platform (Both),0.22,4.31,2873,2022/06/11
+DRV_00429,Tumelo,Chetty,Potchefstroom,Uber,0.25,4.25,3545,2022/10/02
+DRV_00430,Brandon,Fourie,Durban,Bolt,0.2,4.54,4056,2023/12/27
+DRV_00431,Nirav,Naidoo,Durban,Bolt,0.2,4.38,6550,2024/11/09
+DRV_00432,Nirav,Davies,Johannesburg,Dual-Platform (Both),0.22,4.44,3671,2022/04/22
+DRV_00433,Nthabiseng,Phakathi,Durban,Bolt,0.2,4.76,2916,2022/06/10
+DRV_00434,Sumaiya,Baloyi,Cape Town,Uber,0.25,4.44,6553,2023/06/15
+DRV_00435,Dakalo,Miller,Johannesburg,Dual-Platform (Both),0.22,4.42,3832,2022/04/21
+DRV_00436,Kevin,Smith,Pretoria,Bolt,0.2,4.77,5606,2024/10/20
+DRV_00437,Chantelle,Julies,Gqeberha,Bolt,0.2,4.89,602,2023/02/01
+DRV_00438,Khotso,Ramaphosa,Durban,Bolt,0.2,4.23,4905,2023/05/25
+DRV_00439,Sbusiso,Patel,Vanderbijlpark,Bolt,0.2,4.25,2430,2022/11/10
+DRV_00440,Tumelo,Nel,Gqeberha,Dual-Platform (Both),0.22,4.35,514,2022/10/23
+DRV_00441,Rethabile,Khumalo,Johannesburg,Bolt,0.2,4.96,2030,2024/08/13
+DRV_00442,Chantelle,Chetty,Pretoria,Uber,0.25,4.87,1537,2022/03/22
+DRV_00443,Sumaiya,Padayachee,Vanderbijlpark,Dual-Platform (Both),0.22,4.1,3541,2022/12/27
+DRV_00444,Luyanda,Ramaphosa,Potchefstroom,Dual-Platform (Both),0.22,4.54,4882,2024/11/23
+DRV_00445,Lesedi,Campbell,Durban,Dual-Platform (Both),0.22,4.92,5637,2023/09/18
+DRV_00446,Sumaiya,Kruger,Vanderbijlpark,Dual-Platform (Both),0.22,4.82,285,2022/12/05
+DRV_00447,Mthokozisi,Singh,Durban,Uber,0.25,4.94,415,2023/11/11
+DRV_00448,Tariq,Davies,Johannesburg,Dual-Platform (Both),0.22,4.49,1922,2023/02/13
+DRV_00449,Jacques,Molefe,Pretoria,Dual-Platform (Both),0.22,4.6,1793,2022/02/13
+DRV_00450,Chad,Harrison,Johannesburg,Bolt,0.2,4.93,2742,2022/05/30
+DRV_00451,Nirav,Walker,Vanderbijlpark,Dual-Platform (Both),0.22,4.49,4043,2024/11/11
+DRV_00452,Jessica,Makhanya,Pretoria,Uber,0.25,4.46,6517,2022/04/21
+DRV_00453,Pieter,Modise,Potchefstroom,Dual-Platform (Both),0.22,4.74,3996,2024/03/05
+DRV_00454,Kabelo,Reddy,Vanderbijlpark,Uber,0.25,4.35,1939,2023/10/22
+DRV_00455,Nthabiseng,Bezuidenhout,Cape Town,Dual-Platform (Both),0.22,4.83,2309,2024/12/26
+DRV_00456,Mpho,Dlamini,Cape Town,Dual-Platform (Both),0.22,4.15,2976,2022/11/18
+DRV_00457,Palesa,Baloyi,Cape Town,Dual-Platform (Both),0.22,4.51,1635,2024/12/29
+DRV_00458,Dylan,Botha,Cape Town,Uber,0.25,4.16,4815,2024/08/29
+DRV_00459,Dylan,Reddy,Potchefstroom,Dual-Platform (Both),0.22,4.83,3155,2024/07/01
+DRV_00460,Devan,Padayachee,Durban,Dual-Platform (Both),0.22,4.91,4917,2022/08/18
+DRV_00461,Siyabonga,Taylor,Pretoria,Bolt,0.2,4.3,2386,2022/12/07
+DRV_00462,Megan,Smit,Pretoria,Uber,0.25,4.17,563,2022/04/22
+DRV_00463,Brandon,Smit,Cape Town,Uber,0.25,4.61,4509,2024/04/17
+DRV_00464,Tariq,Campbell,Potchefstroom,Bolt,0.2,4.92,2044,2024/12/02
+DRV_00465,Nthabiseng,Dlamini,Cape Town,Bolt,0.2,4.77,2585,2022/04/02
+DRV_00466,Zubair,Mthembu,Gqeberha,Uber,0.25,4.75,4616,2022/12/25
+DRV_00467,Monique,du Plessis,Gqeberha,Uber,0.25,4.77,5414,2023/03/22
+DRV_00468,Suné,Khumalo,Pretoria,Dual-Platform (Both),0.22,4.36,2552,2023/05/27
+DRV_00469,Monique,Adams,Gqeberha,Bolt,0.2,4.63,4628,2022/09/07
+DRV_00470,Palesa,Mokoena,Potchefstroom,Dual-Platform (Both),0.22,4.56,492,2023/05/23
+DRV_00471,Jacques,Chetty,Potchefstroom,Bolt,0.2,4.31,4758,2023/11/16
+DRV_00472,Bongani,Jacobs,Vanderbijlpark,Uber,0.25,4.64,4218,2022/10/28
+DRV_00473,Tebogo,Chauke,Potchefstroom,Dual-Platform (Both),0.22,4.88,6664,2024/08/22
+DRV_00474,Ntsako,Ndlovu,Pretoria,Bolt,0.2,4.8,484,2023/02/27
+DRV_00475,Mthokozisi,van der Merwe,Potchefstroom,Uber,0.25,4.53,1356,2023/05/13
+DRV_00476,Francois,du Plessis,Vanderbijlpark,Bolt,0.2,4.11,698,2024/12/07
+DRV_00477,Palesa,Ndlovu,Gqeberha,Dual-Platform (Both),0.22,4.21,428,2024/05/01
+DRV_00478,Mthokozisi,Dlamini,Johannesburg,Uber,0.25,4.51,6000,2024/05/11
+DRV_00479,Rethabile,Modise,Pretoria,Dual-Platform (Both),0.22,4.96,5309,2022/11/10
+DRV_00480,Thabo,Phakathi,Gqeberha,Bolt,0.2,4.13,403,2023/02/23
+DRV_00481,David,Makhanya,Gqeberha,Bolt,0.2,4.47,4156,2022/08/29
+DRV_00482,Khotso,Williams,Potchefstroom,Bolt,0.2,4.88,3990,2023/10/08
+DRV_00483,Lerato,Cassim,Gqeberha,Bolt,0.2,4.26,1052,2022/06/20
+DRV_00484,Zola,Mahomed,Vanderbijlpark,Bolt,0.2,4.63,4506,2024/02/21
+DRV_00485,Jacques,Chauke,Cape Town,Dual-Platform (Both),0.22,4.24,1405,2023/04/17
+DRV_00486,Siyabonga,Zulu,Pretoria,Uber,0.25,4.74,6757,2024/03/05
+DRV_00487,Mpho,Nel,Johannesburg,Bolt,0.2,4.43,4014,2022/03/15
+DRV_00488,David,Moosa,Johannesburg,Uber,0.25,4.57,6770,2024/01/28
+DRV_00489,Sarah,Khan,Johannesburg,Uber,0.25,4.21,2209,2022/02/22
+DRV_00490,Sbusiso,Oosthuizen,Johannesburg,Dual-Platform (Both),0.22,4.67,1612,2023/05/11
+DRV_00491,Stefan,Mthembu,Vanderbijlpark,Uber,0.25,4.97,1890,2022/11/05
+DRV_00492,Sbusiso,Cassim,Durban,Uber,0.25,4.76,4216,2023/03/25
+DRV_00493,Bongani,Moodley,Pretoria,Uber,0.25,4.9,5603,2024/10/01
+DRV_00494,Francois,Harrison,Durban,Bolt,0.2,4.25,6324,2023/02/23
+DRV_00495,Mpho,Patel,Gqeberha,Bolt,0.2,4.61,4293,2024/10/06
+DRV_00496,Fatima,Isaacs,Vanderbijlpark,Bolt,0.2,4.76,6387,2024/04/11
+DRV_00497,Samantha,Singh,Pretoria,Dual-Platform (Both),0.22,4.42,2314,2024/07/12
+DRV_00498,Chester,Mokoena,Pretoria,Uber,0.25,4.22,1538,2022/01/14
+DRV_00499,Khensani,Adams,Durban,Uber,0.25,4.66,2154,2023/01/31
+DRV_00500,Katlego,Chetty,Gqeberha,Bolt,0.2,4.62,6677,2024/11/08
+DRV_00501,Nandipha,Julies,Vanderbijlpark,Bolt,0.2,4.44,4611,2022/08/30
+DRV_00502,Kabelo,Khan,Durban,Dual-Platform (Both),0.22,4.94,4318,2023/10/17
+DRV_00503,Kabelo,Khan,Pretoria,Uber,0.25,4.64,2807,2022/06/27
+DRV_00504,Thandeka,Nel,Potchefstroom,Uber,0.25,4.14,5538,2022/08/24
+DRV_00505,Suné,Julies,Potchefstroom,Dual-Platform (Both),0.22,4.98,2797,2023/08/15
+DRV_00506,Rohan,Isaacs,Cape Town,Dual-Platform (Both),0.22,4.48,4497,2023/05/14
+DRV_00507,Sumaiya,Chauke,Pretoria,Dual-Platform (Both),0.22,4.67,947,2024/11/27
+DRV_00508,Chad,Naidoo,Pretoria,Dual-Platform (Both),0.22,4.24,3421,2023/03/21
+DRV_00509,Mulalo,Smith,Gqeberha,Dual-Platform (Both),0.22,4.41,1532,2022/11/27
+DRV_00510,Katlego,Williams,Cape Town,Dual-Platform (Both),0.22,4.32,5931,2024/08/26
+DRV_00511,Nirav,Oosthuizen,Potchefstroom,Bolt,0.2,4.42,5155,2023/07/18
+DRV_00512,Suné,Phakathi,Vanderbijlpark,Dual-Platform (Both),0.22,4.48,6165,2023/09/12
+DRV_00513,Chad,Makhanya,Potchefstroom,Bolt,0.2,4.97,4012,2024/07/03
+DRV_00514,Yusuf,Solomons,Vanderbijlpark,Dual-Platform (Both),0.22,4.95,1631,2024/02/07
+DRV_00515,Chester,Petersen,Potchefstroom,Bolt,0.2,4.38,1116,2022/05/15
+DRV_00516,Mthokozisi,Taylor,Vanderbijlpark,Dual-Platform (Both),0.22,4.98,4538,2024/09/24
+DRV_00517,Suné,Dlamini,Pretoria,Bolt,0.2,4.31,4293,2022/09/27
+DRV_00518,Mthokozisi,Reddy,Cape Town,Dual-Platform (Both),0.22,4.49,542,2023/03/31
+DRV_00519,Palesa,Modise,Gqeberha,Bolt,0.2,4.68,5274,2022/10/10
+DRV_00520,Tariq,Tau,Vanderbijlpark,Dual-Platform (Both),0.22,4.88,1801,2024/04/11
+DRV_00521,Nomvula,Fourie,Potchefstroom,Bolt,0.2,4.66,426,2023/03/02
+DRV_00522,Kabelo,Mthembu,Gqeberha,Uber,0.25,4.37,5085,2023/02/12
+DRV_00523,Monique,Smit,Johannesburg,Uber,0.25,4.84,1310,2024/03/30
+DRV_00524,Bradley,Chauke,Potchefstroom,Dual-Platform (Both),0.22,4.5,6031,2023/05/01
+DRV_00525,Francois,Singh,Vanderbijlpark,Dual-Platform (Both),0.22,4.11,6008,2023/03/11
+DRV_00526,Tamtyn,Govender,Vanderbijlpark,Uber,0.25,4.51,2289,2023/05/01
+DRV_00527,Palesa,Steyn,Potchefstroom,Uber,0.25,4.24,1238,2022/11/05
+DRV_00528,Rethabile,Pretorius,Durban,Dual-Platform (Both),0.22,4.83,4753,2022/09/13
+DRV_00529,Zubair,Isaacs,Durban,Uber,0.25,4.19,1826,2024/07/29
+DRV_00530,Yusuf,Isaacs,Pretoria,Dual-Platform (Both),0.22,4.91,761,2024/11/07
+DRV_00531,Amina,Davies,Potchefstroom,Dual-Platform (Both),0.22,4.95,5700,2024/12/12
+DRV_00532,Kayla,Mabena,Gqeberha,Uber,0.25,4.6,4978,2022/10/13
+DRV_00533,Tumelo,Smit,Cape Town,Uber,0.25,4.61,1123,2023/02/02
+DRV_00534,Johan,Louw,Gqeberha,Bolt,0.2,4.82,6452,2023/01/15
+DRV_00535,Sarah,Sithole,Durban,Dual-Platform (Both),0.22,4.13,4704,2022/02/28
+DRV_00536,Devan,Phakathi,Vanderbijlpark,Dual-Platform (Both),0.22,4.78,3659,2023/08/31
+DRV_00537,Nirav,Campbell,Pretoria,Bolt,0.2,4.45,3629,2024/03/22
+DRV_00538,Chad,Isaacs,Potchefstroom,Dual-Platform (Both),0.22,4.7,6472,2024/01/20
+DRV_00539,Bradley,Taylor,Durban,Bolt,0.2,4.88,5223,2023/01/10
+DRV_00540,Samantha,Khan,Gqeberha,Bolt,0.2,4.38,2731,2024/03/25
+DRV_00541,Ayrton,Smith,Gqeberha,Uber,0.25,4.35,3185,2022/02/27
+DRV_00542,Rohan,Mokoena,Potchefstroom,Bolt,0.2,4.75,5289,2023/10/01
+DRV_00543,Brandon,Jacobs,Pretoria,Dual-Platform (Both),0.22,4.81,6084,2022/06/22
+DRV_00544,Ashley,Hendricks,Cape Town,Bolt,0.2,4.14,4527,2022/02/07
+DRV_00545,Amina,Mthembu,Potchefstroom,Dual-Platform (Both),0.22,4.78,6119,2024/06/25
+DRV_00546,Zubair,Smith,Potchefstroom,Dual-Platform (Both),0.22,4.93,1824,2024/05/05
+DRV_00547,Chester,Makhanya,Durban,Uber,0.25,4.66,601,2022/12/18
+DRV_00548,Kiran,Nel,Pretoria,Bolt,0.2,4.7,6713,2022/08/03
+DRV_00549,Rethabile,Botha,Potchefstroom,Dual-Platform (Both),0.22,4.11,2968,2023/06/17
+DRV_00550,Mulalo,Ndlovu,Potchefstroom,Bolt,0.2,4.34,3442,2024/10/15
+DRV_00551,Tumelo,Ismail,Gqeberha,Uber,0.25,4.69,6699,2023/09/10
+DRV_00552,Nirav,Steyn,Potchefstroom,Dual-Platform (Both),0.22,4.61,5143,2024/05/08
+DRV_00553,Priya,Taylor,Cape Town,Bolt,0.2,4.3,5957,2024/10/14
+DRV_00554,Devan,Hendricks,Pretoria,Dual-Platform (Both),0.22,4.97,2828,2022/06/24
+DRV_00555,Keanu,Padayachee,Vanderbijlpark,Bolt,0.2,4.62,292,2022/09/29
+DRV_00556,Monique,Kruger,Gqeberha,Bolt,0.2,4.52,2821,2023/07/01
+DRV_00557,Kabelo,Reddy,Durban,Dual-Platform (Both),0.22,4.39,6663,2023/05/07
+DRV_00558,Ayesha,Patel,Durban,Dual-Platform (Both),0.22,4.23,527,2022/07/09
+DRV_00559,Simphiwe,Padayachee,Pretoria,Bolt,0.2,4.88,5555,2022/10/04
+DRV_00560,Gareth,Mahomed,Vanderbijlpark,Dual-Platform (Both),0.22,4.79,5465,2022/02/20
+DRV_00561,Dakalo,Mabena,Vanderbijlpark,Bolt,0.2,4.49,1189,2023/06/13
+DRV_00562,Rethabile,Steyn,Potchefstroom,Bolt,0.2,4.26,5013,2022/10/29
+DRV_00563,Rulani,Dawood,Vanderbijlpark,Dual-Platform (Both),0.22,4.21,5334,2022/01/23
+DRV_00564,Palesa,Ismail,Johannesburg,Bolt,0.2,4.78,3919,2022/10/09
+DRV_00565,Zaheer,Moosa,Durban,Bolt,0.2,4.77,1966,2022/06/24
+DRV_00566,Gareth,du Plessis,Gqeberha,Bolt,0.2,4.7,664,2023/09/04
+DRV_00567,Sarah,Oosthuizen,Potchefstroom,Uber,0.25,4.63,4715,2023/06/28
+DRV_00568,Johan,Nkosi,Vanderbijlpark,Uber,0.25,4.24,4628,2023/02/20
+DRV_00569,Stacy,Jacobs,Pretoria,Bolt,0.2,4.43,4925,2024/05/12
+DRV_00570,Palesa,Dawood,Potchefstroom,Uber,0.25,4.77,2386,2024/04/03
+DRV_00571,Lungile,Makhanya,Cape Town,Uber,0.25,4.84,4099,2022/12/12
+DRV_00572,Fatima,Cassim,Cape Town,Uber,0.25,4.75,4317,2023/10/24
+DRV_00573,Ashley,Cupido,Pretoria,Bolt,0.2,4.74,3759,2024/01/19
+DRV_00574,Jacques,Mahomed,Pretoria,Uber,0.25,4.76,5551,2022/02/08
+DRV_00575,Brandon,Nel,Johannesburg,Bolt,0.2,4.47,4009,2022/03/09
+DRV_00576,Ntsako,Campbell,Johannesburg,Dual-Platform (Both),0.22,4.67,1104,2024/07/14
+DRV_00577,Dylan,Bezuidenhout,Gqeberha,Bolt,0.2,4.23,2718,2024/01/19
+DRV_00578,Dylan,Bester,Potchefstroom,Uber,0.25,4.74,1294,2022/02/04
+DRV_00579,Lungile,Makhanya,Gqeberha,Dual-Platform (Both),0.22,4.55,6283,2024/08/26
+DRV_00580,Katlego,Khan,Cape Town,Bolt,0.2,4.6,3672,2022/06/30
+DRV_00581,Nirav,Tau,Johannesburg,Bolt,0.2,4.78,5399,2024/11/14
+DRV_00582,Rulani,Tau,Durban,Uber,0.25,4.21,1697,2024/03/22
+DRV_00583,Nandipha,Mokoena,Gqeberha,Dual-Platform (Both),0.22,4.91,5656,2022/06/12
+DRV_00584,Thandeka,Jacobs,Cape Town,Dual-Platform (Both),0.22,4.35,5881,2023/08/17
+DRV_00585,Michael,Davies,Vanderbijlpark,Dual-Platform (Both),0.22,4.19,4543,2022/05/06
+DRV_00586,Mpho,Venter,Potchefstroom,Dual-Platform (Both),0.22,4.37,1790,2024/11/14
+DRV_00587,Sipho,Abrahams,Vanderbijlpark,Dual-Platform (Both),0.22,4.18,1978,2022/05/18
+DRV_00588,Kiran,Nkosi,Vanderbijlpark,Uber,0.25,4.56,3355,2022/07/11
+DRV_00589,Bongani,Venter,Cape Town,Bolt,0.2,4.77,2633,2024/09/30
+DRV_00590,Ntsako,Johnson,Potchefstroom,Bolt,0.2,4.21,6432,2024/09/08
+DRV_00591,Tariq,Bester,Durban,Dual-Platform (Both),0.22,4.92,2556,2022/09/16
+DRV_00592,Kevin,Botha,Vanderbijlpark,Uber,0.25,4.83,4567,2023/08/10
+DRV_00593,Nthabiseng,Smit,Cape Town,Bolt,0.2,4.89,1690,2022/11/03
+DRV_00594,David,Taylor,Pretoria,Bolt,0.2,4.82,6474,2023/10/25
+DRV_00595,Ayesha,Pillay,Durban,Bolt,0.2,4.76,2489,2024/05/25
+DRV_00596,Nomvula,Jacobs,Pretoria,Uber,0.25,4.4,5442,2023/10/17
+DRV_00597,Johan,Naidoo,Johannesburg,Bolt,0.2,4.28,2254,2022/12/18
+DRV_00598,Bandile,Fourie,Durban,Uber,0.25,4.66,2600,2024/07/07
+DRV_00599,Devan,Mthembu,Durban,Bolt,0.2,4.86,4191,2023/02/16
+DRV_00600,Mpho,Bezuidenhout,Potchefstroom,Dual-Platform (Both),0.22,4.38,1294,2024/10/20
+DRV_00601,Willem,Govender,Durban,Dual-Platform (Both),0.22,4.56,4319,2024/12/08
+DRV_00602,Brandon,Mbalula,Potchefstroom,Uber,0.25,4.38,1140,2024/07/20
+DRV_00603,Kabelo,Joubert,Durban,Uber,0.25,4.91,1768,2024/10/24
+DRV_00604,Amina,Mabena,Vanderbijlpark,Uber,0.25,4.81,802,2022/12/10
+DRV_00605,Thabo,Phakathi,Cape Town,Dual-Platform (Both),0.22,4.64,3293,2022/11/04
+DRV_00606,Tariq,Walker,Potchefstroom,Dual-Platform (Both),0.22,4.34,5528,2024/04/17
+DRV_00607,Suraj,Mbalula,Johannesburg,Bolt,0.2,4.25,6224,2022/10/07
+DRV_00608,Willem,Campbell,Johannesburg,Uber,0.25,4.72,6091,2023/03/01
+DRV_00609,Khensani,Coetzee,Pretoria,Dual-Platform (Both),0.22,4.74,5609,2022/09/27
+DRV_00610,Kayla,du Plessis,Johannesburg,Bolt,0.2,4.61,2814,2022/05/23
+DRV_00611,Bandile,Ramaphosa,Vanderbijlpark,Bolt,0.2,4.13,273,2022/06/12
+DRV_00612,Willem,Nkosi,Pretoria,Bolt,0.2,4.53,6439,2022/10/27
+DRV_00613,Ashley,Molefe,Johannesburg,Dual-Platform (Both),0.22,4.95,3715,2023/04/18
+DRV_00614,Chantelle,Petersen,Gqeberha,Bolt,0.2,4.66,2539,2022/01/14
+DRV_00615,Kiran,Isaacs,Cape Town,Dual-Platform (Both),0.22,4.26,1347,2023/05/24
+DRV_00616,Monique,Julies,Gqeberha,Uber,0.25,4.39,4723,2023/02/22
+DRV_00617,Dakalo,Jacobs,Potchefstroom,Uber,0.25,4.56,6009,2024/06/22
+DRV_00618,Simphiwe,Walker,Johannesburg,Uber,0.25,4.68,1545,2023/07/11
+DRV_00619,Kabelo,Cupido,Durban,Bolt,0.2,4.68,335,2022/08/04
+DRV_00620,Samantha,Majozi,Cape Town,Dual-Platform (Both),0.22,4.63,1676,2023/12/27
+DRV_00621,Priya,Campbell,Johannesburg,Uber,0.25,4.24,3919,2022/08/08
+DRV_00622,Priya,Kruger,Pretoria,Dual-Platform (Both),0.22,4.86,1271,2022/06/05
+DRV_00623,Johan,Coetzee,Pretoria,Dual-Platform (Both),0.22,4.5,3431,2023/03/14
+DRV_00624,Kayla,Davies,Pretoria,Dual-Platform (Both),0.22,4.89,6150,2024/11/12
+DRV_00625,Ntsako,Sithole,Cape Town,Bolt,0.2,4.21,4804,2023/04/11
+DRV_00626,Michael,van der Merwe,Cape Town,Dual-Platform (Both),0.22,4.74,1137,2023/12/27
+DRV_00627,Brandon,Oosthuizen,Gqeberha,Uber,0.25,4.76,4603,2023/08/22
+DRV_00628,Ayesha,Julies,Pretoria,Dual-Platform (Both),0.22,4.66,5288,2023/02/18
+DRV_00629,Tariq,Mbalula,Potchefstroom,Bolt,0.2,4.9,5115,2023/09/17
+DRV_00630,Brandon,Modise,Vanderbijlpark,Dual-Platform (Both),0.22,4.51,4019,2022/05/21
+DRV_00631,Michael,Williams,Durban,Bolt,0.2,4.34,3593,2024/08/21
+DRV_00632,Ayesha,Ismail,Pretoria,Uber,0.25,4.45,6626,2024/11/25
+DRV_00633,Anika,Smit,Gqeberha,Dual-Platform (Both),0.22,4.26,2587,2023/09/22
+DRV_00634,Fatima,Govender,Potchefstroom,Bolt,0.2,4.94,3174,2022/05/19
+DRV_00635,Rethabile,Campbell,Vanderbijlpark,Bolt,0.2,4.46,2936,2023/05/26
+DRV_00636,Nirav,Mabena,Durban,Dual-Platform (Both),0.22,4.66,2931,2023/07/28
+DRV_00637,Yusuf,Fortuin,Potchefstroom,Bolt,0.2,4.97,2174,2023/12/23
+DRV_00638,Rohan,Bester,Cape Town,Bolt,0.2,4.98,2232,2023/11/09
+DRV_00639,Chad,Smit,Johannesburg,Uber,0.25,4.28,6242,2024/05/30
+DRV_00640,Mthokozisi,Moodley,Johannesburg,Dual-Platform (Both),0.22,4.69,3552,2023/01/28
+DRV_00641,Chantelle,Nkosi,Cape Town,Dual-Platform (Both),0.22,4.74,2948,2024/01/14
+DRV_00642,Stefan,Chetty,Gqeberha,Uber,0.25,4.86,1490,2023/11/24
+DRV_00643,Fatima,Johnson,Gqeberha,Bolt,0.2,4.48,3163,2024/10/20
+DRV_00644,Ayesha,Molefe,Durban,Dual-Platform (Both),0.22,4.55,5056,2022/03/07
+DRV_00645,Cheslyn,Ismail,Pretoria,Dual-Platform (Both),0.22,4.16,3193,2023/03/27
+DRV_00646,Bongani,Kruger,Potchefstroom,Bolt,0.2,4.37,5996,2022/07/09
+DRV_00647,Bandile,Brown,Pretoria,Bolt,0.2,4.36,5849,2023/02/09
+DRV_00648,Tumelo,Chetty,Johannesburg,Uber,0.25,4.72,5747,2023/04/22
+DRV_00649,Zola,Chauke,Pretoria,Bolt,0.2,4.49,2591,2022/09/05
+DRV_00650,Nandipha,Walker,Gqeberha,Bolt,0.2,4.32,5060,2023/12/18
+DRV_00651,Kavita,Isaacs,Durban,Bolt,0.2,4.53,3204,2023/11/28
+DRV_00652,Elize,Khumalo,Durban,Dual-Platform (Both),0.22,4.38,5916,2023/06/14
+DRV_00653,Ayesha,Mthembu,Potchefstroom,Uber,0.25,4.42,3685,2023/10/12
+DRV_00654,Keanu,Khoza,Pretoria,Dual-Platform (Both),0.22,4.59,6336,2022/01/15
+DRV_00655,Tumelo,Fourie,Potchefstroom,Dual-Platform (Both),0.22,4.67,201,2023/09/18
+DRV_00656,Bradley,Brown,Johannesburg,Dual-Platform (Both),0.22,4.27,1797,2024/12/02
+DRV_00657,Zanele,Pretorius,Cape Town,Dual-Platform (Both),0.22,4.86,2109,2023/09/03
+DRV_00658,Stacy,Mabena,Gqeberha,Dual-Platform (Both),0.22,4.23,387,2024/01/19
+DRV_00659,Megan,Tau,Johannesburg,Uber,0.25,4.76,926,2022/10/10
+DRV_00660,Bradley,Campbell,Gqeberha,Uber,0.25,4.18,1392,2023/05/27
+DRV_00661,Sarah,Steyn,Gqeberha,Bolt,0.2,4.44,2032,2024/05/23
+DRV_00662,Khensani,Nel,Johannesburg,Bolt,0.2,4.27,4235,2024/02/13
+DRV_00663,Kavita,Campbell,Cape Town,Bolt,0.2,4.71,2883,2023/05/20
+DRV_00664,Brandon,Nel,Pretoria,Uber,0.25,4.92,5776,2023/12/10
+DRV_00665,Amina,Tau,Potchefstroom,Bolt,0.2,4.14,2912,2022/08/03
+DRV_00666,Suraj,Reddy,Johannesburg,Uber,0.25,4.57,6696,2023/02/25
+DRV_00667,Palesa,Phakathi,Potchefstroom,Uber,0.25,4.94,3589,2023/08/09
+DRV_00668,Sarah,Dlamini,Cape Town,Dual-Platform (Both),0.22,4.11,5182,2022/08/27
+DRV_00669,Kabelo,Steyn,Vanderbijlpark,Bolt,0.2,4.29,5440,2023/11/25
+DRV_00670,Khensani,Campbell,Vanderbijlpark,Bolt,0.2,4.81,2681,2024/06/09
+DRV_00671,Sarah,Julies,Durban,Bolt,0.2,4.36,2171,2023/07/01
+DRV_00672,Kevin,Dlamini,Johannesburg,Dual-Platform (Both),0.22,4.79,3536,2024/09/03
+DRV_00673,Ashley,Adams,Vanderbijlpark,Uber,0.25,4.34,3454,2024/04/27
+DRV_00674,Nthabiseng,Campbell,Gqeberha,Uber,0.25,4.15,4889,2024/11/22
+DRV_00675,Ayesha,Ramaphosa,Durban,Uber,0.25,4.82,381,2024/10/15
+DRV_00676,Dakalo,Pretorius,Pretoria,Bolt,0.2,4.22,2193,2024/04/06
+DRV_00677,Tebogo,Ramaphosa,Cape Town,Uber,0.25,4.11,1877,2024/08/23
+DRV_00678,Samantha,Mthembu,Johannesburg,Uber,0.25,4.73,5196,2024/01/16
+DRV_00679,Stefan,Walker,Cape Town,Bolt,0.2,4.22,3355,2023/09/26
+DRV_00680,Francois,Harrison,Potchefstroom,Uber,0.25,4.53,5583,2023/09/22
+DRV_00681,Jacques,Abrahams,Vanderbijlpark,Dual-Platform (Both),0.22,4.54,1595,2024/11/19
+DRV_00682,Khensani,Smit,Pretoria,Dual-Platform (Both),0.22,4.86,6406,2023/03/28
+DRV_00683,Sipho,Bezuidenhout,Potchefstroom,Dual-Platform (Both),0.22,4.86,4597,2022/09/04
+DRV_00684,Sarah,Coetzee,Cape Town,Uber,0.25,4.4,5337,2023/08/09
+DRV_00685,Suraj,Jacobs,Durban,Dual-Platform (Both),0.22,4.83,885,2024/01/27
+DRV_00686,Kayla,Steyn,Potchefstroom,Dual-Platform (Both),0.22,4.69,1563,2024/04/18
+DRV_00687,Dakalo,Patel,Johannesburg,Bolt,0.2,4.82,5387,2023/04/04
+DRV_00688,Devan,Joubert,Pretoria,Dual-Platform (Both),0.22,4.63,4863,2022/10/26
+DRV_00689,Yusuf,Govender,Vanderbijlpark,Dual-Platform (Both),0.22,4.32,5929,2023/04/26
+DRV_00690,Samantha,Pretorius,Durban,Uber,0.25,4.79,5500,2023/09/11
+DRV_00691,Tumelo,Venter,Pretoria,Uber,0.25,4.32,2758,2024/06/21
+DRV_00692,Tshepo,Johnson,Cape Town,Uber,0.25,4.67,3008,2024/12/30
+DRV_00693,Kiran,Makhanya,Pretoria,Uber,0.25,4.35,3974,2024/06/20
+DRV_00694,Tumelo,Molefe,Durban,Dual-Platform (Both),0.22,4.82,3588,2024/11/01
+DRV_00695,Jessica,Solomons,Durban,Dual-Platform (Both),0.22,4.72,1131,2022/07/31
+DRV_00696,Sipho,Dawood,Johannesburg,Bolt,0.2,4.72,5463,2023/02/25
+DRV_00697,Zubair,Fortuin,Johannesburg,Bolt,0.2,4.35,6132,2022/04/21
+DRV_00698,Kayla,Fourie,Gqeberha,Dual-Platform (Both),0.22,4.16,2542,2023/08/29
+DRV_00699,Zaheer,du Plessis,Potchefstroom,Uber,0.25,4.34,2184,2023/01/08
+DRV_00700,Johan,Johnson,Cape Town,Dual-Platform (Both),0.22,4.11,812,2022/11/07
+DRV_00701,Sarah,Davies,Johannesburg,Dual-Platform (Both),0.22,4.6,5334,2023/10/07
+DRV_00702,Nthabiseng,Mahomed,Vanderbijlpark,Bolt,0.2,4.79,5826,2024/01/11
+DRV_00703,Ashley,Johnson,Durban,Uber,0.25,4.57,3633,2023/09/26
+DRV_00704,Kabelo,Singh,Johannesburg,Dual-Platform (Both),0.22,4.74,5851,2023/12/21
+DRV_00705,Keanu,Ismail,Cape Town,Bolt,0.2,4.5,2142,2022/12/28
+DRV_00706,Pieter,Walker,Johannesburg,Uber,0.25,4.22,4433,2022/11/28
+DRV_00707,Tamtyn,Ramaphosa,Gqeberha,Uber,0.25,4.75,1363,2023/06/23
+DRV_00708,Kiran,Davies,Durban,Uber,0.25,4.63,832,2022/12/21
+DRV_00709,Zola,Khoza,Gqeberha,Uber,0.25,4.63,5618,2022/08/05
+DRV_00710,Kavita,Sithole,Gqeberha,Uber,0.25,4.89,3834,2023/07/10
+DRV_00711,Kayla,Pillay,Johannesburg,Bolt,0.2,4.17,5505,2023/03/05
+DRV_00712,Megan,van der Merwe,Vanderbijlpark,Bolt,0.2,4.54,2293,2024/09/13
+DRV_00713,Mthokozisi,Chauke,Gqeberha,Uber,0.25,4.4,4774,2023/07/28
+DRV_00714,Elize,Mahomed,Pretoria,Uber,0.25,4.24,594,2022/03/13
+DRV_00715,Nomvula,Moosa,Gqeberha,Uber,0.25,4.99,3294,2022/02/02
+DRV_00716,Tumelo,Isaacs,Potchefstroom,Bolt,0.2,4.25,2329,2024/08/13
+DRV_00717,Kevin,Dlamini,Johannesburg,Bolt,0.2,4.94,3675,2022/02/14
+DRV_00718,Ashley,Baloyi,Potchefstroom,Uber,0.25,4.3,6059,2024/07/27
+DRV_00719,Tebogo,Abrahams,Vanderbijlpark,Uber,0.25,4.75,1320,2022/09/12
+DRV_00720,Khensani,Ramaphosa,Cape Town,Bolt,0.2,4.65,4825,2023/06/05
+DRV_00721,Lungile,Molefe,Durban,Bolt,0.2,4.44,3479,2022/01/06
+DRV_00722,David,Smit,Pretoria,Bolt,0.2,4.11,6313,2024/09/14
+DRV_00723,Mthokozisi,Patel,Gqeberha,Dual-Platform (Both),0.22,4.2,2312,2023/03/28
+DRV_00724,Keanu,Moosa,Durban,Uber,0.25,4.3,2267,2023/10/18
+DRV_00725,Pieter,Hendricks,Potchefstroom,Dual-Platform (Both),0.22,4.9,4004,2022/03/23
+DRV_00726,Ayesha,Solomons,Durban,Bolt,0.2,4.13,6350,2023/07/11
+DRV_00727,Luyanda,Steyn,Gqeberha,Bolt,0.2,4.94,332,2022/11/09
+DRV_00728,Johan,Louw,Vanderbijlpark,Uber,0.25,4.83,4047,2024/09/30
+DRV_00729,Kiran,Hendricks,Cape Town,Bolt,0.2,4.21,5585,2023/11/30
+DRV_00730,Kagiso,Williams,Vanderbijlpark,Uber,0.25,4.65,992,2022/10/11
+DRV_00731,Sbusiso,Bester,Vanderbijlpark,Dual-Platform (Both),0.22,4.63,1081,2024/11/25
+DRV_00732,Jacques,Louw,Vanderbijlpark,Uber,0.25,4.48,499,2024/10/22
+DRV_00733,Dakalo,Julies,Vanderbijlpark,Dual-Platform (Both),0.22,4.43,2957,2022/12/01
+DRV_00734,Kayla,Makhanya,Potchefstroom,Dual-Platform (Both),0.22,4.19,1732,2022/08/18
+DRV_00735,Sarah,Govender,Durban,Uber,0.25,4.17,1865,2023/09/21
+DRV_00736,Zubair,Solomons,Cape Town,Dual-Platform (Both),0.22,4.43,985,2024/10/06
+DRV_00737,Thabo,Harrison,Durban,Bolt,0.2,4.59,4194,2022/01/27
+DRV_00738,Luyanda,Khan,Pretoria,Uber,0.25,4.94,1298,2022/05/08
+DRV_00739,Zubair,Oosthuizen,Pretoria,Uber,0.25,4.42,2747,2022/09/15
+DRV_00740,David,Dlamini,Gqeberha,Bolt,0.2,4.21,4855,2022/12/03
+DRV_00741,Ashley,Makhanya,Johannesburg,Bolt,0.2,4.63,5605,2023/02/03
+DRV_00742,Ashley,Miller,Gqeberha,Dual-Platform (Both),0.22,4.11,3156,2022/10/10
+DRV_00743,Zola,Taylor,Vanderbijlpark,Uber,0.25,4.89,3768,2023/08/11
+DRV_00744,Kabelo,Padayachee,Potchefstroom,Uber,0.25,4.7,5545,2022/03/22
+DRV_00745,Dylan,Walker,Gqeberha,Bolt,0.2,4.68,4223,2024/03/02
+DRV_00746,Nomvula,Makhanya,Cape Town,Bolt,0.2,4.19,5286,2022/09/08
+DRV_00747,Chester,Ndlovu,Vanderbijlpark,Bolt,0.2,4.82,5378,2024/03/03
+DRV_00748,Samantha,Julies,Vanderbijlpark,Dual-Platform (Both),0.22,4.61,437,2023/04/27
+DRV_00749,Stacy,Smit,Pretoria,Bolt,0.2,4.86,836,2024/01/24
+DRV_00750,Dylan,Cupido,Pretoria,Bolt,0.2,4.94,2934,2022/12/22
+DRV_00751,Katlego,Louw,Johannesburg,Bolt,0.2,4.8,209,2024/06/17
+DRV_00752,Chad,Steyn,Potchefstroom,Uber,0.25,4.95,6422,2023/05/20
+DRV_00753,Nandipha,Khumalo,Durban,Bolt,0.2,4.27,2016,2022/10/11
+DRV_00754,Lungile,Phakathi,Vanderbijlpark,Bolt,0.2,4.44,296,2022/09/30
+DRV_00755,Willem,Julies,Durban,Uber,0.25,4.69,1568,2023/02/20
+DRV_00756,Thabo,Padayachee,Cape Town,Bolt,0.2,4.67,6795,2024/04/03
+DRV_00757,Samantha,Singh,Potchefstroom,Dual-Platform (Both),0.22,4.7,6542,2022/07/31
+DRV_00758,Dakalo,Singh,Cape Town,Bolt,0.2,4.66,2652,2023/09/06
+DRV_00759,Siyabonga,Molefe,Pretoria,Uber,0.25,4.4,400,2023/04/24
+DRV_00760,Bandile,Tau,Cape Town,Dual-Platform (Both),0.22,4.5,3598,2023/04/24
+DRV_00761,Yusuf,Modise,Potchefstroom,Dual-Platform (Both),0.22,4.79,4142,2022/06/18
+DRV_00762,Ntsako,Mabena,Potchefstroom,Bolt,0.2,4.36,642,2024/12/17
+DRV_00763,Tshepo,Nkosi,Johannesburg,Dual-Platform (Both),0.22,4.37,2912,2022/03/08
+DRV_00764,Amina,Williams,Pretoria,Uber,0.25,4.38,3776,2023/10/06
+DRV_00765,Sarah,Pretorius,Vanderbijlpark,Dual-Platform (Both),0.22,4.69,3616,2024/11/16
+DRV_00766,Jessica,Davies,Durban,Bolt,0.2,4.98,5394,2023/01/20
+DRV_00767,Lungile,Julies,Johannesburg,Dual-Platform (Both),0.22,4.82,4230,2023/11/14
+DRV_00768,Lerato,Cupido,Durban,Uber,0.25,4.93,4150,2022/11/14
+DRV_00769,Megan,Patel,Cape Town,Uber,0.25,4.82,5016,2024/06/05
+DRV_00770,Gareth,Bester,Gqeberha,Uber,0.25,4.63,2945,2022/01/14
+DRV_00771,Siyabonga,Chetty,Vanderbijlpark,Dual-Platform (Both),0.22,4.21,6743,2023/09/22
+DRV_00772,Nthabiseng,Mbalula,Pretoria,Uber,0.25,4.49,3883,2022/04/11
+DRV_00773,Kevin,Mabena,Cape Town,Bolt,0.2,4.52,3576,2022/10/08
+DRV_00774,Siyabonga,Davies,Durban,Dual-Platform (Both),0.22,4.62,703,2022/06/03
+DRV_00775,Mthokozisi,Venter,Cape Town,Dual-Platform (Both),0.22,4.14,4335,2023/01/31
+DRV_00776,Ntsako,Julies,Pretoria,Uber,0.25,4.96,4173,2022/07/28
+DRV_00777,Suné,Isaacs,Cape Town,Bolt,0.2,4.91,701,2023/12/14
+DRV_00778,Kevin,Oosthuizen,Durban,Uber,0.25,4.41,4156,2023/08/28
+DRV_00779,Gareth,Khoza,Durban,Bolt,0.2,4.75,2968,2024/04/18
+DRV_00780,Elize,Nel,Vanderbijlpark,Dual-Platform (Both),0.22,4.43,1431,2024/06/26
+DRV_00781,Katlego,Mabena,Durban,Bolt,0.2,4.48,3540,2023/08/26
+DRV_00782,Zola,Hendricks,Cape Town,Dual-Platform (Both),0.22,4.28,4541,2023/04/06
+DRV_00783,Lerato,Oosthuizen,Cape Town,Dual-Platform (Both),0.22,4.56,289,2022/12/23
+DRV_00784,Ayrton,Pillay,Vanderbijlpark,Uber,0.25,4.83,1056,2024/03/10
+DRV_00785,Palesa,Mokoena,Vanderbijlpark,Bolt,0.2,4.26,1826,2024/04/05
+DRV_00786,Rulani,Bester,Cape Town,Uber,0.25,4.49,4719,2023/04/26
+DRV_00787,Kayla,Cassim,Pretoria,Uber,0.25,4.52,3984,2024/07/23
+DRV_00788,Stefan,Nel,Durban,Uber,0.25,4.71,429,2023/05/11
+DRV_00789,Nirav,Pillay,Potchefstroom,Uber,0.25,4.65,571,2022/07/15
+DRV_00790,Chantelle,Coetzee,Cape Town,Uber,0.25,4.22,2973,2022/03/15
+DRV_00791,Amina,Singh,Durban,Dual-Platform (Both),0.22,4.25,4420,2022/06/02
+DRV_00792,Tamtyn,Ndlovu,Vanderbijlpark,Uber,0.25,4.65,2346,2023/11/09
+DRV_00793,Zaheer,Smith,Durban,Uber,0.25,4.95,3243,2022/10/28
+DRV_00794,Kavita,Venter,Johannesburg,Dual-Platform (Both),0.22,4.63,1790,2024/01/02
+DRV_00795,Ayesha,Mbalula,Durban,Bolt,0.2,4.44,2045,2023/02/09
+DRV_00796,Stefan,Campbell,Gqeberha,Uber,0.25,4.48,680,2024/06/25
+DRV_00797,Khensani,Fourie,Cape Town,Bolt,0.2,4.86,1294,2023/01/03
+DRV_00798,Mthokozisi,Cassim,Cape Town,Uber,0.25,4.86,979,2024/03/26
+DRV_00799,Nthabiseng,Smith,Vanderbijlpark,Bolt,0.2,4.85,4213,2023/11/11
+DRV_00800,Katlego,Pretorius,Vanderbijlpark,Uber,0.25,4.48,4547,2024/05/17
