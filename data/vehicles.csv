@@ -1,801 +1,901 @@
-vehicle_id,driver_id,make,model,year,license_plate,category_type
-VEH_00001,DRV_00001,Renault,Triber,2016,OQ 60 OG NW,Large Capacity (UberXL/Bolt XL)
-VEH_00002,DRV_00002,Renault,Triber,2024,UY 26 SQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00003,DRV_00003,Suzuki,Ertiga,2022,BQ 43 UX GP,Large Capacity (UberXL/Bolt XL)
-VEH_00004,DRV_00004,Toyota,Avanza,2020,GP 80 FR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00005,DRV_00005,Toyota,Avanza,2023,XT 48 IW GP,Large Capacity (UberXL/Bolt XL)
-VEH_00006,DRV_00006,Hyundai,Grand i10,2017,NS 20 DJ CA,Standard (UberX/Bolt)
-VEH_00007,DRV_00007,BMW,3 Series,2017,GR 88 IK NW,Comfort (Uber Comfort)
-VEH_00008,DRV_00008,Toyota,Avanza,2016,RZ 34 QJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00009,DRV_00009,BMW,3 Series,2024,FY 66 WS CA,Comfort (Uber Comfort)
-VEH_00010,DRV_00010,Toyota,Corolla Quest,2020,PJ 63 WF GP,Standard (UberX/Bolt)
-VEH_00011,DRV_00011,Renault,Triber,2016,TE 17 GF NW,Large Capacity (UberXL/Bolt XL)
-VEH_00012,DRV_00012,Kia,Picanto,2025,QG 73 LA NW,Standard (UberX/Bolt)
-VEH_00013,DRV_00013,BMW,3 Series,2022,EQ 60 NF GP,Comfort (Uber Comfort)
-VEH_00014,DRV_00014,Hyundai,Grand i10,2018,FS 34 YK GP,Standard (UberX/Bolt)
-VEH_00015,DRV_00015,Toyota,Corolla Quest,2022,XA 92 WN NW,Standard (UberX/Bolt)
-VEH_00016,DRV_00016,Suzuki,Ertiga,2018,RL 29 YL GP,Large Capacity (UberXL/Bolt XL)
-VEH_00017,DRV_00017,Hyundai,Grand i10,2025,TB 99 WQ NW,Standard (UberX/Bolt)
-VEH_00018,DRV_00018,Renault,Triber,2025,WA 80 PE GP,Large Capacity (UberXL/Bolt XL)
-VEH_00019,DRV_00019,BMW,3 Series,2018,IQ 25 NC NW,Comfort (Uber Comfort)
-VEH_00020,DRV_00020,Toyota,Avanza,2017,FM 13 UT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00021,DRV_00021,Kia,Picanto,2024,ZV 94 DR NW,Standard (UberX/Bolt)
-VEH_00022,DRV_00022,Volkswagen,Polo Vivo,2019,LQ 16 IP NW,Standard (UberX/Bolt)
-VEH_00023,DRV_00023,Nissan,Almera,2016,KB 19 ZI GP,Standard (UberX/Bolt)
-VEH_00024,DRV_00024,BMW,3 Series,2022,OB 64 ON CA,Comfort (Uber Comfort)
-VEH_00025,DRV_00025,BMW,3 Series,2017,HX 61 EN NW,Comfort (Uber Comfort)
-VEH_00026,DRV_00026,Volkswagen,Polo Vivo,2017,QX 41 AF GP,Standard (UberX/Bolt)
-VEH_00027,DRV_00027,BMW,3 Series,2022,PU 76 AN GP,Comfort (Uber Comfort)
-VEH_00028,DRV_00028,Toyota,Corolla Quest,2025,AB 96 DU GP,Standard (UberX/Bolt)
-VEH_00029,DRV_00029,Kia,Picanto,2022,KA 53 II GP,Standard (UberX/Bolt)
-VEH_00030,DRV_00030,Kia,Picanto,2017,ML 63 KL GP,Standard (UberX/Bolt)
-VEH_00031,DRV_00031,Hyundai,Grand i10,2016,KD 44 WR NW,Standard (UberX/Bolt)
-VEH_00032,DRV_00032,Nissan,Almera,2018,JP 36 OS GP,Standard (UberX/Bolt)
-VEH_00033,DRV_00033,Volkswagen,Polo Vivo,2023,DV 74 QU NW,Standard (UberX/Bolt)
-VEH_00034,DRV_00034,Volkswagen,Polo Vivo,2016,UK 77 RW CA,Standard (UberX/Bolt)
-VEH_00035,DRV_00035,Nissan,Almera,2025,IO 51 NU GP,Standard (UberX/Bolt)
-VEH_00036,DRV_00036,Nissan,Almera,2018,VM 91 LC NW,Standard (UberX/Bolt)
-VEH_00037,DRV_00037,Nissan,Almera,2018,JA 60 JQ GP,Standard (UberX/Bolt)
-VEH_00038,DRV_00038,Renault,Triber,2024,UB 93 KQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00039,DRV_00039,Renault,Triber,2017,FH 18 LW NW,Large Capacity (UberXL/Bolt XL)
-VEH_00040,DRV_00040,Renault,Triber,2018,PW 65 XV GP,Large Capacity (UberXL/Bolt XL)
-VEH_00041,DRV_00041,Hyundai,Grand i10,2021,ID 94 DF NW,Standard (UberX/Bolt)
-VEH_00042,DRV_00042,Nissan,Almera,2022,WI 92 DP NW,Standard (UberX/Bolt)
-VEH_00043,DRV_00043,Kia,Picanto,2017,NM 41 EU NW,Standard (UberX/Bolt)
-VEH_00044,DRV_00044,Volkswagen,Polo Vivo,2025,HU 51 RR CA,Standard (UberX/Bolt)
-VEH_00045,DRV_00045,Nissan,Almera,2023,OA 84 AQ NW,Standard (UberX/Bolt)
-VEH_00046,DRV_00046,Volkswagen,Polo Vivo,2022,BG 54 UM CA,Standard (UberX/Bolt)
-VEH_00047,DRV_00047,Volkswagen,Polo Vivo,2019,IS 22 GG GP,Standard (UberX/Bolt)
-VEH_00048,DRV_00048,BMW,3 Series,2020,HA 36 DC NW,Comfort (Uber Comfort)
-VEH_00049,DRV_00049,Kia,Picanto,2017,MQ 92 CZ NW,Standard (UberX/Bolt)
-VEH_00050,DRV_00050,Volkswagen,Polo Vivo,2018,NL 29 YZ GP,Standard (UberX/Bolt)
-VEH_00051,DRV_00051,Toyota,Avanza,2022,PL 29 RH NW,Large Capacity (UberXL/Bolt XL)
-VEH_00052,DRV_00052,Volkswagen,Polo Vivo,2024,BR 47 KD GP,Standard (UberX/Bolt)
-VEH_00053,DRV_00053,Kia,Picanto,2023,TO 62 IB CA,Standard (UberX/Bolt)
-VEH_00054,DRV_00054,Suzuki,Ertiga,2020,FK 95 TB NW,Large Capacity (UberXL/Bolt XL)
-VEH_00055,DRV_00055,BMW,3 Series,2019,NH 85 PV GP,Comfort (Uber Comfort)
-VEH_00056,DRV_00056,Kia,Picanto,2017,QT 64 LV CA,Standard (UberX/Bolt)
-VEH_00057,DRV_00057,Toyota,Avanza,2018,LQ 15 KN NW,Large Capacity (UberXL/Bolt XL)
-VEH_00058,DRV_00058,Toyota,Corolla Quest,2017,CR 11 FO NW,Standard (UberX/Bolt)
-VEH_00059,DRV_00059,Suzuki,Ertiga,2018,TX 25 XM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00060,DRV_00060,Toyota,Avanza,2019,GG 83 GO CA,Large Capacity (UberXL/Bolt XL)
-VEH_00061,DRV_00061,Nissan,Almera,2025,IE 24 CP NW,Standard (UberX/Bolt)
-VEH_00062,DRV_00062,Volkswagen,Polo Vivo,2021,EA 25 LN CA,Standard (UberX/Bolt)
-VEH_00063,DRV_00063,Suzuki,Ertiga,2019,SC 67 LM CA,Large Capacity (UberXL/Bolt XL)
-VEH_00064,DRV_00064,BMW,3 Series,2019,PS 98 KM NW,Comfort (Uber Comfort)
-VEH_00065,DRV_00065,Nissan,Almera,2022,EZ 83 LT CA,Standard (UberX/Bolt)
-VEH_00066,DRV_00066,Renault,Triber,2022,HM 32 TX GP,Large Capacity (UberXL/Bolt XL)
-VEH_00067,DRV_00067,Hyundai,Grand i10,2020,EC 97 MP NW,Standard (UberX/Bolt)
-VEH_00068,DRV_00068,Suzuki,Ertiga,2016,HB 14 IP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00069,DRV_00069,BMW,3 Series,2024,UT 29 ZW NW,Comfort (Uber Comfort)
-VEH_00070,DRV_00070,Volkswagen,Polo Vivo,2017,LQ 85 ED NW,Standard (UberX/Bolt)
-VEH_00071,DRV_00071,Kia,Picanto,2019,QB 31 YD GP,Standard (UberX/Bolt)
-VEH_00072,DRV_00072,Toyota,Corolla Quest,2024,JJ 75 RQ GP,Standard (UberX/Bolt)
-VEH_00073,DRV_00073,Nissan,Almera,2025,TM 68 WV NW,Standard (UberX/Bolt)
-VEH_00074,DRV_00074,Hyundai,Grand i10,2022,KZ 62 WR CA,Standard (UberX/Bolt)
-VEH_00075,DRV_00075,Suzuki,Ertiga,2023,XI 30 FW NW,Large Capacity (UberXL/Bolt XL)
-VEH_00076,DRV_00076,BMW,3 Series,2025,SK 51 PU NW,Comfort (Uber Comfort)
-VEH_00077,DRV_00077,Volkswagen,Polo Vivo,2023,NE 64 PJ GP,Standard (UberX/Bolt)
-VEH_00078,DRV_00078,Suzuki,Ertiga,2022,JM 92 EJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00079,DRV_00079,Toyota,Corolla Quest,2024,PA 43 IP CA,Standard (UberX/Bolt)
-VEH_00080,DRV_00080,Renault,Triber,2019,SC 50 YT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00081,DRV_00081,Kia,Picanto,2021,NT 59 QO NW,Standard (UberX/Bolt)
-VEH_00082,DRV_00082,BMW,3 Series,2018,EA 52 QU NW,Comfort (Uber Comfort)
-VEH_00083,DRV_00083,Renault,Triber,2024,UC 77 QF CA,Large Capacity (UberXL/Bolt XL)
-VEH_00084,DRV_00084,Renault,Triber,2019,EB 16 DY GP,Large Capacity (UberXL/Bolt XL)
-VEH_00085,DRV_00085,Nissan,Almera,2020,NZ 70 TE NW,Standard (UberX/Bolt)
-VEH_00086,DRV_00086,Suzuki,Ertiga,2020,UK 16 UF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00087,DRV_00087,Renault,Triber,2016,GO 19 HY CA,Large Capacity (UberXL/Bolt XL)
-VEH_00088,DRV_00088,BMW,3 Series,2021,QO 67 JR NW,Comfort (Uber Comfort)
-VEH_00089,DRV_00089,Hyundai,Grand i10,2019,RU 50 LS CA,Standard (UberX/Bolt)
-VEH_00090,DRV_00090,Volkswagen,Polo Vivo,2021,JK 95 LQ CA,Standard (UberX/Bolt)
-VEH_00091,DRV_00091,Toyota,Corolla Quest,2019,DA 14 TL NW,Standard (UberX/Bolt)
-VEH_00092,DRV_00092,Kia,Picanto,2023,YB 24 UB NW,Standard (UberX/Bolt)
-VEH_00093,DRV_00093,BMW,3 Series,2018,HC 52 HN GP,Comfort (Uber Comfort)
-VEH_00094,DRV_00094,Suzuki,Ertiga,2016,UJ 28 FW GP,Large Capacity (UberXL/Bolt XL)
-VEH_00095,DRV_00095,Toyota,Corolla Quest,2024,GH 67 DZ CA,Standard (UberX/Bolt)
-VEH_00096,DRV_00096,Toyota,Avanza,2019,XH 84 ZH GP,Large Capacity (UberXL/Bolt XL)
-VEH_00097,DRV_00097,Nissan,Almera,2025,WX 87 NX GP,Standard (UberX/Bolt)
-VEH_00098,DRV_00098,Volkswagen,Polo Vivo,2020,PO 33 GI GP,Standard (UberX/Bolt)
-VEH_00099,DRV_00099,Kia,Picanto,2020,TC 93 DG NW,Standard (UberX/Bolt)
-VEH_00100,DRV_00100,BMW,3 Series,2022,UY 97 VA GP,Comfort (Uber Comfort)
-VEH_00101,DRV_00101,Toyota,Corolla Quest,2021,EL 20 TK NW,Standard (UberX/Bolt)
-VEH_00102,DRV_00102,Volkswagen,Polo Vivo,2025,IF 74 JH NW,Standard (UberX/Bolt)
-VEH_00103,DRV_00103,BMW,3 Series,2017,FG 27 JA NW,Comfort (Uber Comfort)
-VEH_00104,DRV_00104,Hyundai,Grand i10,2021,PP 61 XU GP,Standard (UberX/Bolt)
-VEH_00105,DRV_00105,Renault,Triber,2025,VK 55 CB GP,Large Capacity (UberXL/Bolt XL)
-VEH_00106,DRV_00106,Toyota,Avanza,2019,DA 91 WK GP,Large Capacity (UberXL/Bolt XL)
-VEH_00107,DRV_00107,Toyota,Corolla Quest,2018,UE 22 BZ CA,Standard (UberX/Bolt)
-VEH_00108,DRV_00108,Kia,Picanto,2025,CU 29 SG GP,Standard (UberX/Bolt)
-VEH_00109,DRV_00109,Toyota,Avanza,2016,XT 83 ZB NW,Large Capacity (UberXL/Bolt XL)
-VEH_00110,DRV_00110,Renault,Triber,2018,VD 41 JW CA,Large Capacity (UberXL/Bolt XL)
-VEH_00111,DRV_00111,Toyota,Corolla Quest,2017,SH 86 CM GP,Standard (UberX/Bolt)
-VEH_00112,DRV_00112,Nissan,Almera,2021,NN 82 UF NW,Standard (UberX/Bolt)
-VEH_00113,DRV_00113,Toyota,Corolla Quest,2019,TS 38 BO CA,Standard (UberX/Bolt)
-VEH_00114,DRV_00114,Nissan,Almera,2025,JY 19 JL GP,Standard (UberX/Bolt)
-VEH_00115,DRV_00115,Nissan,Almera,2017,WV 46 SN NW,Standard (UberX/Bolt)
-VEH_00116,DRV_00116,Kia,Picanto,2024,BQ 75 FO NW,Standard (UberX/Bolt)
-VEH_00117,DRV_00117,Toyota,Avanza,2018,FZ 30 UI NW,Large Capacity (UberXL/Bolt XL)
-VEH_00118,DRV_00118,BMW,3 Series,2025,CD 15 TS CA,Comfort (Uber Comfort)
-VEH_00119,DRV_00119,Suzuki,Ertiga,2020,KJ 34 CX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00120,DRV_00120,Renault,Triber,2016,KY 59 OW GP,Large Capacity (UberXL/Bolt XL)
-VEH_00121,DRV_00121,Renault,Triber,2019,YS 47 LA CA,Large Capacity (UberXL/Bolt XL)
-VEH_00122,DRV_00122,Renault,Triber,2018,JW 69 CA GP,Large Capacity (UberXL/Bolt XL)
-VEH_00123,DRV_00123,Toyota,Corolla Quest,2018,NS 91 HV CA,Standard (UberX/Bolt)
-VEH_00124,DRV_00124,Nissan,Almera,2025,DQ 48 VV NW,Standard (UberX/Bolt)
-VEH_00125,DRV_00125,Volkswagen,Polo Vivo,2023,LY 57 NQ NW,Standard (UberX/Bolt)
-VEH_00126,DRV_00126,Toyota,Avanza,2018,NI 70 DN NW,Large Capacity (UberXL/Bolt XL)
-VEH_00127,DRV_00127,Volkswagen,Polo Vivo,2018,HW 14 NT NW,Standard (UberX/Bolt)
-VEH_00128,DRV_00128,Hyundai,Grand i10,2020,HE 26 FK GP,Standard (UberX/Bolt)
-VEH_00129,DRV_00129,Toyota,Avanza,2018,JF 10 NM GP,Large Capacity (UberXL/Bolt XL)
-VEH_00130,DRV_00130,Renault,Triber,2016,HI 46 IP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00131,DRV_00131,BMW,3 Series,2016,QR 45 TP NW,Comfort (Uber Comfort)
-VEH_00132,DRV_00132,Nissan,Almera,2016,HJ 42 YM CA,Standard (UberX/Bolt)
-VEH_00133,DRV_00133,Hyundai,Grand i10,2017,XV 39 JY GP,Standard (UberX/Bolt)
-VEH_00134,DRV_00134,Toyota,Corolla Quest,2023,OX 83 DV GP,Standard (UberX/Bolt)
-VEH_00135,DRV_00135,Nissan,Almera,2019,DN 19 DB GP,Standard (UberX/Bolt)
-VEH_00136,DRV_00136,Volkswagen,Polo Vivo,2018,DD 24 KG NW,Standard (UberX/Bolt)
-VEH_00137,DRV_00137,Toyota,Avanza,2018,YP 76 IA GP,Large Capacity (UberXL/Bolt XL)
-VEH_00138,DRV_00138,Renault,Triber,2016,OC 92 WQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00139,DRV_00139,Kia,Picanto,2016,RX 23 LF NW,Standard (UberX/Bolt)
-VEH_00140,DRV_00140,Volkswagen,Polo Vivo,2021,OT 12 AH NW,Standard (UberX/Bolt)
-VEH_00141,DRV_00141,Renault,Triber,2022,ZT 15 LN NW,Large Capacity (UberXL/Bolt XL)
-VEH_00142,DRV_00142,BMW,3 Series,2025,UN 95 CU NW,Comfort (Uber Comfort)
-VEH_00143,DRV_00143,Toyota,Corolla Quest,2020,IJ 10 UG CA,Standard (UberX/Bolt)
-VEH_00144,DRV_00144,Hyundai,Grand i10,2025,PI 74 IE CA,Standard (UberX/Bolt)
-VEH_00145,DRV_00145,Hyundai,Grand i10,2018,DN 50 OE CA,Standard (UberX/Bolt)
-VEH_00146,DRV_00146,Renault,Triber,2016,FD 84 PK GP,Large Capacity (UberXL/Bolt XL)
-VEH_00147,DRV_00147,Kia,Picanto,2017,DL 39 DU CA,Standard (UberX/Bolt)
-VEH_00148,DRV_00148,Toyota,Corolla Quest,2017,IL 17 IR GP,Standard (UberX/Bolt)
-VEH_00149,DRV_00149,Renault,Triber,2022,PB 83 VE NW,Large Capacity (UberXL/Bolt XL)
-VEH_00150,DRV_00150,Toyota,Avanza,2021,GT 70 QT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00151,DRV_00151,Toyota,Corolla Quest,2018,IO 61 ST GP,Standard (UberX/Bolt)
-VEH_00152,DRV_00152,Toyota,Avanza,2018,ET 10 YR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00153,DRV_00153,Toyota,Avanza,2017,LZ 20 RC GP,Large Capacity (UberXL/Bolt XL)
-VEH_00154,DRV_00154,Hyundai,Grand i10,2024,TY 12 JQ CA,Standard (UberX/Bolt)
-VEH_00155,DRV_00155,Toyota,Avanza,2020,BB 34 UB NW,Large Capacity (UberXL/Bolt XL)
-VEH_00156,DRV_00156,Renault,Triber,2022,PW 81 AW NW,Large Capacity (UberXL/Bolt XL)
-VEH_00157,DRV_00157,Toyota,Avanza,2019,CU 11 CS NW,Large Capacity (UberXL/Bolt XL)
-VEH_00158,DRV_00158,Kia,Picanto,2021,BZ 63 DF GP,Standard (UberX/Bolt)
-VEH_00159,DRV_00159,Toyota,Avanza,2019,VS 27 IN NW,Large Capacity (UberXL/Bolt XL)
-VEH_00160,DRV_00160,Hyundai,Grand i10,2023,RC 34 MC CA,Standard (UberX/Bolt)
-VEH_00161,DRV_00161,Toyota,Avanza,2023,EW 33 GJ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00162,DRV_00162,Renault,Triber,2016,FW 28 WG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00163,DRV_00163,Renault,Triber,2019,XV 32 AJ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00164,DRV_00164,Hyundai,Grand i10,2025,WO 10 IA GP,Standard (UberX/Bolt)
-VEH_00165,DRV_00165,Toyota,Corolla Quest,2019,RE 83 YP CA,Standard (UberX/Bolt)
-VEH_00166,DRV_00166,Suzuki,Ertiga,2024,WP 95 VR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00167,DRV_00167,Hyundai,Grand i10,2020,SZ 13 EH NW,Standard (UberX/Bolt)
-VEH_00168,DRV_00168,Suzuki,Ertiga,2022,VJ 16 JM GP,Large Capacity (UberXL/Bolt XL)
-VEH_00169,DRV_00169,Suzuki,Ertiga,2025,KO 30 MQ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00170,DRV_00170,Renault,Triber,2025,JD 82 FV GP,Large Capacity (UberXL/Bolt XL)
-VEH_00171,DRV_00171,Nissan,Almera,2021,CP 27 XP GP,Standard (UberX/Bolt)
-VEH_00172,DRV_00172,Toyota,Avanza,2017,MN 98 RZ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00173,DRV_00173,Toyota,Avanza,2022,WW 18 BO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00174,DRV_00174,Nissan,Almera,2024,IV 61 NC CA,Standard (UberX/Bolt)
-VEH_00175,DRV_00175,Toyota,Corolla Quest,2016,GM 45 HL NW,Standard (UberX/Bolt)
-VEH_00176,DRV_00176,Suzuki,Ertiga,2020,VS 61 ZQ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00177,DRV_00177,Hyundai,Grand i10,2019,IW 55 WL NW,Standard (UberX/Bolt)
-VEH_00178,DRV_00178,BMW,3 Series,2019,WR 26 VZ GP,Comfort (Uber Comfort)
-VEH_00179,DRV_00179,Suzuki,Ertiga,2021,BZ 44 NX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00180,DRV_00180,Hyundai,Grand i10,2018,VA 91 FC GP,Standard (UberX/Bolt)
-VEH_00181,DRV_00181,Suzuki,Ertiga,2020,NO 92 RK NW,Large Capacity (UberXL/Bolt XL)
-VEH_00182,DRV_00182,Toyota,Avanza,2016,SW 38 SI GP,Large Capacity (UberXL/Bolt XL)
-VEH_00183,DRV_00183,Volkswagen,Polo Vivo,2022,CR 76 DO NW,Standard (UberX/Bolt)
-VEH_00184,DRV_00184,Suzuki,Ertiga,2019,RS 55 QS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00185,DRV_00185,Renault,Triber,2017,KF 11 KY GP,Large Capacity (UberXL/Bolt XL)
-VEH_00186,DRV_00186,Toyota,Corolla Quest,2023,DU 86 MR GP,Standard (UberX/Bolt)
-VEH_00187,DRV_00187,Suzuki,Ertiga,2022,HM 43 TM GP,Large Capacity (UberXL/Bolt XL)
-VEH_00188,DRV_00188,Toyota,Corolla Quest,2023,YE 16 ZN NW,Standard (UberX/Bolt)
-VEH_00189,DRV_00189,Volkswagen,Polo Vivo,2024,VO 73 GZ CA,Standard (UberX/Bolt)
-VEH_00190,DRV_00190,Kia,Picanto,2021,AF 69 FW GP,Standard (UberX/Bolt)
-VEH_00191,DRV_00191,Toyota,Avanza,2021,RK 20 UI GP,Large Capacity (UberXL/Bolt XL)
-VEH_00192,DRV_00192,BMW,3 Series,2023,HJ 63 SF CA,Comfort (Uber Comfort)
-VEH_00193,DRV_00193,Renault,Triber,2021,TL 31 OX GP,Large Capacity (UberXL/Bolt XL)
-VEH_00194,DRV_00194,Toyota,Corolla Quest,2021,KC 61 GD GP,Standard (UberX/Bolt)
-VEH_00195,DRV_00195,Toyota,Corolla Quest,2016,LO 42 WC NW,Standard (UberX/Bolt)
-VEH_00196,DRV_00196,Suzuki,Ertiga,2018,BV 17 UA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00197,DRV_00197,Kia,Picanto,2018,AZ 29 YX CA,Standard (UberX/Bolt)
-VEH_00198,DRV_00198,Toyota,Avanza,2022,ZK 82 NS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00199,DRV_00199,Volkswagen,Polo Vivo,2020,VW 68 NE GP,Standard (UberX/Bolt)
-VEH_00200,DRV_00200,Toyota,Avanza,2019,DP 86 MX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00201,DRV_00201,Volkswagen,Polo Vivo,2023,XX 89 CM GP,Standard (UberX/Bolt)
-VEH_00202,DRV_00202,BMW,3 Series,2016,YY 90 OD CA,Comfort (Uber Comfort)
-VEH_00203,DRV_00203,Kia,Picanto,2023,IJ 61 ZS NW,Standard (UberX/Bolt)
-VEH_00204,DRV_00204,Kia,Picanto,2024,CX 12 WL GP,Standard (UberX/Bolt)
-VEH_00205,DRV_00205,Kia,Picanto,2024,XQ 26 HO NW,Standard (UberX/Bolt)
-VEH_00206,DRV_00206,BMW,3 Series,2020,QS 57 GA GP,Comfort (Uber Comfort)
-VEH_00207,DRV_00207,Renault,Triber,2019,FK 78 JS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00208,DRV_00208,Volkswagen,Polo Vivo,2020,MN 84 PD NW,Standard (UberX/Bolt)
-VEH_00209,DRV_00209,Renault,Triber,2016,UF 13 XE NW,Large Capacity (UberXL/Bolt XL)
-VEH_00210,DRV_00210,Volkswagen,Polo Vivo,2025,VZ 52 VD GP,Standard (UberX/Bolt)
-VEH_00211,DRV_00211,Volkswagen,Polo Vivo,2023,MK 62 VB GP,Standard (UberX/Bolt)
-VEH_00212,DRV_00212,Toyota,Avanza,2019,QQ 41 AN GP,Large Capacity (UberXL/Bolt XL)
-VEH_00213,DRV_00213,Renault,Triber,2023,LX 52 LI GP,Large Capacity (UberXL/Bolt XL)
-VEH_00214,DRV_00214,Toyota,Corolla Quest,2019,SW 32 BV GP,Standard (UberX/Bolt)
-VEH_00215,DRV_00215,Toyota,Avanza,2025,TF 12 QJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00216,DRV_00216,Hyundai,Grand i10,2021,XD 21 JU GP,Standard (UberX/Bolt)
-VEH_00217,DRV_00217,Renault,Triber,2017,AO 57 BA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00218,DRV_00218,Suzuki,Ertiga,2021,QQ 63 IR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00219,DRV_00219,Suzuki,Ertiga,2022,MM 99 IH CA,Large Capacity (UberXL/Bolt XL)
-VEH_00220,DRV_00220,Hyundai,Grand i10,2016,ZL 24 ET GP,Standard (UberX/Bolt)
-VEH_00221,DRV_00221,Volkswagen,Polo Vivo,2022,QB 74 CH GP,Standard (UberX/Bolt)
-VEH_00222,DRV_00222,Nissan,Almera,2021,ZA 93 HQ NW,Standard (UberX/Bolt)
-VEH_00223,DRV_00223,Renault,Triber,2017,EX 87 XD CA,Large Capacity (UberXL/Bolt XL)
-VEH_00224,DRV_00224,BMW,3 Series,2016,SJ 26 GL NW,Comfort (Uber Comfort)
-VEH_00225,DRV_00225,Toyota,Avanza,2018,YI 35 VY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00226,DRV_00226,Suzuki,Ertiga,2022,RY 98 KE NW,Large Capacity (UberXL/Bolt XL)
-VEH_00227,DRV_00227,Volkswagen,Polo Vivo,2025,RU 25 VF NW,Standard (UberX/Bolt)
-VEH_00228,DRV_00228,Renault,Triber,2023,UT 80 WV CA,Large Capacity (UberXL/Bolt XL)
-VEH_00229,DRV_00229,Nissan,Almera,2025,FV 24 HT NW,Standard (UberX/Bolt)
-VEH_00230,DRV_00230,Toyota,Corolla Quest,2019,KW 77 WE NW,Standard (UberX/Bolt)
-VEH_00231,DRV_00231,Suzuki,Ertiga,2019,ZI 26 JP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00232,DRV_00232,Toyota,Corolla Quest,2019,PM 70 GK GP,Standard (UberX/Bolt)
-VEH_00233,DRV_00233,Hyundai,Grand i10,2022,EW 75 SI CA,Standard (UberX/Bolt)
-VEH_00234,DRV_00234,Hyundai,Grand i10,2017,KF 75 HM NW,Standard (UberX/Bolt)
-VEH_00235,DRV_00235,Nissan,Almera,2023,DT 98 EW NW,Standard (UberX/Bolt)
-VEH_00236,DRV_00236,Suzuki,Ertiga,2024,IZ 32 KP GP,Large Capacity (UberXL/Bolt XL)
-VEH_00237,DRV_00237,Volkswagen,Polo Vivo,2022,DQ 30 UY NW,Standard (UberX/Bolt)
-VEH_00238,DRV_00238,Kia,Picanto,2021,KX 50 KV NW,Standard (UberX/Bolt)
-VEH_00239,DRV_00239,Toyota,Avanza,2023,DK 74 OL NW,Large Capacity (UberXL/Bolt XL)
-VEH_00240,DRV_00240,Suzuki,Ertiga,2025,HV 50 HO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00241,DRV_00241,Toyota,Avanza,2019,UT 54 QD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00242,DRV_00242,Volkswagen,Polo Vivo,2017,RK 32 CG GP,Standard (UberX/Bolt)
-VEH_00243,DRV_00243,Renault,Triber,2016,EA 46 RK GP,Large Capacity (UberXL/Bolt XL)
-VEH_00244,DRV_00244,Renault,Triber,2021,BR 45 OJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00245,DRV_00245,BMW,3 Series,2024,NJ 22 FT NW,Comfort (Uber Comfort)
-VEH_00246,DRV_00246,Toyota,Corolla Quest,2018,JD 67 NC NW,Standard (UberX/Bolt)
-VEH_00247,DRV_00247,BMW,3 Series,2022,DY 45 PN CA,Comfort (Uber Comfort)
-VEH_00248,DRV_00248,Toyota,Avanza,2018,OK 52 KG NW,Large Capacity (UberXL/Bolt XL)
-VEH_00249,DRV_00249,Hyundai,Grand i10,2025,DF 10 SU GP,Standard (UberX/Bolt)
-VEH_00250,DRV_00250,Renault,Triber,2025,JK 61 LV GP,Large Capacity (UberXL/Bolt XL)
-VEH_00251,DRV_00251,Hyundai,Grand i10,2020,NN 29 GS NW,Standard (UberX/Bolt)
-VEH_00252,DRV_00252,Toyota,Avanza,2016,GB 53 XP GP,Large Capacity (UberXL/Bolt XL)
-VEH_00253,DRV_00253,BMW,3 Series,2017,SK 68 ZN CA,Comfort (Uber Comfort)
-VEH_00254,DRV_00254,Suzuki,Ertiga,2021,OX 37 GI NW,Large Capacity (UberXL/Bolt XL)
-VEH_00255,DRV_00255,Toyota,Avanza,2018,GO 27 DO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00256,DRV_00256,BMW,3 Series,2021,QE 90 XI NW,Comfort (Uber Comfort)
-VEH_00257,DRV_00257,Hyundai,Grand i10,2020,IK 22 JY GP,Standard (UberX/Bolt)
-VEH_00258,DRV_00258,BMW,3 Series,2017,PP 89 YT GP,Comfort (Uber Comfort)
-VEH_00259,DRV_00259,BMW,3 Series,2023,HH 89 FG GP,Comfort (Uber Comfort)
-VEH_00260,DRV_00260,Renault,Triber,2018,UD 93 CT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00261,DRV_00261,Toyota,Avanza,2016,BL 85 IT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00262,DRV_00262,BMW,3 Series,2023,KQ 35 QJ NW,Comfort (Uber Comfort)
-VEH_00263,DRV_00263,Volkswagen,Polo Vivo,2024,YN 22 VC NW,Standard (UberX/Bolt)
-VEH_00264,DRV_00264,BMW,3 Series,2019,GQ 76 IJ GP,Comfort (Uber Comfort)
-VEH_00265,DRV_00265,Hyundai,Grand i10,2020,JI 41 EU NW,Standard (UberX/Bolt)
-VEH_00266,DRV_00266,Volkswagen,Polo Vivo,2020,AG 15 GR NW,Standard (UberX/Bolt)
-VEH_00267,DRV_00267,Suzuki,Ertiga,2022,EN 72 ZL NW,Large Capacity (UberXL/Bolt XL)
-VEH_00268,DRV_00268,Volkswagen,Polo Vivo,2017,ST 28 HD NW,Standard (UberX/Bolt)
-VEH_00269,DRV_00269,BMW,3 Series,2018,OU 69 TV GP,Comfort (Uber Comfort)
-VEH_00270,DRV_00270,Renault,Triber,2022,YR 14 GA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00271,DRV_00271,BMW,3 Series,2024,KV 61 WB GP,Comfort (Uber Comfort)
-VEH_00272,DRV_00272,Suzuki,Ertiga,2019,MJ 13 RA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00273,DRV_00273,Kia,Picanto,2024,MP 59 DE GP,Standard (UberX/Bolt)
-VEH_00274,DRV_00274,BMW,3 Series,2021,AD 73 CY NW,Comfort (Uber Comfort)
-VEH_00275,DRV_00275,Nissan,Almera,2024,MJ 81 CP CA,Standard (UberX/Bolt)
-VEH_00276,DRV_00276,Kia,Picanto,2018,BV 82 LF NW,Standard (UberX/Bolt)
-VEH_00277,DRV_00277,Hyundai,Grand i10,2018,HE 89 OR NW,Standard (UberX/Bolt)
-VEH_00278,DRV_00278,Renault,Triber,2020,MQ 69 EX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00279,DRV_00279,Hyundai,Grand i10,2017,UN 16 CA GP,Standard (UberX/Bolt)
-VEH_00280,DRV_00280,Suzuki,Ertiga,2016,DQ 30 CD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00281,DRV_00281,Hyundai,Grand i10,2019,DA 65 RO GP,Standard (UberX/Bolt)
-VEH_00282,DRV_00282,Kia,Picanto,2025,VW 36 MG NW,Standard (UberX/Bolt)
-VEH_00283,DRV_00283,Renault,Triber,2025,EG 89 VD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00284,DRV_00284,Volkswagen,Polo Vivo,2023,OK 32 YH GP,Standard (UberX/Bolt)
-VEH_00285,DRV_00285,Hyundai,Grand i10,2024,GU 58 LW CA,Standard (UberX/Bolt)
-VEH_00286,DRV_00286,Volkswagen,Polo Vivo,2018,WO 56 KC CA,Standard (UberX/Bolt)
-VEH_00287,DRV_00287,Nissan,Almera,2016,CI 65 HD NW,Standard (UberX/Bolt)
-VEH_00288,DRV_00288,Hyundai,Grand i10,2017,OH 64 BW NW,Standard (UberX/Bolt)
-VEH_00289,DRV_00289,Hyundai,Grand i10,2024,IM 30 DZ GP,Standard (UberX/Bolt)
-VEH_00290,DRV_00290,Volkswagen,Polo Vivo,2023,EJ 50 DE CA,Standard (UberX/Bolt)
-VEH_00291,DRV_00291,Kia,Picanto,2018,MN 92 PB GP,Standard (UberX/Bolt)
-VEH_00292,DRV_00292,Toyota,Corolla Quest,2017,EB 78 VP GP,Standard (UberX/Bolt)
-VEH_00293,DRV_00293,Volkswagen,Polo Vivo,2016,OI 34 TK CA,Standard (UberX/Bolt)
-VEH_00294,DRV_00294,Suzuki,Ertiga,2023,EA 14 GH GP,Large Capacity (UberXL/Bolt XL)
-VEH_00295,DRV_00295,Nissan,Almera,2016,HI 73 OM GP,Standard (UberX/Bolt)
-VEH_00296,DRV_00296,Kia,Picanto,2018,IK 64 DV GP,Standard (UberX/Bolt)
-VEH_00297,DRV_00297,Toyota,Avanza,2021,WG 20 TH CA,Large Capacity (UberXL/Bolt XL)
-VEH_00298,DRV_00298,BMW,3 Series,2019,XT 17 HP GP,Comfort (Uber Comfort)
-VEH_00299,DRV_00299,Volkswagen,Polo Vivo,2024,AU 52 MH CA,Standard (UberX/Bolt)
-VEH_00300,DRV_00300,Volkswagen,Polo Vivo,2021,MP 19 FL GP,Standard (UberX/Bolt)
-VEH_00301,DRV_00301,Hyundai,Grand i10,2022,FL 77 GT NW,Standard (UberX/Bolt)
-VEH_00302,DRV_00302,BMW,3 Series,2024,JK 38 UT GP,Comfort (Uber Comfort)
-VEH_00303,DRV_00303,BMW,3 Series,2024,PL 31 ER NW,Comfort (Uber Comfort)
-VEH_00304,DRV_00304,Volkswagen,Polo Vivo,2023,ME 37 AK NW,Standard (UberX/Bolt)
-VEH_00305,DRV_00305,Renault,Triber,2020,YZ 53 NQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00306,DRV_00306,Suzuki,Ertiga,2023,NN 50 JE GP,Large Capacity (UberXL/Bolt XL)
-VEH_00307,DRV_00307,BMW,3 Series,2020,IK 79 FH GP,Comfort (Uber Comfort)
-VEH_00308,DRV_00308,Toyota,Corolla Quest,2018,TD 31 HB GP,Standard (UberX/Bolt)
-VEH_00309,DRV_00309,Toyota,Avanza,2020,WN 28 LW NW,Large Capacity (UberXL/Bolt XL)
-VEH_00310,DRV_00310,Toyota,Corolla Quest,2024,IL 45 UD GP,Standard (UberX/Bolt)
-VEH_00311,DRV_00311,Renault,Triber,2019,RD 90 GZ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00312,DRV_00312,Volkswagen,Polo Vivo,2019,OG 22 TS CA,Standard (UberX/Bolt)
-VEH_00313,DRV_00313,Renault,Triber,2019,GD 68 VU GP,Large Capacity (UberXL/Bolt XL)
-VEH_00314,DRV_00314,BMW,3 Series,2017,AI 21 DY NW,Comfort (Uber Comfort)
-VEH_00315,DRV_00315,Volkswagen,Polo Vivo,2022,MI 25 HT NW,Standard (UberX/Bolt)
-VEH_00316,DRV_00316,Hyundai,Grand i10,2016,VP 53 OV NW,Standard (UberX/Bolt)
-VEH_00317,DRV_00317,Hyundai,Grand i10,2025,TQ 31 FH GP,Standard (UberX/Bolt)
-VEH_00318,DRV_00318,Renault,Triber,2023,ZD 13 BN GP,Large Capacity (UberXL/Bolt XL)
-VEH_00319,DRV_00319,Toyota,Corolla Quest,2020,VZ 12 SD NW,Standard (UberX/Bolt)
-VEH_00320,DRV_00320,Toyota,Corolla Quest,2022,ZO 55 CG GP,Standard (UberX/Bolt)
-VEH_00321,DRV_00321,Toyota,Avanza,2023,NJ 78 JS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00322,DRV_00322,Volkswagen,Polo Vivo,2022,YU 63 AC NW,Standard (UberX/Bolt)
-VEH_00323,DRV_00323,Hyundai,Grand i10,2020,YJ 94 VX NW,Standard (UberX/Bolt)
-VEH_00324,DRV_00324,Renault,Triber,2019,AV 82 SS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00325,DRV_00325,Renault,Triber,2023,IG 78 IS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00326,DRV_00326,BMW,3 Series,2017,LV 47 TO CA,Comfort (Uber Comfort)
-VEH_00327,DRV_00327,Suzuki,Ertiga,2021,NK 10 RS NW,Large Capacity (UberXL/Bolt XL)
-VEH_00328,DRV_00328,Nissan,Almera,2019,HF 98 HB NW,Standard (UberX/Bolt)
-VEH_00329,DRV_00329,Kia,Picanto,2023,CC 89 OF NW,Standard (UberX/Bolt)
-VEH_00330,DRV_00330,Renault,Triber,2023,MC 92 QD NW,Large Capacity (UberXL/Bolt XL)
-VEH_00331,DRV_00331,Renault,Triber,2023,BQ 35 TZ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00332,DRV_00332,BMW,3 Series,2022,ZR 40 ZD GP,Comfort (Uber Comfort)
-VEH_00333,DRV_00333,BMW,3 Series,2022,TK 77 JM GP,Comfort (Uber Comfort)
-VEH_00334,DRV_00334,Volkswagen,Polo Vivo,2022,ZI 57 TK NW,Standard (UberX/Bolt)
-VEH_00335,DRV_00335,Suzuki,Ertiga,2021,BE 84 KP CA,Large Capacity (UberXL/Bolt XL)
-VEH_00336,DRV_00336,BMW,3 Series,2021,VD 74 VF GP,Comfort (Uber Comfort)
-VEH_00337,DRV_00337,Hyundai,Grand i10,2025,NI 12 CY GP,Standard (UberX/Bolt)
-VEH_00338,DRV_00338,Kia,Picanto,2022,WU 53 JQ GP,Standard (UberX/Bolt)
-VEH_00339,DRV_00339,Toyota,Avanza,2018,EO 37 GP GP,Large Capacity (UberXL/Bolt XL)
-VEH_00340,DRV_00340,Suzuki,Ertiga,2017,ZP 76 QG NW,Large Capacity (UberXL/Bolt XL)
-VEH_00341,DRV_00341,Renault,Triber,2016,HO 59 JP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00342,DRV_00342,Kia,Picanto,2019,KE 79 YI GP,Standard (UberX/Bolt)
-VEH_00343,DRV_00343,Nissan,Almera,2022,JY 33 DX GP,Standard (UberX/Bolt)
-VEH_00344,DRV_00344,Renault,Triber,2018,VS 47 RO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00345,DRV_00345,Renault,Triber,2018,FL 34 CN CA,Large Capacity (UberXL/Bolt XL)
-VEH_00346,DRV_00346,Toyota,Avanza,2020,AM 67 VE GP,Large Capacity (UberXL/Bolt XL)
-VEH_00347,DRV_00347,Hyundai,Grand i10,2019,GK 38 PI NW,Standard (UberX/Bolt)
-VEH_00348,DRV_00348,Renault,Triber,2020,FE 23 SY GP,Large Capacity (UberXL/Bolt XL)
-VEH_00349,DRV_00349,Renault,Triber,2022,MT 17 WS NW,Large Capacity (UberXL/Bolt XL)
-VEH_00350,DRV_00350,Volkswagen,Polo Vivo,2022,WE 31 ZI NW,Standard (UberX/Bolt)
-VEH_00351,DRV_00351,BMW,3 Series,2016,VH 15 TN GP,Comfort (Uber Comfort)
-VEH_00352,DRV_00352,Kia,Picanto,2025,AY 57 SX CA,Standard (UberX/Bolt)
-VEH_00353,DRV_00353,Volkswagen,Polo Vivo,2024,DV 50 DY NW,Standard (UberX/Bolt)
-VEH_00354,DRV_00354,Toyota,Corolla Quest,2017,DP 94 OH GP,Standard (UberX/Bolt)
-VEH_00355,DRV_00355,Hyundai,Grand i10,2024,FC 25 RU NW,Standard (UberX/Bolt)
-VEH_00356,DRV_00356,Hyundai,Grand i10,2018,HT 42 HL GP,Standard (UberX/Bolt)
-VEH_00357,DRV_00357,Volkswagen,Polo Vivo,2019,CW 95 YG NW,Standard (UberX/Bolt)
-VEH_00358,DRV_00358,Kia,Picanto,2020,UX 84 BL NW,Standard (UberX/Bolt)
-VEH_00359,DRV_00359,Hyundai,Grand i10,2019,AK 16 TF CA,Standard (UberX/Bolt)
-VEH_00360,DRV_00360,Kia,Picanto,2019,JJ 79 BW NW,Standard (UberX/Bolt)
-VEH_00361,DRV_00361,Hyundai,Grand i10,2023,TJ 52 VW NW,Standard (UberX/Bolt)
-VEH_00362,DRV_00362,BMW,3 Series,2022,LI 81 TC NW,Comfort (Uber Comfort)
-VEH_00363,DRV_00363,Renault,Triber,2017,EX 83 WZ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00364,DRV_00364,Toyota,Avanza,2025,CY 14 CG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00365,DRV_00365,Volkswagen,Polo Vivo,2019,JE 67 VE CA,Standard (UberX/Bolt)
-VEH_00366,DRV_00366,Nissan,Almera,2020,NO 56 SD NW,Standard (UberX/Bolt)
-VEH_00367,DRV_00367,Nissan,Almera,2020,NB 66 QG GP,Standard (UberX/Bolt)
-VEH_00368,DRV_00368,Toyota,Avanza,2025,SP 89 RC NW,Large Capacity (UberXL/Bolt XL)
-VEH_00369,DRV_00369,BMW,3 Series,2017,RV 40 DU GP,Comfort (Uber Comfort)
-VEH_00370,DRV_00370,Toyota,Avanza,2019,GP 57 WL CA,Large Capacity (UberXL/Bolt XL)
-VEH_00371,DRV_00371,Toyota,Avanza,2022,ND 16 IV GP,Large Capacity (UberXL/Bolt XL)
-VEH_00372,DRV_00372,Volkswagen,Polo Vivo,2022,AZ 95 MW CA,Standard (UberX/Bolt)
-VEH_00373,DRV_00373,Nissan,Almera,2017,ZL 58 TV GP,Standard (UberX/Bolt)
-VEH_00374,DRV_00374,Hyundai,Grand i10,2016,TX 30 KG GP,Standard (UberX/Bolt)
-VEH_00375,DRV_00375,Kia,Picanto,2024,XQ 51 JI GP,Standard (UberX/Bolt)
-VEH_00376,DRV_00376,BMW,3 Series,2023,PH 21 OC NW,Comfort (Uber Comfort)
-VEH_00377,DRV_00377,Toyota,Corolla Quest,2023,DK 94 PT NW,Standard (UberX/Bolt)
-VEH_00378,DRV_00378,Toyota,Avanza,2021,AE 82 EW GP,Large Capacity (UberXL/Bolt XL)
-VEH_00379,DRV_00379,Toyota,Avanza,2018,EF 34 AG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00380,DRV_00380,Toyota,Corolla Quest,2022,ZM 64 VO CA,Standard (UberX/Bolt)
-VEH_00381,DRV_00381,Volkswagen,Polo Vivo,2022,BE 27 ZC GP,Standard (UberX/Bolt)
-VEH_00382,DRV_00382,Hyundai,Grand i10,2025,TA 27 CP GP,Standard (UberX/Bolt)
-VEH_00383,DRV_00383,Kia,Picanto,2023,YB 75 RG NW,Standard (UberX/Bolt)
-VEH_00384,DRV_00384,Toyota,Corolla Quest,2016,QL 53 XZ CA,Standard (UberX/Bolt)
-VEH_00385,DRV_00385,Suzuki,Ertiga,2016,OJ 93 ZH NW,Large Capacity (UberXL/Bolt XL)
-VEH_00386,DRV_00386,Renault,Triber,2021,MI 34 FH GP,Large Capacity (UberXL/Bolt XL)
-VEH_00387,DRV_00387,BMW,3 Series,2016,XP 40 TB GP,Comfort (Uber Comfort)
-VEH_00388,DRV_00388,Hyundai,Grand i10,2021,CF 91 TV NW,Standard (UberX/Bolt)
-VEH_00389,DRV_00389,Suzuki,Ertiga,2017,FI 25 HQ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00390,DRV_00390,Renault,Triber,2020,CO 87 JI NW,Large Capacity (UberXL/Bolt XL)
-VEH_00391,DRV_00391,Volkswagen,Polo Vivo,2017,JS 25 PZ NW,Standard (UberX/Bolt)
-VEH_00392,DRV_00392,Toyota,Corolla Quest,2022,KE 11 HZ GP,Standard (UberX/Bolt)
-VEH_00393,DRV_00393,Volkswagen,Polo Vivo,2025,KP 39 RT NW,Standard (UberX/Bolt)
-VEH_00394,DRV_00394,Toyota,Avanza,2023,AG 94 LX CA,Large Capacity (UberXL/Bolt XL)
-VEH_00395,DRV_00395,Toyota,Corolla Quest,2024,NU 67 BF GP,Standard (UberX/Bolt)
-VEH_00396,DRV_00396,Toyota,Corolla Quest,2016,KX 65 WL NW,Standard (UberX/Bolt)
-VEH_00397,DRV_00397,Renault,Triber,2019,ZL 90 AG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00398,DRV_00398,Toyota,Avanza,2024,DE 60 DJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00399,DRV_00399,Toyota,Avanza,2024,EG 49 NI CA,Large Capacity (UberXL/Bolt XL)
-VEH_00400,DRV_00400,Toyota,Corolla Quest,2020,WE 56 NI NW,Standard (UberX/Bolt)
-VEH_00401,DRV_00401,Kia,Picanto,2021,BM 29 AJ NW,Standard (UberX/Bolt)
-VEH_00402,DRV_00402,Toyota,Avanza,2020,DI 87 TC NW,Large Capacity (UberXL/Bolt XL)
-VEH_00403,DRV_00403,BMW,3 Series,2021,JP 48 KG GP,Comfort (Uber Comfort)
-VEH_00404,DRV_00404,Suzuki,Ertiga,2020,KZ 26 EF NW,Large Capacity (UberXL/Bolt XL)
-VEH_00405,DRV_00405,Renault,Triber,2025,YR 28 SZ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00406,DRV_00406,Kia,Picanto,2022,YN 25 NZ GP,Standard (UberX/Bolt)
-VEH_00407,DRV_00407,BMW,3 Series,2019,IK 65 ZO GP,Comfort (Uber Comfort)
-VEH_00408,DRV_00408,Kia,Picanto,2023,EB 82 CD GP,Standard (UberX/Bolt)
-VEH_00409,DRV_00409,Renault,Triber,2022,XV 35 WH GP,Large Capacity (UberXL/Bolt XL)
-VEH_00410,DRV_00410,BMW,3 Series,2024,EM 54 DB NW,Comfort (Uber Comfort)
-VEH_00411,DRV_00411,Kia,Picanto,2025,FP 12 XC NW,Standard (UberX/Bolt)
-VEH_00412,DRV_00412,Suzuki,Ertiga,2019,RT 51 XU CA,Large Capacity (UberXL/Bolt XL)
-VEH_00413,DRV_00413,Renault,Triber,2019,SV 47 MA GP,Large Capacity (UberXL/Bolt XL)
-VEH_00414,DRV_00414,Toyota,Avanza,2024,LH 35 HX GP,Large Capacity (UberXL/Bolt XL)
-VEH_00415,DRV_00415,Renault,Triber,2022,VY 69 CP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00416,DRV_00416,Renault,Triber,2018,TM 59 WC NW,Large Capacity (UberXL/Bolt XL)
-VEH_00417,DRV_00417,Kia,Picanto,2018,SL 52 TM GP,Standard (UberX/Bolt)
-VEH_00418,DRV_00418,Kia,Picanto,2016,DN 30 XL GP,Standard (UberX/Bolt)
-VEH_00419,DRV_00419,BMW,3 Series,2022,KH 83 CN NW,Comfort (Uber Comfort)
-VEH_00420,DRV_00420,Volkswagen,Polo Vivo,2022,HQ 90 FM GP,Standard (UberX/Bolt)
-VEH_00421,DRV_00421,Kia,Picanto,2016,ZD 10 LD GP,Standard (UberX/Bolt)
-VEH_00422,DRV_00422,Suzuki,Ertiga,2017,JW 24 MQ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00423,DRV_00423,Suzuki,Ertiga,2024,CK 22 DB GP,Large Capacity (UberXL/Bolt XL)
-VEH_00424,DRV_00424,Hyundai,Grand i10,2024,PH 13 TO GP,Standard (UberX/Bolt)
-VEH_00425,DRV_00425,Toyota,Corolla Quest,2020,GH 53 EF NW,Standard (UberX/Bolt)
-VEH_00426,DRV_00426,Suzuki,Ertiga,2025,KQ 17 PY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00427,DRV_00427,Renault,Triber,2020,DZ 45 HZ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00428,DRV_00428,Suzuki,Ertiga,2022,ZC 81 BI CA,Large Capacity (UberXL/Bolt XL)
-VEH_00429,DRV_00429,Nissan,Almera,2025,ZF 43 JN NW,Standard (UberX/Bolt)
-VEH_00430,DRV_00430,Toyota,Avanza,2023,QW 21 KP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00431,DRV_00431,BMW,3 Series,2019,VI 14 YY NW,Comfort (Uber Comfort)
-VEH_00432,DRV_00432,Renault,Triber,2019,VH 67 WP GP,Large Capacity (UberXL/Bolt XL)
-VEH_00433,DRV_00433,Toyota,Corolla Quest,2023,WW 56 ZC NW,Standard (UberX/Bolt)
-VEH_00434,DRV_00434,Suzuki,Ertiga,2023,GX 29 CN CA,Large Capacity (UberXL/Bolt XL)
-VEH_00435,DRV_00435,BMW,3 Series,2017,US 23 TR GP,Comfort (Uber Comfort)
-VEH_00436,DRV_00436,Kia,Picanto,2019,CL 90 XM GP,Standard (UberX/Bolt)
-VEH_00437,DRV_00437,Nissan,Almera,2024,AR 86 HR NW,Standard (UberX/Bolt)
-VEH_00438,DRV_00438,Toyota,Avanza,2023,RU 97 CL NW,Large Capacity (UberXL/Bolt XL)
-VEH_00439,DRV_00439,Toyota,Corolla Quest,2021,HV 57 KB GP,Standard (UberX/Bolt)
-VEH_00440,DRV_00440,Toyota,Avanza,2019,ID 42 ZC NW,Large Capacity (UberXL/Bolt XL)
-VEH_00441,DRV_00441,BMW,3 Series,2022,HP 75 QI GP,Comfort (Uber Comfort)
-VEH_00442,DRV_00442,Toyota,Avanza,2019,ZT 34 TU GP,Large Capacity (UberXL/Bolt XL)
-VEH_00443,DRV_00443,Volkswagen,Polo Vivo,2019,TL 83 ZM GP,Standard (UberX/Bolt)
-VEH_00444,DRV_00444,Toyota,Avanza,2021,ES 15 KF NW,Large Capacity (UberXL/Bolt XL)
-VEH_00445,DRV_00445,Suzuki,Ertiga,2021,SZ 78 KG NW,Large Capacity (UberXL/Bolt XL)
-VEH_00446,DRV_00446,Renault,Triber,2025,YU 79 FD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00447,DRV_00447,Toyota,Corolla Quest,2019,GC 87 BK NW,Standard (UberX/Bolt)
-VEH_00448,DRV_00448,Kia,Picanto,2025,IL 92 NX GP,Standard (UberX/Bolt)
-VEH_00449,DRV_00449,Toyota,Avanza,2025,OM 49 GK GP,Large Capacity (UberXL/Bolt XL)
-VEH_00450,DRV_00450,Toyota,Corolla Quest,2022,FI 10 MA GP,Standard (UberX/Bolt)
-VEH_00451,DRV_00451,Nissan,Almera,2024,ZY 14 FD GP,Standard (UberX/Bolt)
-VEH_00452,DRV_00452,Volkswagen,Polo Vivo,2024,KX 47 FI GP,Standard (UberX/Bolt)
-VEH_00453,DRV_00453,Suzuki,Ertiga,2018,SD 29 UQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00454,DRV_00454,Hyundai,Grand i10,2019,YK 77 NX GP,Standard (UberX/Bolt)
-VEH_00455,DRV_00455,Hyundai,Grand i10,2016,AY 75 RQ CA,Standard (UberX/Bolt)
-VEH_00456,DRV_00456,Hyundai,Grand i10,2016,AM 70 KD CA,Standard (UberX/Bolt)
-VEH_00457,DRV_00457,Toyota,Corolla Quest,2023,DP 72 EZ CA,Standard (UberX/Bolt)
-VEH_00458,DRV_00458,BMW,3 Series,2025,PR 45 ZG CA,Comfort (Uber Comfort)
-VEH_00459,DRV_00459,Kia,Picanto,2024,VE 76 OC NW,Standard (UberX/Bolt)
-VEH_00460,DRV_00460,Nissan,Almera,2019,EE 27 BN NW,Standard (UberX/Bolt)
-VEH_00461,DRV_00461,Volkswagen,Polo Vivo,2017,ZX 29 MX GP,Standard (UberX/Bolt)
-VEH_00462,DRV_00462,Volkswagen,Polo Vivo,2020,BD 14 NL GP,Standard (UberX/Bolt)
-VEH_00463,DRV_00463,Toyota,Corolla Quest,2024,HY 14 DS CA,Standard (UberX/Bolt)
-VEH_00464,DRV_00464,Volkswagen,Polo Vivo,2025,KT 89 HB NW,Standard (UberX/Bolt)
-VEH_00465,DRV_00465,Kia,Picanto,2018,XG 55 LE CA,Standard (UberX/Bolt)
-VEH_00466,DRV_00466,Renault,Triber,2019,WF 17 DK NW,Large Capacity (UberXL/Bolt XL)
-VEH_00467,DRV_00467,Toyota,Avanza,2022,MO 46 AM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00468,DRV_00468,Hyundai,Grand i10,2024,XB 31 OI GP,Standard (UberX/Bolt)
-VEH_00469,DRV_00469,Suzuki,Ertiga,2020,DC 43 CX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00470,DRV_00470,Nissan,Almera,2021,FA 85 LA NW,Standard (UberX/Bolt)
-VEH_00471,DRV_00471,Toyota,Avanza,2025,JU 11 NV NW,Large Capacity (UberXL/Bolt XL)
-VEH_00472,DRV_00472,Nissan,Almera,2019,YS 88 RG GP,Standard (UberX/Bolt)
-VEH_00473,DRV_00473,Suzuki,Ertiga,2023,CL 11 BJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00474,DRV_00474,BMW,3 Series,2016,MD 30 BD GP,Comfort (Uber Comfort)
-VEH_00475,DRV_00475,Toyota,Corolla Quest,2020,GQ 17 YP NW,Standard (UberX/Bolt)
-VEH_00476,DRV_00476,Toyota,Avanza,2020,AC 95 VU GP,Large Capacity (UberXL/Bolt XL)
-VEH_00477,DRV_00477,Volkswagen,Polo Vivo,2019,WY 25 GO NW,Standard (UberX/Bolt)
-VEH_00478,DRV_00478,Volkswagen,Polo Vivo,2019,XD 60 IA GP,Standard (UberX/Bolt)
-VEH_00479,DRV_00479,Toyota,Avanza,2023,RL 26 FX GP,Large Capacity (UberXL/Bolt XL)
-VEH_00480,DRV_00480,Hyundai,Grand i10,2020,XM 88 YL NW,Standard (UberX/Bolt)
-VEH_00481,DRV_00481,Toyota,Avanza,2022,EP 18 GA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00482,DRV_00482,Suzuki,Ertiga,2019,JG 38 YA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00483,DRV_00483,Suzuki,Ertiga,2025,RF 15 PI NW,Large Capacity (UberXL/Bolt XL)
-VEH_00484,DRV_00484,Toyota,Corolla Quest,2024,ZD 66 VN GP,Standard (UberX/Bolt)
-VEH_00485,DRV_00485,Renault,Triber,2023,DB 11 NV CA,Large Capacity (UberXL/Bolt XL)
-VEH_00486,DRV_00486,Kia,Picanto,2016,NK 65 ZZ GP,Standard (UberX/Bolt)
-VEH_00487,DRV_00487,Volkswagen,Polo Vivo,2017,EZ 80 TG GP,Standard (UberX/Bolt)
-VEH_00488,DRV_00488,Hyundai,Grand i10,2019,YX 29 LD GP,Standard (UberX/Bolt)
-VEH_00489,DRV_00489,Nissan,Almera,2016,VS 12 SR GP,Standard (UberX/Bolt)
-VEH_00490,DRV_00490,Renault,Triber,2016,EB 54 MD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00491,DRV_00491,Nissan,Almera,2016,NB 66 YH GP,Standard (UberX/Bolt)
-VEH_00492,DRV_00492,Volkswagen,Polo Vivo,2023,FA 20 AI NW,Standard (UberX/Bolt)
-VEH_00493,DRV_00493,BMW,3 Series,2023,LP 95 DK GP,Comfort (Uber Comfort)
-VEH_00494,DRV_00494,BMW,3 Series,2025,DM 52 PQ NW,Comfort (Uber Comfort)
-VEH_00495,DRV_00495,Toyota,Avanza,2019,JM 13 DE NW,Large Capacity (UberXL/Bolt XL)
-VEH_00496,DRV_00496,Nissan,Almera,2020,CA 68 BH GP,Standard (UberX/Bolt)
-VEH_00497,DRV_00497,Toyota,Corolla Quest,2023,VG 45 WK GP,Standard (UberX/Bolt)
-VEH_00498,DRV_00498,Kia,Picanto,2024,FK 94 IL GP,Standard (UberX/Bolt)
-VEH_00499,DRV_00499,Kia,Picanto,2023,TY 73 NO NW,Standard (UberX/Bolt)
-VEH_00500,DRV_00500,Renault,Triber,2021,DR 96 MY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00501,DRV_00501,Toyota,Corolla Quest,2024,KB 39 VF GP,Standard (UberX/Bolt)
-VEH_00502,DRV_00502,Hyundai,Grand i10,2021,RU 74 KK NW,Standard (UberX/Bolt)
-VEH_00503,DRV_00503,BMW,3 Series,2024,KR 61 NT GP,Comfort (Uber Comfort)
-VEH_00504,DRV_00504,BMW,3 Series,2018,GT 88 YP NW,Comfort (Uber Comfort)
-VEH_00505,DRV_00505,Toyota,Corolla Quest,2020,KE 39 KG NW,Standard (UberX/Bolt)
-VEH_00506,DRV_00506,Hyundai,Grand i10,2018,ZJ 77 GE CA,Standard (UberX/Bolt)
-VEH_00507,DRV_00507,Volkswagen,Polo Vivo,2020,HX 29 KY GP,Standard (UberX/Bolt)
-VEH_00508,DRV_00508,Kia,Picanto,2024,QY 31 JG GP,Standard (UberX/Bolt)
-VEH_00509,DRV_00509,Hyundai,Grand i10,2020,CS 26 GI NW,Standard (UberX/Bolt)
-VEH_00510,DRV_00510,Kia,Picanto,2024,MB 80 QQ CA,Standard (UberX/Bolt)
-VEH_00511,DRV_00511,Renault,Triber,2019,AI 93 QN NW,Large Capacity (UberXL/Bolt XL)
-VEH_00512,DRV_00512,Volkswagen,Polo Vivo,2025,YX 82 BJ GP,Standard (UberX/Bolt)
-VEH_00513,DRV_00513,BMW,3 Series,2016,WQ 74 VY NW,Comfort (Uber Comfort)
-VEH_00514,DRV_00514,Hyundai,Grand i10,2019,EM 42 FB GP,Standard (UberX/Bolt)
-VEH_00515,DRV_00515,Renault,Triber,2019,RI 75 XB NW,Large Capacity (UberXL/Bolt XL)
-VEH_00516,DRV_00516,Volkswagen,Polo Vivo,2017,GW 46 YJ GP,Standard (UberX/Bolt)
-VEH_00517,DRV_00517,Suzuki,Ertiga,2016,TU 46 ZS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00518,DRV_00518,Renault,Triber,2024,EP 18 KS CA,Large Capacity (UberXL/Bolt XL)
-VEH_00519,DRV_00519,Hyundai,Grand i10,2025,EK 81 FN NW,Standard (UberX/Bolt)
-VEH_00520,DRV_00520,Toyota,Corolla Quest,2020,XC 29 NI GP,Standard (UberX/Bolt)
-VEH_00521,DRV_00521,Kia,Picanto,2020,QI 64 SA NW,Standard (UberX/Bolt)
-VEH_00522,DRV_00522,Nissan,Almera,2017,XD 41 BW NW,Standard (UberX/Bolt)
-VEH_00523,DRV_00523,Toyota,Avanza,2023,GT 86 TG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00524,DRV_00524,Kia,Picanto,2016,SM 82 DP NW,Standard (UberX/Bolt)
-VEH_00525,DRV_00525,Toyota,Corolla Quest,2018,HM 46 DK GP,Standard (UberX/Bolt)
-VEH_00526,DRV_00526,Toyota,Corolla Quest,2019,TW 78 UM GP,Standard (UberX/Bolt)
-VEH_00527,DRV_00527,Toyota,Corolla Quest,2019,IP 60 AH NW,Standard (UberX/Bolt)
-VEH_00528,DRV_00528,Suzuki,Ertiga,2016,ZL 11 YD NW,Large Capacity (UberXL/Bolt XL)
-VEH_00529,DRV_00529,Toyota,Corolla Quest,2024,SD 83 GA NW,Standard (UberX/Bolt)
-VEH_00530,DRV_00530,Kia,Picanto,2020,UH 92 ZX GP,Standard (UberX/Bolt)
-VEH_00531,DRV_00531,Toyota,Corolla Quest,2022,PE 13 SM NW,Standard (UberX/Bolt)
-VEH_00532,DRV_00532,Kia,Picanto,2023,QB 87 OF NW,Standard (UberX/Bolt)
-VEH_00533,DRV_00533,Toyota,Corolla Quest,2017,FW 12 VV CA,Standard (UberX/Bolt)
-VEH_00534,DRV_00534,Volkswagen,Polo Vivo,2018,YI 91 AS NW,Standard (UberX/Bolt)
-VEH_00535,DRV_00535,Renault,Triber,2017,GA 70 JR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00536,DRV_00536,Nissan,Almera,2024,RQ 74 NI GP,Standard (UberX/Bolt)
-VEH_00537,DRV_00537,Hyundai,Grand i10,2024,MF 23 IG GP,Standard (UberX/Bolt)
-VEH_00538,DRV_00538,Suzuki,Ertiga,2020,GS 12 SY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00539,DRV_00539,Nissan,Almera,2016,GE 80 WK NW,Standard (UberX/Bolt)
-VEH_00540,DRV_00540,Volkswagen,Polo Vivo,2022,CA 11 EB NW,Standard (UberX/Bolt)
-VEH_00541,DRV_00541,BMW,3 Series,2025,LR 58 LN NW,Comfort (Uber Comfort)
-VEH_00542,DRV_00542,Suzuki,Ertiga,2020,GK 62 JR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00543,DRV_00543,Hyundai,Grand i10,2019,XE 26 VC GP,Standard (UberX/Bolt)
-VEH_00544,DRV_00544,Suzuki,Ertiga,2024,KB 69 YA CA,Large Capacity (UberXL/Bolt XL)
-VEH_00545,DRV_00545,Nissan,Almera,2018,XP 23 JK NW,Standard (UberX/Bolt)
-VEH_00546,DRV_00546,Toyota,Corolla Quest,2024,NR 63 YE NW,Standard (UberX/Bolt)
-VEH_00547,DRV_00547,Toyota,Corolla Quest,2025,TK 48 QE NW,Standard (UberX/Bolt)
-VEH_00548,DRV_00548,Toyota,Corolla Quest,2024,EL 21 FV GP,Standard (UberX/Bolt)
-VEH_00549,DRV_00549,Suzuki,Ertiga,2020,HB 29 FA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00550,DRV_00550,Kia,Picanto,2025,AB 81 MA NW,Standard (UberX/Bolt)
-VEH_00551,DRV_00551,Suzuki,Ertiga,2019,QZ 19 OM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00552,DRV_00552,Hyundai,Grand i10,2018,XG 80 HT NW,Standard (UberX/Bolt)
-VEH_00553,DRV_00553,Renault,Triber,2021,DD 41 OQ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00554,DRV_00554,Nissan,Almera,2024,JG 39 IK GP,Standard (UberX/Bolt)
-VEH_00555,DRV_00555,Renault,Triber,2020,ON 68 LF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00556,DRV_00556,Kia,Picanto,2019,YX 89 YF NW,Standard (UberX/Bolt)
-VEH_00557,DRV_00557,Nissan,Almera,2017,QQ 19 HD NW,Standard (UberX/Bolt)
-VEH_00558,DRV_00558,Hyundai,Grand i10,2021,BV 61 IV NW,Standard (UberX/Bolt)
-VEH_00559,DRV_00559,Kia,Picanto,2024,JN 58 VK GP,Standard (UberX/Bolt)
-VEH_00560,DRV_00560,Nissan,Almera,2022,EL 14 NS GP,Standard (UberX/Bolt)
-VEH_00561,DRV_00561,Kia,Picanto,2023,GM 75 KC GP,Standard (UberX/Bolt)
-VEH_00562,DRV_00562,Toyota,Corolla Quest,2021,ZP 24 FL NW,Standard (UberX/Bolt)
-VEH_00563,DRV_00563,Hyundai,Grand i10,2024,QI 12 ZL GP,Standard (UberX/Bolt)
-VEH_00564,DRV_00564,Hyundai,Grand i10,2021,XO 85 KE GP,Standard (UberX/Bolt)
-VEH_00565,DRV_00565,Hyundai,Grand i10,2024,FI 23 KS NW,Standard (UberX/Bolt)
-VEH_00566,DRV_00566,Hyundai,Grand i10,2020,IA 47 IA NW,Standard (UberX/Bolt)
-VEH_00567,DRV_00567,Kia,Picanto,2025,OH 11 IF NW,Standard (UberX/Bolt)
-VEH_00568,DRV_00568,Toyota,Avanza,2016,RH 98 TL GP,Large Capacity (UberXL/Bolt XL)
-VEH_00569,DRV_00569,Nissan,Almera,2025,TV 85 TK GP,Standard (UberX/Bolt)
-VEH_00570,DRV_00570,Toyota,Avanza,2019,LH 83 PQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00571,DRV_00571,Volkswagen,Polo Vivo,2016,KA 81 QM CA,Standard (UberX/Bolt)
-VEH_00572,DRV_00572,BMW,3 Series,2018,OA 43 CF CA,Comfort (Uber Comfort)
-VEH_00573,DRV_00573,Nissan,Almera,2025,VB 92 QL GP,Standard (UberX/Bolt)
-VEH_00574,DRV_00574,Suzuki,Ertiga,2018,QJ 43 QC GP,Large Capacity (UberXL/Bolt XL)
-VEH_00575,DRV_00575,Suzuki,Ertiga,2021,BY 52 FO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00576,DRV_00576,Toyota,Corolla Quest,2024,KT 72 JV GP,Standard (UberX/Bolt)
-VEH_00577,DRV_00577,Nissan,Almera,2025,SJ 27 OG NW,Standard (UberX/Bolt)
-VEH_00578,DRV_00578,Toyota,Corolla Quest,2020,KG 19 IC NW,Standard (UberX/Bolt)
-VEH_00579,DRV_00579,Toyota,Corolla Quest,2016,UX 73 SF NW,Standard (UberX/Bolt)
-VEH_00580,DRV_00580,Volkswagen,Polo Vivo,2022,BL 70 TP CA,Standard (UberX/Bolt)
-VEH_00581,DRV_00581,BMW,3 Series,2017,HO 14 RU GP,Comfort (Uber Comfort)
-VEH_00582,DRV_00582,Nissan,Almera,2020,QI 18 VY NW,Standard (UberX/Bolt)
-VEH_00583,DRV_00583,Volkswagen,Polo Vivo,2021,SL 61 TC NW,Standard (UberX/Bolt)
-VEH_00584,DRV_00584,Nissan,Almera,2019,TH 81 XL CA,Standard (UberX/Bolt)
-VEH_00585,DRV_00585,Suzuki,Ertiga,2021,QV 91 BE GP,Large Capacity (UberXL/Bolt XL)
-VEH_00586,DRV_00586,Nissan,Almera,2024,KC 31 FW NW,Standard (UberX/Bolt)
-VEH_00587,DRV_00587,Nissan,Almera,2021,OQ 82 NP GP,Standard (UberX/Bolt)
-VEH_00588,DRV_00588,Toyota,Avanza,2025,LL 42 QF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00589,DRV_00589,Nissan,Almera,2016,ZR 73 AQ CA,Standard (UberX/Bolt)
-VEH_00590,DRV_00590,BMW,3 Series,2019,FE 62 VG NW,Comfort (Uber Comfort)
-VEH_00591,DRV_00591,Suzuki,Ertiga,2018,VO 87 VG NW,Large Capacity (UberXL/Bolt XL)
-VEH_00592,DRV_00592,Renault,Triber,2024,LE 59 WZ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00593,DRV_00593,Suzuki,Ertiga,2016,BE 15 QF CA,Large Capacity (UberXL/Bolt XL)
-VEH_00594,DRV_00594,Toyota,Corolla Quest,2021,DN 24 GA GP,Standard (UberX/Bolt)
-VEH_00595,DRV_00595,Hyundai,Grand i10,2023,OQ 64 GX NW,Standard (UberX/Bolt)
-VEH_00596,DRV_00596,Toyota,Corolla Quest,2020,SG 69 HY GP,Standard (UberX/Bolt)
-VEH_00597,DRV_00597,Renault,Triber,2020,JW 88 KJ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00598,DRV_00598,Toyota,Corolla Quest,2020,ER 93 TN NW,Standard (UberX/Bolt)
-VEH_00599,DRV_00599,BMW,3 Series,2021,CY 43 DZ NW,Comfort (Uber Comfort)
-VEH_00600,DRV_00600,Volkswagen,Polo Vivo,2024,JH 56 GQ NW,Standard (UberX/Bolt)
-VEH_00601,DRV_00601,Kia,Picanto,2018,ZF 98 BQ NW,Standard (UberX/Bolt)
-VEH_00602,DRV_00602,Renault,Triber,2024,TM 66 KY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00603,DRV_00603,BMW,3 Series,2016,CB 54 HC NW,Comfort (Uber Comfort)
-VEH_00604,DRV_00604,Toyota,Avanza,2017,XB 22 UG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00605,DRV_00605,Hyundai,Grand i10,2021,HX 86 DR CA,Standard (UberX/Bolt)
-VEH_00606,DRV_00606,Nissan,Almera,2017,FV 31 FK NW,Standard (UberX/Bolt)
-VEH_00607,DRV_00607,Toyota,Corolla Quest,2021,ZF 47 PO GP,Standard (UberX/Bolt)
-VEH_00608,DRV_00608,Renault,Triber,2021,LB 77 NR GP,Large Capacity (UberXL/Bolt XL)
-VEH_00609,DRV_00609,Toyota,Corolla Quest,2020,VD 88 LU GP,Standard (UberX/Bolt)
-VEH_00610,DRV_00610,Kia,Picanto,2017,ZH 21 LX GP,Standard (UberX/Bolt)
-VEH_00611,DRV_00611,Nissan,Almera,2020,DW 99 AI GP,Standard (UberX/Bolt)
-VEH_00612,DRV_00612,Toyota,Corolla Quest,2024,SL 76 UX GP,Standard (UberX/Bolt)
-VEH_00613,DRV_00613,Toyota,Avanza,2024,KH 12 TH GP,Large Capacity (UberXL/Bolt XL)
-VEH_00614,DRV_00614,Nissan,Almera,2016,PL 86 UU NW,Standard (UberX/Bolt)
-VEH_00615,DRV_00615,Nissan,Almera,2017,PG 75 QL CA,Standard (UberX/Bolt)
-VEH_00616,DRV_00616,BMW,3 Series,2022,YL 47 GW NW,Comfort (Uber Comfort)
-VEH_00617,DRV_00617,Toyota,Avanza,2025,JB 34 IM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00618,DRV_00618,Toyota,Corolla Quest,2022,FY 68 QY GP,Standard (UberX/Bolt)
-VEH_00619,DRV_00619,Toyota,Corolla Quest,2023,IH 52 IR NW,Standard (UberX/Bolt)
-VEH_00620,DRV_00620,Nissan,Almera,2020,FC 34 YS CA,Standard (UberX/Bolt)
-VEH_00621,DRV_00621,Volkswagen,Polo Vivo,2018,UT 75 TI GP,Standard (UberX/Bolt)
-VEH_00622,DRV_00622,BMW,3 Series,2024,WD 17 JV GP,Comfort (Uber Comfort)
-VEH_00623,DRV_00623,BMW,3 Series,2018,KH 43 PC GP,Comfort (Uber Comfort)
-VEH_00624,DRV_00624,Renault,Triber,2021,XG 53 RF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00625,DRV_00625,Toyota,Avanza,2017,QS 62 XN CA,Large Capacity (UberXL/Bolt XL)
-VEH_00626,DRV_00626,Toyota,Avanza,2025,TK 79 XP CA,Large Capacity (UberXL/Bolt XL)
-VEH_00627,DRV_00627,Volkswagen,Polo Vivo,2017,GB 33 BN NW,Standard (UberX/Bolt)
-VEH_00628,DRV_00628,Toyota,Avanza,2017,ZK 79 ST GP,Large Capacity (UberXL/Bolt XL)
-VEH_00629,DRV_00629,Hyundai,Grand i10,2016,ZB 10 WZ NW,Standard (UberX/Bolt)
-VEH_00630,DRV_00630,BMW,3 Series,2024,UB 94 GK GP,Comfort (Uber Comfort)
-VEH_00631,DRV_00631,Toyota,Corolla Quest,2024,CS 26 IF NW,Standard (UberX/Bolt)
-VEH_00632,DRV_00632,Nissan,Almera,2021,AZ 55 RD GP,Standard (UberX/Bolt)
-VEH_00633,DRV_00633,BMW,3 Series,2016,TM 76 ZE NW,Comfort (Uber Comfort)
-VEH_00634,DRV_00634,Hyundai,Grand i10,2025,EE 84 TK NW,Standard (UberX/Bolt)
-VEH_00635,DRV_00635,Hyundai,Grand i10,2016,CV 11 VW GP,Standard (UberX/Bolt)
-VEH_00636,DRV_00636,Toyota,Avanza,2019,QJ 57 DX NW,Large Capacity (UberXL/Bolt XL)
-VEH_00637,DRV_00637,Toyota,Avanza,2019,ZB 73 MC NW,Large Capacity (UberXL/Bolt XL)
-VEH_00638,DRV_00638,BMW,3 Series,2017,SK 28 HX CA,Comfort (Uber Comfort)
-VEH_00639,DRV_00639,Kia,Picanto,2016,ZZ 55 SF GP,Standard (UberX/Bolt)
-VEH_00640,DRV_00640,Kia,Picanto,2018,VD 61 SZ GP,Standard (UberX/Bolt)
-VEH_00641,DRV_00641,Kia,Picanto,2016,ZF 27 US CA,Standard (UberX/Bolt)
-VEH_00642,DRV_00642,Kia,Picanto,2018,AL 61 YQ NW,Standard (UberX/Bolt)
-VEH_00643,DRV_00643,Toyota,Corolla Quest,2020,RF 88 XG NW,Standard (UberX/Bolt)
-VEH_00644,DRV_00644,Renault,Triber,2020,OJ 39 KU NW,Large Capacity (UberXL/Bolt XL)
-VEH_00645,DRV_00645,Kia,Picanto,2024,WP 58 XE GP,Standard (UberX/Bolt)
-VEH_00646,DRV_00646,Kia,Picanto,2025,RN 77 HU NW,Standard (UberX/Bolt)
-VEH_00647,DRV_00647,Volkswagen,Polo Vivo,2024,HU 10 WO GP,Standard (UberX/Bolt)
-VEH_00648,DRV_00648,Suzuki,Ertiga,2018,UF 21 YQ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00649,DRV_00649,Hyundai,Grand i10,2021,YW 89 OC GP,Standard (UberX/Bolt)
-VEH_00650,DRV_00650,Suzuki,Ertiga,2022,XS 47 UH NW,Large Capacity (UberXL/Bolt XL)
-VEH_00651,DRV_00651,Suzuki,Ertiga,2022,BJ 32 YY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00652,DRV_00652,Hyundai,Grand i10,2024,RS 45 DL NW,Standard (UberX/Bolt)
-VEH_00653,DRV_00653,Nissan,Almera,2018,US 48 ZU NW,Standard (UberX/Bolt)
-VEH_00654,DRV_00654,Volkswagen,Polo Vivo,2020,SX 75 JH GP,Standard (UberX/Bolt)
-VEH_00655,DRV_00655,Volkswagen,Polo Vivo,2019,UZ 93 RK NW,Standard (UberX/Bolt)
-VEH_00656,DRV_00656,BMW,3 Series,2020,ZS 77 QX GP,Comfort (Uber Comfort)
-VEH_00657,DRV_00657,Renault,Triber,2019,SE 40 YE CA,Large Capacity (UberXL/Bolt XL)
-VEH_00658,DRV_00658,Nissan,Almera,2025,AX 78 RL NW,Standard (UberX/Bolt)
-VEH_00659,DRV_00659,BMW,3 Series,2024,KH 11 HD GP,Comfort (Uber Comfort)
-VEH_00660,DRV_00660,Nissan,Almera,2021,FA 73 MD NW,Standard (UberX/Bolt)
-VEH_00661,DRV_00661,Volkswagen,Polo Vivo,2017,CR 89 YM NW,Standard (UberX/Bolt)
-VEH_00662,DRV_00662,Kia,Picanto,2018,BP 48 QZ GP,Standard (UberX/Bolt)
-VEH_00663,DRV_00663,Toyota,Avanza,2022,NV 58 BT CA,Large Capacity (UberXL/Bolt XL)
-VEH_00664,DRV_00664,Kia,Picanto,2024,RN 72 WD GP,Standard (UberX/Bolt)
-VEH_00665,DRV_00665,Kia,Picanto,2025,FY 47 XI NW,Standard (UberX/Bolt)
-VEH_00666,DRV_00666,Suzuki,Ertiga,2016,AG 40 IO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00667,DRV_00667,Suzuki,Ertiga,2020,BE 25 EY NW,Large Capacity (UberXL/Bolt XL)
-VEH_00668,DRV_00668,Volkswagen,Polo Vivo,2024,UV 95 TD CA,Standard (UberX/Bolt)
-VEH_00669,DRV_00669,BMW,3 Series,2025,QW 18 DD GP,Comfort (Uber Comfort)
-VEH_00670,DRV_00670,Toyota,Corolla Quest,2024,KL 49 HF GP,Standard (UberX/Bolt)
-VEH_00671,DRV_00671,BMW,3 Series,2017,UJ 58 MI NW,Comfort (Uber Comfort)
-VEH_00672,DRV_00672,Suzuki,Ertiga,2020,CZ 23 YU GP,Large Capacity (UberXL/Bolt XL)
-VEH_00673,DRV_00673,Toyota,Corolla Quest,2023,ZK 89 WS GP,Standard (UberX/Bolt)
-VEH_00674,DRV_00674,Kia,Picanto,2025,IW 87 JQ NW,Standard (UberX/Bolt)
-VEH_00675,DRV_00675,Toyota,Corolla Quest,2023,OJ 43 UF NW,Standard (UberX/Bolt)
-VEH_00676,DRV_00676,Renault,Triber,2018,UV 74 TY GP,Large Capacity (UberXL/Bolt XL)
-VEH_00677,DRV_00677,Kia,Picanto,2022,HS 42 XQ CA,Standard (UberX/Bolt)
-VEH_00678,DRV_00678,Toyota,Avanza,2019,FS 61 WM GP,Large Capacity (UberXL/Bolt XL)
-VEH_00679,DRV_00679,Toyota,Corolla Quest,2023,BB 26 EZ CA,Standard (UberX/Bolt)
-VEH_00680,DRV_00680,Nissan,Almera,2022,ZF 39 ID NW,Standard (UberX/Bolt)
-VEH_00681,DRV_00681,Nissan,Almera,2020,KI 63 YA GP,Standard (UberX/Bolt)
-VEH_00682,DRV_00682,Toyota,Avanza,2022,AI 63 ZM GP,Large Capacity (UberXL/Bolt XL)
-VEH_00683,DRV_00683,Volkswagen,Polo Vivo,2021,CP 56 QW NW,Standard (UberX/Bolt)
-VEH_00684,DRV_00684,Nissan,Almera,2023,NI 73 MC CA,Standard (UberX/Bolt)
-VEH_00685,DRV_00685,Suzuki,Ertiga,2021,TH 64 HM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00686,DRV_00686,Renault,Triber,2021,CW 67 HQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00687,DRV_00687,Renault,Triber,2022,TB 62 IZ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00688,DRV_00688,Volkswagen,Polo Vivo,2016,HL 65 LN GP,Standard (UberX/Bolt)
-VEH_00689,DRV_00689,Volkswagen,Polo Vivo,2023,GY 11 XB GP,Standard (UberX/Bolt)
-VEH_00690,DRV_00690,Kia,Picanto,2022,KL 26 AX NW,Standard (UberX/Bolt)
-VEH_00691,DRV_00691,Suzuki,Ertiga,2023,OL 20 WF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00692,DRV_00692,BMW,3 Series,2016,UA 15 BT CA,Comfort (Uber Comfort)
-VEH_00693,DRV_00693,BMW,3 Series,2022,SW 13 ZQ GP,Comfort (Uber Comfort)
-VEH_00694,DRV_00694,Nissan,Almera,2023,EX 33 BM NW,Standard (UberX/Bolt)
-VEH_00695,DRV_00695,Suzuki,Ertiga,2017,GK 34 GQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00696,DRV_00696,Renault,Triber,2024,GC 87 YQ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00697,DRV_00697,Toyota,Corolla Quest,2019,XO 90 EE GP,Standard (UberX/Bolt)
-VEH_00698,DRV_00698,Suzuki,Ertiga,2018,XX 59 SB NW,Large Capacity (UberXL/Bolt XL)
-VEH_00699,DRV_00699,BMW,3 Series,2021,BV 75 JQ NW,Comfort (Uber Comfort)
-VEH_00700,DRV_00700,Kia,Picanto,2022,SC 23 RN CA,Standard (UberX/Bolt)
-VEH_00701,DRV_00701,Kia,Picanto,2016,XU 98 UA GP,Standard (UberX/Bolt)
-VEH_00702,DRV_00702,Suzuki,Ertiga,2022,HJ 71 OA GP,Large Capacity (UberXL/Bolt XL)
-VEH_00703,DRV_00703,Hyundai,Grand i10,2017,DF 36 YA NW,Standard (UberX/Bolt)
-VEH_00704,DRV_00704,Renault,Triber,2025,NM 70 BS GP,Large Capacity (UberXL/Bolt XL)
-VEH_00705,DRV_00705,Toyota,Avanza,2018,OA 93 LC CA,Large Capacity (UberXL/Bolt XL)
-VEH_00706,DRV_00706,Kia,Picanto,2024,IG 32 UW GP,Standard (UberX/Bolt)
-VEH_00707,DRV_00707,Volkswagen,Polo Vivo,2016,GF 23 CZ NW,Standard (UberX/Bolt)
-VEH_00708,DRV_00708,Toyota,Avanza,2020,IG 61 RO NW,Large Capacity (UberXL/Bolt XL)
-VEH_00709,DRV_00709,Nissan,Almera,2017,VF 81 TI NW,Standard (UberX/Bolt)
-VEH_00710,DRV_00710,Renault,Triber,2018,GR 44 TW NW,Large Capacity (UberXL/Bolt XL)
-VEH_00711,DRV_00711,BMW,3 Series,2017,FB 89 VF GP,Comfort (Uber Comfort)
-VEH_00712,DRV_00712,Renault,Triber,2025,NM 89 MG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00713,DRV_00713,Nissan,Almera,2024,LQ 20 GQ NW,Standard (UberX/Bolt)
-VEH_00714,DRV_00714,Nissan,Almera,2021,XH 12 XW GP,Standard (UberX/Bolt)
-VEH_00715,DRV_00715,Toyota,Avanza,2024,LS 11 DR NW,Large Capacity (UberXL/Bolt XL)
-VEH_00716,DRV_00716,Renault,Triber,2021,XP 18 ZP NW,Large Capacity (UberXL/Bolt XL)
-VEH_00717,DRV_00717,Nissan,Almera,2020,XF 39 QO GP,Standard (UberX/Bolt)
-VEH_00718,DRV_00718,Hyundai,Grand i10,2023,GA 24 FU NW,Standard (UberX/Bolt)
-VEH_00719,DRV_00719,Toyota,Avanza,2021,NN 45 VF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00720,DRV_00720,Toyota,Avanza,2018,SC 90 AP CA,Large Capacity (UberXL/Bolt XL)
-VEH_00721,DRV_00721,Toyota,Avanza,2020,OR 64 BD NW,Large Capacity (UberXL/Bolt XL)
-VEH_00722,DRV_00722,Toyota,Corolla Quest,2018,KZ 11 MG GP,Standard (UberX/Bolt)
-VEH_00723,DRV_00723,Hyundai,Grand i10,2021,ZQ 39 HP NW,Standard (UberX/Bolt)
-VEH_00724,DRV_00724,Renault,Triber,2016,KZ 57 NL NW,Large Capacity (UberXL/Bolt XL)
-VEH_00725,DRV_00725,Suzuki,Ertiga,2019,UL 91 AK NW,Large Capacity (UberXL/Bolt XL)
-VEH_00726,DRV_00726,BMW,3 Series,2023,JI 87 BS NW,Comfort (Uber Comfort)
-VEH_00727,DRV_00727,Suzuki,Ertiga,2023,QD 28 PQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00728,DRV_00728,Toyota,Corolla Quest,2023,RQ 21 NY GP,Standard (UberX/Bolt)
-VEH_00729,DRV_00729,Suzuki,Ertiga,2023,EI 92 PJ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00730,DRV_00730,Renault,Triber,2023,KO 19 ZF GP,Large Capacity (UberXL/Bolt XL)
-VEH_00731,DRV_00731,Suzuki,Ertiga,2019,FQ 29 QW GP,Large Capacity (UberXL/Bolt XL)
-VEH_00732,DRV_00732,Toyota,Corolla Quest,2018,LI 34 PE GP,Standard (UberX/Bolt)
-VEH_00733,DRV_00733,Toyota,Corolla Quest,2020,ZC 75 XL GP,Standard (UberX/Bolt)
-VEH_00734,DRV_00734,Nissan,Almera,2020,AE 56 RK NW,Standard (UberX/Bolt)
-VEH_00735,DRV_00735,Nissan,Almera,2019,DT 80 MA NW,Standard (UberX/Bolt)
-VEH_00736,DRV_00736,Suzuki,Ertiga,2022,LC 28 QM CA,Large Capacity (UberXL/Bolt XL)
-VEH_00737,DRV_00737,Hyundai,Grand i10,2016,ZI 87 FZ NW,Standard (UberX/Bolt)
-VEH_00738,DRV_00738,Suzuki,Ertiga,2016,FY 52 NB GP,Large Capacity (UberXL/Bolt XL)
-VEH_00739,DRV_00739,Hyundai,Grand i10,2019,WE 26 OI GP,Standard (UberX/Bolt)
-VEH_00740,DRV_00740,Toyota,Avanza,2024,XD 24 QA NW,Large Capacity (UberXL/Bolt XL)
-VEH_00741,DRV_00741,Kia,Picanto,2017,TW 81 OO GP,Standard (UberX/Bolt)
-VEH_00742,DRV_00742,Renault,Triber,2020,WU 51 YQ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00743,DRV_00743,BMW,3 Series,2023,UW 42 ZO GP,Comfort (Uber Comfort)
-VEH_00744,DRV_00744,Toyota,Avanza,2022,KG 54 NK NW,Large Capacity (UberXL/Bolt XL)
-VEH_00745,DRV_00745,Volkswagen,Polo Vivo,2025,WD 52 CX NW,Standard (UberX/Bolt)
-VEH_00746,DRV_00746,Nissan,Almera,2020,WJ 26 ZX CA,Standard (UberX/Bolt)
-VEH_00747,DRV_00747,Suzuki,Ertiga,2016,FF 73 HU GP,Large Capacity (UberXL/Bolt XL)
-VEH_00748,DRV_00748,Kia,Picanto,2018,FA 88 BJ GP,Standard (UberX/Bolt)
-VEH_00749,DRV_00749,Toyota,Corolla Quest,2019,MN 51 OR GP,Standard (UberX/Bolt)
-VEH_00750,DRV_00750,Renault,Triber,2019,TF 25 TP GP,Large Capacity (UberXL/Bolt XL)
-VEH_00751,DRV_00751,Renault,Triber,2024,CC 55 CD GP,Large Capacity (UberXL/Bolt XL)
-VEH_00752,DRV_00752,BMW,3 Series,2020,OF 69 AX NW,Comfort (Uber Comfort)
-VEH_00753,DRV_00753,Renault,Triber,2018,GJ 29 SJ NW,Large Capacity (UberXL/Bolt XL)
-VEH_00754,DRV_00754,Toyota,Avanza,2024,ZH 78 KR GP,Large Capacity (UberXL/Bolt XL)
-VEH_00755,DRV_00755,BMW,3 Series,2023,HN 55 HT NW,Comfort (Uber Comfort)
-VEH_00756,DRV_00756,Renault,Triber,2024,BS 49 PZ CA,Large Capacity (UberXL/Bolt XL)
-VEH_00757,DRV_00757,Kia,Picanto,2019,LO 78 AU NW,Standard (UberX/Bolt)
-VEH_00758,DRV_00758,Hyundai,Grand i10,2022,GU 42 BL CA,Standard (UberX/Bolt)
-VEH_00759,DRV_00759,Suzuki,Ertiga,2016,OA 19 VJ GP,Large Capacity (UberXL/Bolt XL)
-VEH_00760,DRV_00760,Nissan,Almera,2016,WV 29 GB CA,Standard (UberX/Bolt)
-VEH_00761,DRV_00761,Kia,Picanto,2025,QQ 13 KL NW,Standard (UberX/Bolt)
-VEH_00762,DRV_00762,Hyundai,Grand i10,2016,NS 69 WR NW,Standard (UberX/Bolt)
-VEH_00763,DRV_00763,Toyota,Avanza,2017,XQ 72 LG GP,Large Capacity (UberXL/Bolt XL)
-VEH_00764,DRV_00764,BMW,3 Series,2021,FG 76 QA GP,Comfort (Uber Comfort)
-VEH_00765,DRV_00765,Toyota,Corolla Quest,2023,RJ 50 MO GP,Standard (UberX/Bolt)
-VEH_00766,DRV_00766,BMW,3 Series,2024,ET 40 EC NW,Comfort (Uber Comfort)
-VEH_00767,DRV_00767,Toyota,Avanza,2020,CZ 49 JO GP,Large Capacity (UberXL/Bolt XL)
-VEH_00768,DRV_00768,Toyota,Corolla Quest,2022,BO 40 KY NW,Standard (UberX/Bolt)
-VEH_00769,DRV_00769,Nissan,Almera,2022,QA 13 FL CA,Standard (UberX/Bolt)
-VEH_00770,DRV_00770,Suzuki,Ertiga,2023,BZ 66 YT NW,Large Capacity (UberXL/Bolt XL)
-VEH_00771,DRV_00771,Volkswagen,Polo Vivo,2020,WF 55 GB GP,Standard (UberX/Bolt)
-VEH_00772,DRV_00772,BMW,3 Series,2019,HE 43 WW GP,Comfort (Uber Comfort)
-VEH_00773,DRV_00773,Volkswagen,Polo Vivo,2016,KU 72 SN CA,Standard (UberX/Bolt)
-VEH_00774,DRV_00774,Toyota,Avanza,2024,LB 11 DM NW,Large Capacity (UberXL/Bolt XL)
-VEH_00775,DRV_00775,Renault,Triber,2017,OG 92 EK CA,Large Capacity (UberXL/Bolt XL)
-VEH_00776,DRV_00776,BMW,3 Series,2025,NK 80 ON GP,Comfort (Uber Comfort)
-VEH_00777,DRV_00777,Toyota,Corolla Quest,2016,JJ 18 GG CA,Standard (UberX/Bolt)
-VEH_00778,DRV_00778,Nissan,Almera,2019,WS 68 RP NW,Standard (UberX/Bolt)
-VEH_00779,DRV_00779,Nissan,Almera,2016,JT 60 JW NW,Standard (UberX/Bolt)
-VEH_00780,DRV_00780,Volkswagen,Polo Vivo,2016,BS 99 DN GP,Standard (UberX/Bolt)
-VEH_00781,DRV_00781,Toyota,Avanza,2021,HZ 79 WE NW,Large Capacity (UberXL/Bolt XL)
-VEH_00782,DRV_00782,Toyota,Avanza,2017,AF 15 GU CA,Large Capacity (UberXL/Bolt XL)
-VEH_00783,DRV_00783,BMW,3 Series,2020,XD 42 ZM CA,Comfort (Uber Comfort)
-VEH_00784,DRV_00784,Toyota,Avanza,2020,TR 34 PA GP,Large Capacity (UberXL/Bolt XL)
-VEH_00785,DRV_00785,Kia,Picanto,2017,DA 34 GF GP,Standard (UberX/Bolt)
-VEH_00786,DRV_00786,Toyota,Avanza,2021,ZZ 57 EL CA,Large Capacity (UberXL/Bolt XL)
-VEH_00787,DRV_00787,BMW,3 Series,2019,NA 69 MN GP,Comfort (Uber Comfort)
-VEH_00788,DRV_00788,Toyota,Corolla Quest,2016,OE 83 JE NW,Standard (UberX/Bolt)
-VEH_00789,DRV_00789,BMW,3 Series,2020,WM 72 DD NW,Comfort (Uber Comfort)
-VEH_00790,DRV_00790,Toyota,Corolla Quest,2021,RL 76 AU CA,Standard (UberX/Bolt)
-VEH_00791,DRV_00791,BMW,3 Series,2017,DH 72 NF NW,Comfort (Uber Comfort)
-VEH_00792,DRV_00792,Renault,Triber,2022,XZ 96 OY GP,Large Capacity (UberXL/Bolt XL)
-VEH_00793,DRV_00793,BMW,3 Series,2024,YQ 65 HL NW,Comfort (Uber Comfort)
-VEH_00794,DRV_00794,Suzuki,Ertiga,2021,DA 35 ML GP,Large Capacity (UberXL/Bolt XL)
-VEH_00795,DRV_00795,Volkswagen,Polo Vivo,2019,NE 19 ZF NW,Standard (UberX/Bolt)
-VEH_00796,DRV_00796,Toyota,Corolla Quest,2024,QT 13 YB NW,Standard (UberX/Bolt)
-VEH_00797,DRV_00797,Kia,Picanto,2020,PX 94 GM CA,Standard (UberX/Bolt)
-VEH_00798,DRV_00798,Renault,Triber,2018,QU 44 IB CA,Large Capacity (UberXL/Bolt XL)
-VEH_00799,DRV_00799,Hyundai,Grand i10,2020,QA 83 NH GP,Standard (UberX/Bolt)
-VEH_00800,DRV_00800,Kia,Picanto,2024,RV 88 IC GP,Standard (UberX/Bolt)
+vehicle_id,make,model,model_year,vehicle_age_years,vehicle_category,seats,fuel_type,colour,licence_plate,roadworthy_expiry,inspection_status
+V00001,Suzuki,S-Presso,2017,9,Standard,5,Petrol,White,AL70 HT EC,2027-04-01,Passed
+V00002,Kia,Picanto,2015,11,Standard,5,Petrol,White,GZ34 JG GP,2026-12-27,Passed
+V00003,BMW,X1,2022,4,Comfort,5,Hybrid,Grey,RG46 JA GP,2027-02-07,Passed
+V00004,Hyundai,Venue,2019,7,Comfort,5,Diesel,White,GL59 EX GP,2027-01-06,Passed
+V00005,Hyundai,Accent,2020,6,Standard,5,Petrol,White,FK10 EM EC,2026-02-25,Passed
+V00006,Toyota,Corolla Cross,2013,13,Economy,4,Petrol,White,KX59 GV NW,2026-06-15,Passed
+V00007,BMW,320i,2022,4,Economy,4,Petrol,White,MK64 YJ NW,2026-02-06,Passed
+V00008,Kia,Sonet,2025,1,Comfort,5,Petrol,White,MP84 GZ GP,2025-11-12,Passed
+V00009,Hyundai,i20,2019,7,Comfort,5,Diesel,White,CP13 LP GP,2026-04-15,Passed
+V00010,Nissan,Almera,2022,4,XL,6,Petrol,Black,HW65 VL GP,2025-07-31,Passed
+V00011,Toyota,Corolla Quest,2023,3,XL,6,Petrol,Black,CF40 PL GP,2027-02-20,Passed
+V00012,Suzuki,Dzire,2017,9,Economy,4,Petrol,White,XX90 KW WC,2026-12-22,Passed
+V00013,BMW,118i,2025,1,Standard,5,Petrol,Black,NC95 GP GP,2026-05-18,Passed
+V00014,BMW,320i,2019,7,Economy,4,Petrol,White,YB30 PJ EC,2027-05-13,Passed
+V00015,Toyota,Starlet,2014,12,Standard,5,Petrol,White,PM97 WZ EC,2026-06-09,Passed
+V00016,Hyundai,i20,2015,11,Standard,5,Diesel,White,PT89 WB NW,2027-03-18,Passed
+V00017,Toyota,Starlet,2019,7,Economy,4,Petrol,White,SF83 XC ZN,2025-08-21,Passed
+V00018,Renault,Kwid,2024,2,XL,6,Hybrid,Grey,PY76 FS GP,2025-06-24,Passed
+V00019,Toyota,Starlet,2016,10,Standard,5,Hybrid,Black,JB45 NT WC,2026-04-10,Passed
+V00020,Honda,Amaze,2024,2,Standard,5,Petrol,White,NR94 ZH GP,2025-12-05,Pending
+V00021,Hyundai,Accent,2019,7,Comfort,5,Petrol,Grey,YD40 DN NW,2026-03-08,Passed
+V00022,Hyundai,Accent,2024,2,Economy,4,Diesel,Blue,HR78 NB WC,2026-02-08,Passed
+V00023,Volkswagen,Golf,2017,9,Standard,5,Petrol,Red,WA44 AH GP,2027-04-30,Passed
+V00024,Hyundai,Venue,2020,6,Standard,5,Diesel,White,AL81 LA GP,2026-08-16,Passed
+V00025,Kia,Rio,2016,10,Economy,4,Petrol,White,YG74 FP WC,2026-12-04,Passed
+V00026,Hyundai,Grand i10,2021,5,Standard,5,Petrol,Grey,HW84 BX WC,2026-08-21,Passed
+V00027,Renault,Kwid,2020,6,Comfort,5,Diesel,Grey,RN93 EJ GP,2027-06-17,Failed
+V00028,Toyota,Corolla Quest,2020,6,Standard,5,Diesel,White,AA22 GY WC,2027-01-30,Passed
+V00029,Toyota,Starlet,2017,9,Standard,5,Petrol,White,JD88 LA WC,2027-02-24,Passed
+V00030,Toyota,Corolla Cross,2017,9,Standard,5,Petrol,Blue,HE90 FC ZN,2026-06-07,Failed
+V00031,Mercedes-Benz,C180,2022,4,Standard,5,Petrol,Grey,MY73 DY GP,2027-04-28,Passed
+V00032,Nissan,NP200,2014,12,Standard,5,Petrol,White,MR80 NC GP,2027-01-24,Passed
+V00033,Volkswagen,Polo,2019,7,Comfort,5,Petrol,White,ZR88 KT GP,2026-03-05,Passed
+V00034,Toyota,Starlet,2022,4,Economy,4,Petrol,Blue,TT91 FD WC,2027-02-11,Passed
+V00035,Toyota,Corolla Cross,2024,2,Standard,5,Petrol,Blue,VP39 ZX GP,2026-03-02,Passed
+V00036,Volkswagen,Caddy,2020,6,Comfort,5,Diesel,Black,JF85 HT NW,2027-06-13,Passed
+V00037,Toyota,Corolla Cross,2024,2,Standard,5,Petrol,White,GX26 KK ZN,2025-09-10,Passed
+V00038,Toyota,Avanza,2019,7,Standard,5,Petrol,White,WC75 SR ZN,2026-02-02,Passed
+V00039,Suzuki,S-Presso,2023,3,XL,6,Electric,Black,ZK27 KA GP,2027-04-10,Passed
+V00040,Hyundai,Grand i10,2023,3,Standard,5,Petrol,Grey,DE47 RW GP,2026-01-01,Passed
+V00041,Toyota,Corolla Quest,2019,7,Comfort,5,Petrol,White,KB92 ZD GP,2027-02-25,Passed
+V00042,BMW,118i,2021,5,Comfort,5,Diesel,White,SK80 KD NW,2026-07-30,Passed
+V00043,Hyundai,i20,2021,5,Economy,4,Petrol,Black,WZ50 YD WC,2025-07-08,Passed
+V00044,Toyota,Etios,2023,3,Standard,5,Petrol,Red,KW58 DR ZN,2027-03-21,Passed
+V00045,Toyota,Etios,2015,11,Standard,5,Petrol,White,VT53 NZ GP,2027-05-04,Passed
+V00046,Volkswagen,Polo,2021,5,Economy,4,Petrol,Silver,AB25 SH WC,2027-01-12,Passed
+V00047,Toyota,Avanza,2019,7,Standard,5,Petrol,Silver,TH85 GY ZN,2026-01-09,Passed
+V00048,Suzuki,Ertiga,2023,3,Standard,5,Petrol,Blue,XX26 CZ GP,2026-03-26,Passed
+V00049,Mercedes-Benz,C180,2019,7,Comfort,5,Diesel,Black,XM13 YY WC,2026-03-07,Passed
+V00050,Toyota,Etios,2019,7,XL,6,Petrol,Red,ND75 EN GP,2026-06-16,Passed
+V00051,Toyota,Corolla Cross,2014,12,Standard,5,Petrol,White,AY81 JK ZN,2026-11-10,Passed
+V00052,Volkswagen,Polo Vivo,2021,5,Standard,5,Petrol,Red,GB22 JT WC,2026-09-08,Passed
+V00053,BMW,320i,2021,5,Comfort,5,Petrol,Silver,MN60 WG WC,2025-12-08,Passed
+V00054,Toyota,Corolla Cross,2024,2,Comfort,5,Petrol,White,LW49 NA ZN,2026-02-25,Passed
+V00055,Nissan,NP200,2019,7,Comfort,5,Diesel,Grey,PE76 NY GP,2027-01-01,Pending
+V00056,Toyota,Corolla Cross,2023,3,Standard,5,Petrol,White,VN31 CL GP,2027-03-02,Passed
+V00057,Volkswagen,Polo,2018,8,Standard,5,Petrol,Grey,JB42 VA GP,2026-08-02,Pending
+V00058,Mercedes-Benz,A200,2021,5,Comfort,5,Petrol,White,PD10 MZ EC,2026-06-19,Passed
+V00059,Toyota,Avanza,2019,7,XL,6,Electric,White,KJ91 FA GP,2025-08-30,Passed
+V00060,BMW,118i,2022,4,Comfort,5,Petrol,White,BS33 SS WC,2025-07-24,Passed
+V00061,Hyundai,Grand i10,2023,3,Economy,4,Petrol,Grey,KF43 WM WC,2026-05-24,Passed
+V00062,Toyota,Corolla Cross,2023,3,XL,6,Petrol,Grey,XS77 FC EC,2025-07-02,Passed
+V00063,Hyundai,Grand i10,2019,7,Comfort,5,Hybrid,White,XE16 EK EC,2026-07-22,Pending
+V00064,Suzuki,Dzire,2020,6,Economy,4,Petrol,Red,DL76 MF NW,2026-04-01,Passed
+V00065,Volkswagen,Caddy,2019,7,Comfort,5,Petrol,White,HJ19 YW WC,2026-10-17,Passed
+V00066,Mercedes-Benz,C180,2019,7,Comfort,5,Diesel,Silver,WN80 ST GP,2026-05-16,Passed
+V00067,Renault,Triber,2023,3,Standard,5,Diesel,White,WP33 FL WC,2025-10-23,Passed
+V00068,Nissan,Almera,2021,5,Standard,5,Petrol,Black,DZ42 FL GP,2026-10-27,Passed
+V00069,Suzuki,S-Presso,2018,8,Standard,5,Petrol,White,PJ69 MR GP,2027-05-19,Passed
+V00070,Suzuki,S-Presso,2019,7,Economy,4,Petrol,Black,HE58 JR WC,2027-01-10,Passed
+V00071,Kia,Picanto,2019,7,Comfort,5,Diesel,White,HJ65 RD EC,2026-03-14,Passed
+V00072,Toyota,Etios,2022,4,Standard,5,Diesel,Silver,LC83 RB GP,2026-11-11,Pending
+V00073,Suzuki,S-Presso,2019,7,Comfort,5,Petrol,White,SD69 PR ZN,2026-11-19,Passed
+V00074,BMW,X1,2024,2,Comfort,5,Petrol,White,EA51 NV WC,2026-10-16,Passed
+V00075,Volkswagen,Polo Vivo,2019,7,XL,6,Petrol,Silver,BC45 CC GP,2025-09-08,Passed
+V00076,Toyota,Starlet,2019,7,Standard,5,Petrol,White,BN40 RH ZN,2026-08-15,Passed
+V00077,Kia,Sonet,2014,12,Economy,4,Petrol,Silver,FL59 MK ZN,2027-03-18,Passed
+V00078,Hyundai,Accent,2025,1,Standard,5,Petrol,White,YZ74 FN GP,2027-05-17,Passed
+V00079,Nissan,Magnite,2013,13,Standard,5,Hybrid,Silver,TA16 ET ZN,2026-03-06,Passed
+V00080,Volkswagen,Golf,2019,7,Standard,5,Petrol,Grey,ZV21 MB WC,2025-11-23,Pending
+V00081,Toyota,Avanza,2021,5,Standard,5,Petrol,Grey,EV30 PH WC,2026-10-02,Passed
+V00082,Toyota,Corolla Quest,2016,10,Standard,5,Petrol,White,AJ13 NS GP,2027-04-06,Passed
+V00083,Hyundai,Venue,2013,13,Standard,5,Petrol,Grey,RX79 DF WC,2027-06-07,Passed
+V00084,Nissan,Almera,2017,9,Standard,5,Petrol,Black,YG99 VS NW,2026-03-09,Passed
+V00085,Mercedes-Benz,C180,2022,4,Standard,5,Petrol,Red,AW97 HB WC,2026-07-15,Passed
+V00086,Volkswagen,Golf,2019,7,Economy,4,Petrol,White,GB98 RY WC,2027-04-04,Pending
+V00087,Nissan,NP200,2017,9,Economy,4,Petrol,White,RL63 PJ GP,2027-03-24,Passed
+V00088,Toyota,Corolla Quest,2022,4,Standard,5,Petrol,White,TN40 XT GP,2026-07-05,Passed
+V00089,BMW,320i,2018,8,Economy,4,Petrol,Silver,MC97 TW EC,2027-02-02,Passed
+V00090,Nissan,Almera,2020,6,Economy,4,Petrol,Silver,EH21 JG WC,2025-10-01,Passed
+V00091,Volkswagen,Caddy,2017,9,Economy,4,Petrol,Black,WL43 PA GP,2025-11-17,Passed
+V00092,Renault,Kwid,2017,9,Economy,4,Petrol,White,WJ13 GA GP,2027-03-26,Passed
+V00093,Hyundai,Venue,2025,1,Economy,4,Petrol,White,BL74 LV ZN,2026-12-13,Passed
+V00094,Hyundai,Accent,2022,4,Standard,5,Petrol,Red,DM92 NG GP,2027-01-14,Pending
+V00095,Toyota,Avanza,2015,11,Economy,4,Petrol,Silver,VZ62 RP GP,2026-03-06,Passed
+V00096,Suzuki,S-Presso,2019,7,Comfort,5,Diesel,Grey,FV33 DB WC,2026-12-17,Passed
+V00097,Toyota,Corolla Cross,2021,5,Comfort,5,Petrol,Red,FL44 LK GP,2025-11-13,Passed
+V00098,Toyota,Avanza,2018,8,Standard,5,Petrol,White,ZM32 KD GP,2025-09-06,Passed
+V00099,BMW,320i,2022,4,Comfort,5,Petrol,White,YK71 DW WC,2025-10-16,Passed
+V00100,Toyota,Corolla Cross,2024,2,Economy,4,Petrol,Red,DW50 AZ GP,2026-11-08,Passed
+V00101,Toyota,Avanza,2023,3,Economy,4,Petrol,White,LA81 EX WC,2025-07-27,Passed
+V00102,Hyundai,Venue,2023,3,Standard,5,Petrol,Grey,BD75 EZ WC,2027-05-08,Passed
+V00103,Hyundai,Grand i10,2024,2,Standard,5,Petrol,White,NR73 WP GP,2026-07-31,Passed
+V00104,BMW,320i,2025,1,Comfort,5,Petrol,Black,XN28 RZ GP,2025-10-27,Pending
+V00105,Mercedes-Benz,C180,2018,8,Economy,4,Petrol,White,EV91 XZ ZN,2025-08-28,Passed
+V00106,Volkswagen,Polo Vivo,2023,3,Standard,5,Petrol,White,KD20 VP GP,2026-08-19,Passed
+V00107,Suzuki,Swift,2018,8,Standard,5,Petrol,Grey,WR76 PX GP,2025-11-10,Passed
+V00108,Nissan,Magnite,2024,2,Standard,5,Diesel,White,WP37 HM ZN,2025-09-26,Passed
+V00109,Toyota,Corolla Cross,2023,3,XL,6,Diesel,Silver,HE57 BS GP,2025-08-03,Pending
+V00110,Mercedes-Benz,A200,2023,3,Standard,5,Petrol,White,PN90 LL GP,2026-10-13,Passed
+V00111,Toyota,Etios,2013,13,Standard,5,Petrol,Grey,PN36 KW WC,2025-07-18,Passed
+V00112,Hyundai,Grand i10,2021,5,Comfort,5,Petrol,Silver,PP38 SA WC,2026-10-25,Passed
+V00113,Suzuki,Swift,2019,7,Comfort,5,Petrol,Blue,HR70 PM GP,2025-09-05,Passed
+V00114,Volkswagen,Golf,2022,4,Economy,4,Petrol,Grey,GT54 KZ ZN,2026-08-17,Passed
+V00115,Volkswagen,Caddy,2014,12,Economy,4,Petrol,White,MB77 TC NW,2025-07-05,Passed
+V00116,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,Silver,NJ84 RD GP,2025-12-16,Passed
+V00117,Volkswagen,Polo Vivo,2021,5,XL,6,Petrol,Silver,FZ29 JB GP,2027-05-27,Passed
+V00118,Nissan,Almera,2017,9,Standard,5,Petrol,Silver,ED22 VH GP,2026-11-16,Pending
+V00119,Toyota,Corolla Cross,2019,7,XL,6,Petrol,White,DJ93 NF GP,2027-06-18,Passed
+V00120,Toyota,Corolla Cross,2024,2,Economy,4,Petrol,Black,CP75 TK GP,2025-07-04,Passed
+V00121,Toyota,Corolla Quest,2023,3,Standard,5,Petrol,White,KH85 MS GP,2026-05-01,Passed
+V00122,Toyota,Corolla Cross,2021,5,Economy,4,Petrol,Black,PR62 GH GP,2026-04-23,Passed
+V00123,Volkswagen,Polo,2023,3,XL,6,Petrol,Silver,CH16 HB WC,2026-03-08,Passed
+V00124,Toyota,Corolla Quest,2018,8,Standard,5,Diesel,White,DC47 YZ WC,2027-04-24,Passed
+V00125,Toyota,Etios,2021,5,Standard,5,Electric,Grey,EK69 NW GP,2025-07-12,Passed
+V00126,Toyota,Corolla Quest,2020,6,XL,6,Petrol,Blue,FG25 GN GP,2025-08-06,Passed
+V00127,Suzuki,Swift,2021,5,Economy,4,Petrol,White,YN37 XH EC,2026-01-11,Passed
+V00128,Toyota,Corolla Quest,2017,9,Standard,5,Petrol,White,TV30 TB WC,2025-11-28,Passed
+V00129,Renault,Kwid,2020,6,XL,6,Hybrid,Grey,KS95 NW EC,2026-08-28,Passed
+V00130,Renault,Triber,2014,12,Economy,4,Petrol,White,SL60 SV GP,2026-04-23,Passed
+V00131,Kia,Rio,2015,11,Standard,5,Petrol,White,GT25 CP GP,2026-09-24,Passed
+V00132,Suzuki,Swift,2017,9,Economy,4,Petrol,White,YG61 KZ GP,2025-11-26,Pending
+V00133,Toyota,Starlet,2019,7,Comfort,5,Petrol,Grey,VB52 KM GP,2026-12-26,Passed
+V00134,Suzuki,Swift,2021,5,Standard,5,Diesel,Black,XR59 AS WC,2025-08-08,Passed
+V00135,Toyota,Starlet,2020,6,Standard,5,Petrol,Black,YH23 EA ZN,2025-07-19,Passed
+V00136,Nissan,Almera,2017,9,Standard,5,Electric,Black,LH56 RN GP,2026-05-27,Passed
+V00137,Mercedes-Benz,C180,2020,6,Standard,5,Diesel,Silver,JM40 NZ GP,2027-04-20,Passed
+V00138,Toyota,Corolla Quest,2021,5,Standard,5,Petrol,Red,CD12 RT WC,2026-03-23,Passed
+V00139,Volkswagen,Polo Vivo,2013,13,Economy,4,Petrol,Silver,TH96 CY GP,2026-03-16,Passed
+V00140,Mercedes-Benz,A200,2019,7,Comfort,5,Diesel,Red,RS41 AX GP,2025-10-26,Passed
+V00141,Hyundai,Grand i10,2016,10,Economy,4,Petrol,Black,AF17 YC ZN,2027-04-23,Passed
+V00142,Suzuki,S-Presso,2013,13,Standard,5,Petrol,Red,LG11 ER GP,2026-01-11,Passed
+V00143,Volkswagen,Golf,2019,7,XL,6,Diesel,Silver,VG30 TY GP,2026-09-18,Passed
+V00144,Toyota,Etios,2019,7,XL,6,Petrol,Grey,XA14 MM GP,2027-01-21,Passed
+V00145,Kia,Sonet,2024,2,Standard,5,Petrol,Black,BF41 DV GP,2026-03-15,Passed
+V00146,Toyota,Starlet,2018,8,Economy,4,Petrol,Silver,VT49 TZ GP,2025-07-29,Passed
+V00147,Toyota,Etios,2015,11,Standard,5,Petrol,Black,YZ70 RA GP,2027-01-12,Passed
+V00148,Toyota,Starlet,2020,6,Economy,4,Diesel,Blue,RG35 PL NW,2025-07-08,Passed
+V00149,Suzuki,S-Presso,2020,6,Standard,5,Petrol,Blue,LC76 GD WC,2025-08-13,Passed
+V00150,Hyundai,i20,2016,10,Standard,5,Electric,White,YX41 WX WC,2026-05-13,Passed
+V00151,Volkswagen,Polo,2016,10,Standard,5,Petrol,White,GR34 RC GP,2026-01-04,Passed
+V00152,Suzuki,Swift,2025,1,Standard,5,Petrol,Silver,NL38 SW GP,2026-09-07,Passed
+V00153,Nissan,Magnite,2022,4,Economy,4,Petrol,Silver,XP19 WG GP,2026-12-04,Passed
+V00154,Volkswagen,Polo,2013,13,Standard,5,Petrol,White,FY40 TW GP,2026-08-24,Passed
+V00155,Toyota,Corolla Cross,2022,4,Standard,5,Petrol,Silver,WG93 MW GP,2027-04-30,Passed
+V00156,Renault,Triber,2019,7,Comfort,5,Petrol,Silver,WB93 ZW GP,2026-07-09,Passed
+V00157,Volkswagen,Polo,2025,1,Standard,5,Petrol,Red,GT96 KZ GP,2026-05-07,Passed
+V00158,Toyota,Avanza,2019,7,XL,6,Petrol,White,TJ68 ZC GP,2025-10-17,Passed
+V00159,Toyota,Corolla Quest,2013,13,Standard,5,Petrol,Silver,YE19 FV WC,2025-07-22,Passed
+V00160,Toyota,Avanza,2014,12,Standard,5,Diesel,Silver,AT43 HC GP,2026-10-19,Passed
+V00161,Hyundai,i20,2020,6,Standard,5,Petrol,White,FV87 XZ GP,2025-12-28,Passed
+V00162,Toyota,Starlet,2019,7,XL,6,Petrol,White,KF63 RY WC,2027-02-23,Failed
+V00163,Toyota,Starlet,2013,13,Economy,4,Petrol,Blue,DA84 VV GP,2027-06-22,Passed
+V00164,Toyota,Starlet,2021,5,Comfort,5,Diesel,Silver,HN28 FD ZN,2025-10-26,Passed
+V00165,Hyundai,Venue,2025,1,Standard,5,Petrol,White,FY20 VZ WC,2026-07-13,Passed
+V00166,BMW,X1,2018,8,Standard,5,Petrol,Grey,WJ57 MV WC,2026-11-20,Passed
+V00167,Mercedes-Benz,A200,2018,8,Standard,5,Petrol,Black,YG88 AD WC,2027-03-15,Passed
+V00168,Toyota,Avanza,2022,4,Economy,4,Electric,Blue,ZG47 SL WC,2025-09-15,Passed
+V00169,BMW,320i,2023,3,Comfort,5,Petrol,Silver,HE21 LL WC,2025-09-09,Passed
+V00170,Toyota,Avanza,2025,1,Standard,5,Petrol,Silver,TK86 EH EC,2026-07-15,Pending
+V00171,Toyota,Starlet,2013,13,Standard,5,Petrol,Grey,PB90 YR GP,2026-07-09,Passed
+V00172,Suzuki,Dzire,2020,6,Standard,5,Petrol,Grey,JF23 ST GP,2026-05-23,Failed
+V00173,BMW,118i,2017,9,Standard,5,Petrol,White,FK81 WL GP,2025-07-22,Passed
+V00174,Renault,Triber,2024,2,Standard,5,Petrol,Grey,AB40 RV ZN,2025-07-20,Passed
+V00175,Kia,Picanto,2020,6,Standard,5,Diesel,Grey,RR18 CZ GP,2027-05-04,Passed
+V00176,Hyundai,Grand i10,2025,1,Economy,4,Petrol,White,MN16 GN GP,2026-11-26,Passed
+V00177,Suzuki,Dzire,2019,7,Economy,4,Petrol,Blue,GD86 NC EC,2027-01-13,Passed
+V00178,Volkswagen,Polo Vivo,2013,13,Standard,5,Petrol,Black,KT71 VR GP,2025-06-21,Passed
+V00179,Volkswagen,Polo,2016,10,Standard,5,Diesel,Grey,DT22 GK WC,2026-02-05,Passed
+V00180,Suzuki,Dzire,2017,9,Economy,4,Diesel,White,ZM19 BN ZN,2026-07-14,Pending
+V00181,Toyota,Corolla Cross,2015,11,Standard,5,Petrol,Silver,JS47 KF GP,2026-02-27,Passed
+V00182,Renault,Triber,2020,6,Economy,4,Petrol,Grey,BN66 TV ZN,2026-09-26,Passed
+V00183,Hyundai,i20,2025,1,Economy,4,Petrol,Red,PT13 TD ZN,2027-06-20,Passed
+V00184,Nissan,Almera,2022,4,Standard,5,Petrol,Grey,JH17 KD EC,2027-03-23,Passed
+V00185,Nissan,NP200,2019,7,Comfort,5,Petrol,Blue,ZJ49 DH GP,2026-05-04,Passed
+V00186,Volkswagen,Caddy,2014,12,Standard,5,Diesel,Blue,SN85 FC GP,2026-01-15,Passed
+V00187,Volkswagen,Golf,2019,7,Standard,5,Petrol,White,DV58 FS EC,2027-05-06,Passed
+V00188,Toyota,Corolla Quest,2021,5,XL,6,Petrol,Black,ZT38 SS GP,2026-03-26,Passed
+V00189,Volkswagen,Caddy,2020,6,Standard,5,Petrol,Silver,HS17 GT WC,2026-11-23,Passed
+V00190,Toyota,Etios,2013,13,Standard,5,Petrol,White,WB57 NT GP,2026-09-12,Passed
+V00191,Toyota,Starlet,2014,12,Economy,4,Petrol,Silver,KH73 XA WC,2026-08-20,Passed
+V00192,Suzuki,Swift,2023,3,XL,6,Petrol,Silver,LA20 SZ GP,2026-06-20,Passed
+V00193,Suzuki,Dzire,2019,7,Standard,5,Petrol,White,VY29 NR ZN,2027-04-04,Passed
+V00194,Volkswagen,Caddy,2025,1,Standard,5,Diesel,White,FH82 YR GP,2026-05-04,Passed
+V00195,BMW,320i,2024,2,Comfort,5,Hybrid,Red,RB92 BT GP,2026-04-25,Passed
+V00196,Toyota,Starlet,2017,9,Standard,5,Hybrid,Blue,WX15 XW ZN,2026-03-28,Passed
+V00197,Hyundai,i20,2017,9,Standard,5,Petrol,Grey,GY93 AS ZN,2025-09-10,Passed
+V00198,BMW,118i,2019,7,Comfort,5,Petrol,Grey,TS85 YW GP,2026-03-02,Passed
+V00199,Toyota,Corolla Cross,2019,7,Comfort,5,Hybrid,Silver,KY48 PY GP,2026-01-19,Passed
+V00200,Suzuki,S-Presso,2019,7,Economy,4,Petrol,Silver,LW26 XK GP,2025-12-30,Passed
+V00201,Hyundai,Accent,2020,6,Economy,4,Diesel,Grey,WX99 MA GP,2026-05-13,Passed
+V00202,Kia,Rio,2014,12,Economy,4,Petrol,Blue,VG63 PP GP,2026-06-09,Failed
+V00203,Hyundai,Venue,2014,12,Standard,5,Hybrid,White,RC82 AZ GP,2026-11-07,Passed
+V00204,Suzuki,Ertiga,2025,1,Economy,4,Petrol,Blue,HN19 RN GP,2027-04-18,Passed
+V00205,Toyota,Etios,2019,7,Comfort,5,Petrol,White,VZ21 WX GP,2026-11-02,Passed
+V00206,Hyundai,Accent,2020,6,Standard,5,Petrol,White,EW10 BL EC,2027-04-07,Passed
+V00207,Kia,Picanto,2015,11,Standard,5,Petrol,White,FT39 TG GP,2026-02-07,Failed
+V00208,Suzuki,Ertiga,2022,4,Standard,5,Petrol,Silver,PG51 RE WC,2026-01-29,Failed
+V00209,Toyota,Etios,2016,10,Standard,5,Diesel,White,TZ10 TA GP,2025-10-17,Passed
+V00210,Toyota,Etios,2022,4,XL,6,Petrol,Silver,XK41 FZ ZN,2026-10-05,Passed
+V00211,Toyota,Corolla Cross,2019,7,Standard,5,Petrol,Silver,PK73 PX ZN,2025-12-07,Pending
+V00212,Nissan,Magnite,2019,7,XL,6,Petrol,White,PL14 AF GP,2025-07-01,Pending
+V00213,Toyota,Etios,2013,13,Standard,5,Petrol,Black,FY40 RW EC,2026-04-23,Passed
+V00214,Volkswagen,Polo Vivo,2019,7,XL,6,Petrol,Black,LR86 LF WC,2025-11-10,Passed
+V00215,Toyota,Avanza,2018,8,Standard,5,Petrol,Silver,CE62 YM ZN,2026-06-02,Passed
+V00216,Suzuki,Dzire,2019,7,Comfort,5,Petrol,White,VE95 TB ZN,2026-09-30,Passed
+V00217,Renault,Kwid,2022,4,Economy,4,Petrol,White,YC62 JE ZN,2025-08-13,Passed
+V00218,Hyundai,Accent,2019,7,Standard,5,Petrol,White,YL21 DB GP,2026-03-08,Passed
+V00219,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,White,BS80 PM GP,2026-02-06,Passed
+V00220,BMW,320i,2017,9,Economy,4,Petrol,Blue,RV63 FP GP,2025-11-16,Passed
+V00221,Mercedes-Benz,C180,2020,6,Comfort,5,Diesel,Grey,NT87 WH WC,2025-11-12,Passed
+V00222,Volkswagen,Caddy,2019,7,XL,6,Petrol,Grey,LD98 ZJ GP,2026-07-27,Passed
+V00223,Suzuki,Ertiga,2018,8,Standard,5,Petrol,White,CJ52 SG ZN,2026-03-27,Passed
+V00224,Toyota,Corolla Quest,2021,5,Economy,4,Petrol,Silver,YW52 XC GP,2026-06-26,Passed
+V00225,Toyota,Avanza,2019,7,Comfort,5,Petrol,Blue,NX90 KT GP,2025-08-02,Passed
+V00226,Toyota,Etios,2021,5,Economy,4,Petrol,Silver,CG70 VV WC,2027-01-07,Passed
+V00227,Suzuki,Ertiga,2019,7,Standard,5,Petrol,Grey,LL75 YW GP,2025-08-14,Failed
+V00228,Volkswagen,Polo Vivo,2025,1,Standard,5,Petrol,White,PS15 HT WC,2026-03-29,Passed
+V00229,Toyota,Corolla Cross,2024,2,Economy,4,Petrol,White,CM19 WP GP,2027-02-13,Passed
+V00230,Toyota,Etios,2023,3,Standard,5,Petrol,White,FY19 BS NW,2026-05-01,Pending
+V00231,Nissan,NP200,2024,2,Economy,4,Petrol,Blue,BH94 ZD GP,2026-03-07,Passed
+V00232,Suzuki,Dzire,2017,9,Standard,5,Petrol,White,ZG50 JW GP,2025-08-11,Passed
+V00233,Toyota,Corolla Quest,2018,8,Standard,5,Petrol,White,BX63 HA ZN,2026-09-21,Pending
+V00234,Honda,Amaze,2018,8,Economy,4,Hybrid,White,ZJ68 JM WC,2026-02-12,Passed
+V00235,Toyota,Starlet,2025,1,Standard,5,Petrol,Black,KB85 JN GP,2025-11-13,Passed
+V00236,Toyota,Avanza,2021,5,Standard,5,Petrol,White,CW55 TV EC,2025-09-21,Passed
+V00237,Toyota,Starlet,2019,7,Comfort,5,Diesel,White,VK69 WY ZN,2026-11-18,Passed
+V00238,Kia,Picanto,2019,7,Comfort,5,Petrol,Silver,EZ18 HF GP,2027-05-08,Passed
+V00239,Volkswagen,Polo Vivo,2022,4,XL,6,Petrol,Blue,EP79 DG GP,2025-11-01,Passed
+V00240,Honda,Ballade,2018,8,Economy,4,Petrol,Grey,NW50 XN ZN,2026-12-23,Passed
+V00241,Hyundai,i20,2019,7,Economy,4,Petrol,Black,XE32 TS WC,2027-06-11,Passed
+V00242,Mercedes-Benz,A200,2020,6,Comfort,5,Petrol,Black,GD24 YT GP,2025-09-03,Passed
+V00243,Nissan,NP200,2022,4,XL,6,Electric,Black,FD43 CB ZN,2025-12-04,Passed
+V00244,Toyota,Avanza,2023,3,Economy,4,Diesel,Black,ZP91 AH GP,2026-10-17,Passed
+V00245,Renault,Kwid,2019,7,Economy,4,Petrol,Silver,TP75 GM GP,2026-04-29,Passed
+V00246,Toyota,Starlet,2023,3,Economy,4,Petrol,Black,HD61 DF WC,2026-04-30,Passed
+V00247,Suzuki,Swift,2016,10,Standard,5,Petrol,White,MN89 RL ZN,2027-01-10,Passed
+V00248,Volkswagen,Polo Vivo,2014,12,Standard,5,Petrol,White,AW11 YX ZN,2027-03-21,Passed
+V00249,BMW,320i,2019,7,Standard,5,Petrol,Silver,HL47 JA ZN,2026-03-27,Passed
+V00250,Suzuki,Swift,2023,3,Economy,4,Petrol,Red,PP49 TL GP,2026-08-30,Passed
+V00251,Suzuki,Ertiga,2016,10,Standard,5,Petrol,Blue,JW74 WB WC,2027-02-15,Passed
+V00252,Toyota,Corolla Quest,2020,6,Standard,5,Petrol,Grey,BL21 JR GP,2025-10-27,Passed
+V00253,Suzuki,Dzire,2019,7,Comfort,5,Petrol,Silver,CE59 VS GP,2025-12-03,Passed
+V00254,Volkswagen,Polo Vivo,2015,11,Standard,5,Hybrid,Silver,TY34 KB GP,2026-03-04,Passed
+V00255,Toyota,Etios,2019,7,Standard,5,Petrol,White,DP42 LE GP,2026-10-27,Passed
+V00256,Suzuki,Ertiga,2019,7,XL,6,Petrol,White,SG44 LA GP,2026-07-25,Passed
+V00257,Toyota,Corolla Quest,2019,7,Comfort,5,Petrol,Grey,WC13 DK GP,2026-11-02,Passed
+V00258,Toyota,Avanza,2019,7,Economy,4,Petrol,Blue,BC35 ZT WC,2026-03-04,Passed
+V00259,Hyundai,Grand i10,2015,11,Economy,4,Petrol,Black,BE66 ND GP,2026-09-18,Passed
+V00260,Toyota,Etios,2021,5,Standard,5,Petrol,White,SN48 BX WC,2026-03-04,Passed
+V00261,Honda,Ballade,2023,3,Comfort,5,Petrol,Black,KX24 XA GP,2026-12-18,Passed
+V00262,Toyota,Starlet,2021,5,Standard,5,Diesel,Black,LP92 NF GP,2027-01-03,Passed
+V00263,Hyundai,Grand i10,2023,3,Standard,5,Petrol,White,BA29 SM GP,2026-10-09,Passed
+V00264,Suzuki,Swift,2020,6,Comfort,5,Petrol,Black,ZH33 XY GP,2026-07-25,Passed
+V00265,Toyota,Starlet,2023,3,XL,6,Diesel,Silver,EY77 PN GP,2026-04-18,Passed
+V00266,BMW,X1,2019,7,Comfort,5,Petrol,White,WJ15 WF GP,2025-12-21,Passed
+V00267,Volkswagen,Polo,2025,1,XL,6,Petrol,Grey,YK88 GV GP,2026-11-11,Passed
+V00268,Suzuki,Swift,2019,7,Comfort,5,Petrol,Blue,EF13 VD GP,2025-06-30,Passed
+V00269,Volkswagen,Polo Vivo,2018,8,Standard,5,Petrol,White,YA89 JK ZN,2026-03-21,Passed
+V00270,Kia,Sonet,2025,1,Standard,5,Diesel,Silver,XC42 VA GP,2026-09-29,Passed
+V00271,Renault,Kwid,2019,7,Standard,5,Petrol,Red,VT92 GF WC,2026-01-04,Passed
+V00272,Suzuki,Dzire,2022,4,Economy,4,Petrol,Silver,KY37 RT NW,2026-07-30,Failed
+V00273,Toyota,Starlet,2020,6,Standard,5,Petrol,White,XR93 WX EC,2027-06-02,Passed
+V00274,Kia,Picanto,2025,1,Comfort,5,Petrol,Grey,ZZ55 RS WC,2027-02-28,Passed
+V00275,Volkswagen,Polo Vivo,2024,2,XL,6,Petrol,Grey,VJ11 PE GP,2026-07-04,Passed
+V00276,Toyota,Corolla Cross,2024,2,Economy,4,Petrol,White,EF57 RB EC,2027-02-06,Passed
+V00277,Volkswagen,Golf,2022,4,Economy,4,Petrol,Black,VJ78 SA ZN,2027-06-24,Passed
+V00278,Nissan,Almera,2019,7,XL,6,Petrol,White,RM16 DT ZN,2025-09-21,Passed
+V00279,Volkswagen,Polo Vivo,2023,3,Comfort,5,Diesel,Grey,XX18 TH WC,2025-06-21,Passed
+V00280,Volkswagen,Polo Vivo,2022,4,Standard,5,Electric,Blue,ZL79 JH GP,2025-12-26,Passed
+V00281,Toyota,Avanza,2019,7,Comfort,5,Diesel,White,HY20 FN NW,2027-02-17,Passed
+V00282,Toyota,Starlet,2019,7,Comfort,5,Petrol,Silver,XZ96 PE WC,2026-05-20,Passed
+V00283,Toyota,Avanza,2024,2,Economy,4,Diesel,Blue,NP51 GV WC,2025-09-26,Passed
+V00284,Nissan,NP200,2023,3,Standard,5,Petrol,Grey,DB60 DT GP,2025-09-25,Passed
+V00285,Toyota,Etios,2023,3,Comfort,5,Diesel,White,KV55 ZZ NW,2027-01-25,Passed
+V00286,BMW,118i,2024,2,Comfort,5,Petrol,Black,LS45 SG GP,2027-04-05,Passed
+V00287,Volkswagen,Golf,2014,12,Economy,4,Petrol,Blue,HN25 FB EC,2026-02-08,Pending
+V00288,Toyota,Corolla Quest,2016,10,Standard,5,Petrol,White,LJ88 WX WC,2026-04-19,Passed
+V00289,Kia,Picanto,2024,2,Standard,5,Petrol,White,HW45 KD EC,2025-08-16,Pending
+V00290,Toyota,Etios,2020,6,Standard,5,Diesel,Grey,FN65 CX GP,2026-05-14,Passed
+V00291,BMW,X1,2019,7,Comfort,5,Petrol,Grey,KD59 BZ ZN,2026-12-25,Passed
+V00292,Mercedes-Benz,A200,2021,5,Comfort,5,Petrol,Black,WG61 EB WC,2026-09-07,Passed
+V00293,BMW,118i,2018,8,Economy,4,Petrol,White,FA77 MB WC,2026-05-26,Passed
+V00294,Toyota,Corolla Quest,2023,3,Standard,5,Petrol,White,FN53 JW GP,2026-04-25,Pending
+V00295,Hyundai,i20,2023,3,Comfort,5,Petrol,Silver,VD31 RS GP,2025-12-17,Passed
+V00296,Nissan,Magnite,2022,4,Standard,5,Diesel,Silver,EE35 BS EC,2025-11-18,Passed
+V00297,Volkswagen,Caddy,2023,3,Economy,4,Petrol,Silver,BH16 WB GP,2025-08-28,Passed
+V00298,Suzuki,Dzire,2024,2,Economy,4,Petrol,White,BD21 ZW GP,2027-01-13,Passed
+V00299,Suzuki,Swift,2022,4,Economy,4,Diesel,White,SR51 JY WC,2025-09-12,Passed
+V00300,Kia,Picanto,2018,8,Standard,5,Petrol,Black,AK80 CS GP,2026-07-29,Passed
+V00301,BMW,X1,2021,5,Comfort,5,Petrol,White,RK53 KC WC,2025-12-17,Passed
+V00302,Hyundai,Venue,2015,11,Standard,5,Petrol,White,RS11 CB GP,2026-08-11,Passed
+V00303,Mercedes-Benz,C180,2024,2,Comfort,5,Diesel,White,TF90 DY EC,2026-07-05,Passed
+V00304,Hyundai,i20,2019,7,Standard,5,Petrol,White,PV79 FJ EC,2026-06-24,Passed
+V00305,Toyota,Corolla Quest,2019,7,Comfort,5,Petrol,White,TP98 VP GP,2025-10-12,Passed
+V00306,Toyota,Starlet,2019,7,Comfort,5,Petrol,Black,BV52 XN GP,2026-11-28,Passed
+V00307,Hyundai,Venue,2017,9,Economy,4,Petrol,White,XF37 BB GP,2026-06-07,Passed
+V00308,Toyota,Etios,2019,7,XL,6,Petrol,White,VH35 JS NW,2027-03-23,Passed
+V00309,Renault,Triber,2019,7,XL,6,Petrol,Grey,BY19 EH NW,2025-11-02,Pending
+V00310,BMW,X1,2019,7,Economy,4,Petrol,Grey,YA67 GY GP,2026-01-15,Pending
+V00311,Toyota,Corolla Quest,2022,4,Standard,5,Hybrid,Blue,VT39 ZJ GP,2026-08-04,Passed
+V00312,Suzuki,Swift,2025,1,Comfort,5,Petrol,White,JC55 JX GP,2027-01-17,Passed
+V00313,Toyota,Etios,2022,4,Economy,4,Petrol,Grey,MA67 YJ NW,2025-08-26,Passed
+V00314,Suzuki,Dzire,2018,8,Economy,4,Petrol,White,DM58 LG GP,2026-08-15,Passed
+V00315,Nissan,Almera,2016,10,Standard,5,Diesel,Blue,GY77 TR WC,2026-12-07,Passed
+V00316,Hyundai,Grand i10,2025,1,Standard,5,Petrol,Blue,KM22 XL GP,2025-06-15,Passed
+V00317,Toyota,Etios,2024,2,Standard,5,Petrol,White,RA58 KR GP,2025-10-31,Pending
+V00318,Toyota,Starlet,2013,13,Economy,4,Petrol,Black,JJ19 YG GP,2026-01-13,Passed
+V00319,BMW,118i,2022,4,Standard,5,Petrol,Silver,SZ14 PJ EC,2027-02-02,Passed
+V00320,Suzuki,Dzire,2020,6,Standard,5,Diesel,White,LV47 AX ZN,2025-10-15,Pending
+V00321,Renault,Kwid,2019,7,Standard,5,Petrol,Silver,WR90 GV GP,2025-11-11,Passed
+V00322,Suzuki,Dzire,2015,11,Standard,5,Petrol,Red,BL89 RY ZN,2026-07-30,Pending
+V00323,Kia,Sonet,2021,5,Economy,4,Petrol,White,CC40 SK GP,2026-10-11,Passed
+V00324,Volkswagen,Polo Vivo,2013,13,Standard,5,Petrol,Silver,YK21 CH GP,2027-04-25,Passed
+V00325,Volkswagen,Polo,2022,4,Standard,5,Petrol,White,GB89 KH GP,2027-05-03,Passed
+V00326,Volkswagen,Golf,2024,2,Standard,5,Petrol,Red,XZ13 PX GP,2026-09-07,Passed
+V00327,BMW,118i,2017,9,Economy,4,Petrol,Grey,BZ58 SV GP,2027-02-26,Pending
+V00328,Toyota,Avanza,2017,9,Standard,5,Petrol,Silver,RE85 CS WC,2027-05-22,Passed
+V00329,Toyota,Corolla Quest,2019,7,XL,6,Petrol,Blue,RK28 YN NW,2026-08-26,Passed
+V00330,Toyota,Avanza,2024,2,Economy,4,Petrol,White,XF19 GW ZN,2027-03-05,Passed
+V00331,Mercedes-Benz,A200,2020,6,Economy,4,Petrol,Grey,XZ47 CG GP,2026-02-17,Passed
+V00332,Nissan,Almera,2017,9,Economy,4,Petrol,Grey,AE81 YJ NW,2027-01-24,Passed
+V00333,Hyundai,i20,2018,8,Economy,4,Diesel,Black,HN69 VV GP,2027-04-26,Passed
+V00334,Nissan,Magnite,2020,6,Economy,4,Petrol,White,KD35 VR GP,2025-07-24,Passed
+V00335,Toyota,Starlet,2019,7,Comfort,5,Petrol,White,TS62 YT GP,2025-07-08,Passed
+V00336,Volkswagen,Polo,2023,3,Economy,4,Hybrid,Silver,DM15 GV GP,2026-04-08,Passed
+V00337,Hyundai,i20,2022,4,Standard,5,Petrol,Silver,CV90 SW GP,2026-06-13,Passed
+V00338,BMW,X1,2021,5,Comfort,5,Petrol,White,BF11 EB NW,2025-12-13,Passed
+V00339,Renault,Triber,2019,7,XL,6,Petrol,White,PY56 CX GP,2026-08-01,Passed
+V00340,Toyota,Etios,2021,5,Economy,4,Petrol,Silver,GJ66 DK ZN,2025-11-09,Passed
+V00341,Volkswagen,Polo,2019,7,XL,6,Petrol,Grey,RZ13 FB GP,2026-02-08,Passed
+V00342,Suzuki,Dzire,2022,4,Economy,4,Petrol,Silver,LV68 EE ZN,2025-08-10,Passed
+V00343,Toyota,Corolla Cross,2024,2,Standard,5,Hybrid,White,MV51 YZ NW,2026-03-23,Passed
+V00344,Toyota,Etios,2024,2,Standard,5,Petrol,Grey,SL58 PM WC,2025-11-24,Passed
+V00345,Kia,Picanto,2019,7,Standard,5,Petrol,Silver,BX95 PV GP,2027-06-03,Passed
+V00346,Toyota,Etios,2019,7,Standard,5,Petrol,White,SM26 AM ZN,2026-09-24,Passed
+V00347,Suzuki,S-Presso,2019,7,Comfort,5,Petrol,Silver,WE82 TH WC,2027-05-02,Pending
+V00348,Nissan,NP200,2025,1,Standard,5,Petrol,White,GV71 CJ ZN,2025-07-24,Passed
+V00349,Toyota,Etios,2023,3,Standard,5,Petrol,White,PF79 GB WC,2027-02-20,Passed
+V00350,Kia,Rio,2016,10,Economy,4,Diesel,Silver,SG40 ZG EC,2027-03-18,Passed
+V00351,Toyota,Avanza,2016,10,Economy,4,Diesel,White,LK77 DN WC,2025-09-04,Passed
+V00352,BMW,118i,2023,3,Comfort,5,Petrol,Black,PE90 YZ GP,2025-10-01,Passed
+V00353,Hyundai,i20,2014,12,Economy,4,Petrol,Black,VC43 BN GP,2027-05-02,Passed
+V00354,Toyota,Etios,2019,7,Comfort,5,Hybrid,White,DF79 CN ZN,2026-09-29,Pending
+V00355,Toyota,Starlet,2020,6,Standard,5,Hybrid,White,AZ19 SK WC,2025-10-27,Passed
+V00356,Suzuki,Dzire,2015,11,Standard,5,Petrol,Red,WH74 XM GP,2026-12-12,Passed
+V00357,Hyundai,Venue,2019,7,Comfort,5,Petrol,Silver,BG23 ZH GP,2025-10-24,Passed
+V00358,Toyota,Corolla Cross,2013,13,Standard,5,Diesel,White,YM79 RK ZN,2025-10-31,Passed
+V00359,Toyota,Avanza,2019,7,XL,6,Petrol,White,KR65 SA GP,2026-02-27,Passed
+V00360,Toyota,Starlet,2013,13,Standard,5,Petrol,Red,NX24 ZN WC,2026-07-27,Passed
+V00361,Suzuki,Dzire,2015,11,Economy,4,Petrol,Red,YK44 TD GP,2027-06-01,Passed
+V00362,Volkswagen,Caddy,2020,6,Standard,5,Petrol,Black,JB80 LC GP,2027-03-29,Passed
+V00363,Nissan,NP200,2013,13,Standard,5,Petrol,Black,ZY58 AE WC,2026-12-12,Passed
+V00364,Hyundai,Venue,2013,13,Economy,4,Petrol,Grey,DL80 FH WC,2025-08-03,Passed
+V00365,Hyundai,Grand i10,2019,7,Comfort,5,Diesel,White,ZC65 PA GP,2026-11-03,Failed
+V00366,Volkswagen,Polo,2025,1,Economy,4,Petrol,Blue,VC20 WK ZN,2027-05-16,Passed
+V00367,Suzuki,S-Presso,2021,5,XL,6,Petrol,Black,MJ40 PA WC,2026-06-24,Passed
+V00368,Mercedes-Benz,A200,2022,4,Comfort,5,Petrol,Red,FF14 DN WC,2025-09-24,Passed
+V00369,Toyota,Etios,2019,7,XL,6,Petrol,Silver,VX76 AH GP,2025-08-05,Passed
+V00370,Nissan,Almera,2018,8,Standard,5,Petrol,Black,XD69 EF ZN,2025-09-25,Passed
+V00371,Volkswagen,Golf,2022,4,Standard,5,Petrol,Silver,ZX87 EY EC,2026-05-07,Passed
+V00372,Renault,Triber,2019,7,Comfort,5,Petrol,Grey,YX27 VH ZN,2025-07-16,Passed
+V00373,Hyundai,Grand i10,2020,6,Standard,5,Diesel,Silver,EA53 FH EC,2027-04-06,Passed
+V00374,Hyundai,Venue,2016,10,Economy,4,Petrol,Grey,JD28 CZ GP,2025-11-01,Passed
+V00375,Toyota,Corolla Quest,2018,8,Economy,4,Petrol,White,RS35 DM GP,2026-04-03,Failed
+V00376,Toyota,Etios,2019,7,Comfort,5,Petrol,White,WV71 NS GP,2025-09-04,Pending
+V00377,Toyota,Corolla Cross,2020,6,Economy,4,Petrol,Grey,HM18 SG WC,2026-02-10,Passed
+V00378,Hyundai,Venue,2023,3,Comfort,5,Petrol,White,WZ45 XG GP,2027-05-09,Passed
+V00379,Suzuki,S-Presso,2021,5,Standard,5,Petrol,Silver,FF89 GY NW,2026-06-03,Passed
+V00380,Toyota,Corolla Cross,2022,4,Economy,4,Petrol,Black,NL76 TM GP,2025-11-13,Passed
+V00381,Hyundai,Grand i10,2015,11,Economy,4,Diesel,Silver,RE70 LD GP,2026-04-29,Passed
+V00382,Toyota,Avanza,2020,6,Standard,5,Petrol,Black,RR76 DL GP,2026-03-23,Passed
+V00383,BMW,X1,2019,7,Comfort,5,Petrol,Red,EP64 NH GP,2027-01-28,Passed
+V00384,Toyota,Starlet,2019,7,Standard,5,Petrol,Grey,XW55 AX GP,2026-01-03,Passed
+V00385,Hyundai,Grand i10,2017,9,Standard,5,Petrol,White,MZ94 HK NW,2027-03-09,Passed
+V00386,Volkswagen,Caddy,2019,7,Comfort,5,Petrol,Silver,VR17 TP GP,2026-03-26,Pending
+V00387,Nissan,NP200,2021,5,Standard,5,Petrol,White,EH60 PY EC,2027-05-12,Passed
+V00388,Renault,Kwid,2019,7,XL,6,Petrol,Black,NS83 WL GP,2027-02-19,Passed
+V00389,Nissan,Magnite,2022,4,Standard,5,Petrol,Red,WL56 XF GP,2025-09-05,Passed
+V00390,Honda,Ballade,2025,1,Economy,4,Petrol,Red,XW41 VJ NW,2026-01-12,Passed
+V00391,Volkswagen,Caddy,2019,7,Comfort,5,Petrol,Silver,KR56 SN ZN,2026-08-14,Pending
+V00392,Volkswagen,Polo Vivo,2020,6,Standard,5,Petrol,Grey,MG18 AN NW,2025-11-21,Passed
+V00393,Toyota,Avanza,2019,7,XL,6,Diesel,White,SA15 MP ZN,2027-05-24,Pending
+V00394,Hyundai,i20,2018,8,Standard,5,Petrol,Grey,XR71 NM GP,2025-11-02,Passed
+V00395,Volkswagen,Polo,2018,8,Standard,5,Petrol,Red,GK54 GR GP,2027-05-27,Passed
+V00396,Toyota,Starlet,2016,10,Standard,5,Petrol,Grey,ET29 SF ZN,2026-06-07,Passed
+V00397,Hyundai,Grand i10,2015,11,Economy,4,Petrol,Grey,JW96 AN GP,2025-08-15,Passed
+V00398,Nissan,NP200,2022,4,Standard,5,Petrol,Black,JF36 YM GP,2026-11-23,Passed
+V00399,Hyundai,Grand i10,2020,6,Comfort,5,Petrol,Black,YB80 BZ WC,2025-10-31,Passed
+V00400,Hyundai,i20,2015,11,Economy,4,Petrol,White,MS55 CS GP,2026-11-02,Passed
+V00401,Nissan,Almera,2021,5,XL,6,Petrol,White,YE59 XR GP,2026-10-08,Passed
+V00402,Toyota,Etios,2013,13,Standard,5,Petrol,Grey,JT47 SW ZN,2026-03-03,Passed
+V00403,Suzuki,Ertiga,2021,5,Economy,4,Petrol,Blue,RJ83 DD GP,2026-01-16,Passed
+V00404,Kia,Rio,2023,3,Standard,5,Petrol,Red,NW81 XT EC,2025-06-17,Passed
+V00405,Toyota,Starlet,2013,13,Standard,5,Diesel,Grey,PS23 ZX GP,2025-11-06,Passed
+V00406,Toyota,Starlet,2019,7,Standard,5,Petrol,Silver,PB26 XE GP,2027-01-02,Passed
+V00407,Volkswagen,Caddy,2017,9,Standard,5,Petrol,Red,LR81 RX ZN,2027-05-27,Passed
+V00408,Hyundai,Accent,2023,3,Standard,5,Petrol,Blue,KY65 SE EC,2025-11-27,Passed
+V00409,Suzuki,Ertiga,2013,13,Economy,4,Diesel,Grey,XR84 CS GP,2027-05-15,Passed
+V00410,Suzuki,S-Presso,2019,7,Comfort,5,Petrol,Red,WT67 JE GP,2026-08-27,Passed
+V00411,Hyundai,Venue,2016,10,Standard,5,Petrol,White,PT14 TG ZN,2026-01-06,Passed
+V00412,Toyota,Corolla Cross,2022,4,Comfort,5,Petrol,White,DF28 TW WC,2026-08-02,Passed
+V00413,Honda,Amaze,2023,3,Standard,5,Petrol,White,EK33 VE EC,2026-03-28,Passed
+V00414,Renault,Triber,2021,5,XL,6,Hybrid,Grey,BA80 RY GP,2027-05-07,Pending
+V00415,Nissan,Almera,2019,7,XL,6,Hybrid,Black,EX61 DM GP,2027-02-01,Passed
+V00416,BMW,118i,2025,1,Economy,4,Electric,Blue,HL35 KT WC,2025-07-30,Passed
+V00417,Toyota,Starlet,2019,7,Economy,4,Diesel,White,YN56 TC GP,2027-06-11,Passed
+V00418,Toyota,Starlet,2021,5,Economy,4,Hybrid,White,HZ81 JR ZN,2026-06-12,Passed
+V00419,Toyota,Avanza,2013,13,Standard,5,Petrol,Grey,WN57 AP ZN,2026-11-05,Passed
+V00420,Kia,Sonet,2023,3,Comfort,5,Diesel,Grey,JM82 XD WC,2026-07-11,Passed
+V00421,Nissan,Magnite,2023,3,Economy,4,Petrol,Grey,SW32 ME ZN,2026-06-17,Passed
+V00422,Hyundai,Grand i10,2019,7,Comfort,5,Diesel,White,PB51 ED GP,2026-12-04,Passed
+V00423,Kia,Rio,2021,5,Standard,5,Petrol,White,EG69 AV WC,2025-12-09,Passed
+V00424,Suzuki,Dzire,2017,9,Standard,5,Petrol,Silver,DA63 TD ZN,2027-05-13,Pending
+V00425,Hyundai,Accent,2016,10,Standard,5,Petrol,Black,SJ61 EM WC,2026-04-27,Passed
+V00426,Suzuki,Dzire,2019,7,Comfort,5,Petrol,Black,XY87 NA GP,2026-07-30,Passed
+V00427,Volkswagen,Caddy,2025,1,Standard,5,Petrol,Blue,JA90 BN GP,2027-06-08,Passed
+V00428,Hyundai,i20,2019,7,Standard,5,Petrol,Blue,DK34 ME EC,2025-10-30,Passed
+V00429,BMW,118i,2023,3,Standard,5,Diesel,White,LA15 SH ZN,2027-06-24,Passed
+V00430,BMW,118i,2019,7,Economy,4,Petrol,Blue,HD59 CH GP,2026-07-24,Pending
+V00431,Toyota,Avanza,2014,12,Standard,5,Diesel,Red,KT49 CH EC,2025-07-23,Passed
+V00432,Nissan,Magnite,2019,7,Comfort,5,Petrol,Grey,FF71 TG GP,2025-12-06,Pending
+V00433,Kia,Picanto,2018,8,Standard,5,Petrol,Grey,CC20 XC GP,2026-06-18,Passed
+V00434,Toyota,Corolla Quest,2015,11,Economy,4,Petrol,White,BM20 FG WC,2026-07-20,Passed
+V00435,Volkswagen,Caddy,2025,1,Standard,5,Petrol,Black,XJ91 CA GP,2026-12-30,Passed
+V00436,Toyota,Avanza,2025,1,XL,6,Petrol,Grey,EL59 DN GP,2026-05-11,Passed
+V00437,Volkswagen,Golf,2025,1,Standard,5,Petrol,Blue,NZ45 KS EC,2025-10-27,Passed
+V00438,Honda,Amaze,2018,8,Standard,5,Petrol,Grey,HL96 RC WC,2027-01-16,Passed
+V00439,Toyota,Corolla Cross,2013,13,Standard,5,Diesel,Grey,AL16 KN ZN,2025-11-04,Passed
+V00440,Volkswagen,Golf,2020,6,Standard,5,Petrol,Black,NK78 GJ ZN,2026-08-08,Passed
+V00441,Suzuki,Dzire,2020,6,Economy,4,Petrol,White,SE74 YP WC,2026-02-13,Passed
+V00442,Hyundai,i20,2018,8,Standard,5,Diesel,White,DE40 PE GP,2025-12-09,Passed
+V00443,Toyota,Corolla Cross,2013,13,Standard,5,Diesel,Black,ST85 HZ GP,2025-09-20,Passed
+V00444,Volkswagen,Golf,2019,7,Comfort,5,Petrol,Black,FM80 DJ GP,2026-08-03,Passed
+V00445,Nissan,Almera,2019,7,Comfort,5,Petrol,Silver,XV66 TZ GP,2026-12-09,Passed
+V00446,Mercedes-Benz,A200,2023,3,Standard,5,Petrol,Red,SB31 BG WC,2027-02-05,Passed
+V00447,Volkswagen,Polo Vivo,2021,5,Standard,5,Petrol,White,JH30 PT GP,2027-02-04,Passed
+V00448,Nissan,Almera,2022,4,Standard,5,Diesel,White,RK10 KG GP,2026-11-17,Passed
+V00449,Kia,Picanto,2019,7,Standard,5,Petrol,White,EN75 VF ZN,2025-11-25,Passed
+V00450,BMW,320i,2019,7,Comfort,5,Electric,Silver,DY42 GN GP,2026-05-19,Passed
+V00451,Toyota,Etios,2021,5,Comfort,5,Petrol,Grey,TZ58 DA GP,2027-01-24,Passed
+V00452,Renault,Kwid,2025,1,Standard,5,Petrol,Blue,KX85 TK GP,2026-08-04,Passed
+V00453,Volkswagen,Golf,2018,8,Economy,4,Diesel,White,EW61 SD GP,2025-09-15,Passed
+V00454,Mercedes-Benz,C180,2022,4,Standard,5,Petrol,Grey,FE81 JA GP,2025-06-22,Passed
+V00455,Toyota,Corolla Quest,2013,13,Economy,4,Petrol,Grey,RL22 GZ GP,2026-12-30,Passed
+V00456,Toyota,Corolla Cross,2022,4,XL,6,Petrol,Black,VF15 ZY GP,2025-08-21,Passed
+V00457,Toyota,Avanza,2017,9,Economy,4,Diesel,Silver,AG72 VT WC,2025-08-18,Passed
+V00458,Hyundai,Grand i10,2015,11,Standard,5,Petrol,Grey,KR57 VG ZN,2026-10-03,Passed
+V00459,Hyundai,Grand i10,2020,6,Standard,5,Petrol,Silver,KX92 MV WC,2026-09-14,Pending
+V00460,Mercedes-Benz,C180,2016,10,Standard,5,Diesel,Black,HP58 WL WC,2026-02-20,Passed
+V00461,Toyota,Corolla Cross,2020,6,Comfort,5,Petrol,White,CA91 AR GP,2026-11-14,Passed
+V00462,Volkswagen,Golf,2020,6,Standard,5,Petrol,Silver,HN18 YW WC,2025-10-06,Passed
+V00463,Hyundai,Accent,2013,13,Standard,5,Petrol,Black,PM77 GV NW,2025-10-06,Passed
+V00464,Toyota,Avanza,2021,5,Standard,5,Petrol,Blue,DM95 RT ZN,2026-07-06,Passed
+V00465,Toyota,Starlet,2022,4,Standard,5,Petrol,Silver,VS46 RX GP,2027-06-22,Passed
+V00466,Toyota,Avanza,2022,4,Standard,5,Petrol,Blue,RW10 WR GP,2026-12-01,Passed
+V00467,Toyota,Avanza,2024,2,Comfort,5,Petrol,Silver,NB50 TR EC,2025-09-20,Failed
+V00468,Toyota,Etios,2023,3,Standard,5,Petrol,White,DP52 CX GP,2026-12-19,Pending
+V00469,Kia,Rio,2023,3,Standard,5,Petrol,Black,YS40 RK GP,2026-05-20,Passed
+V00470,Hyundai,Venue,2019,7,Economy,4,Petrol,White,RB95 TK GP,2026-08-16,Pending
+V00471,Nissan,Magnite,2025,1,Standard,5,Petrol,Black,CE52 BY GP,2025-09-04,Pending
+V00472,Volkswagen,Golf,2019,7,Comfort,5,Petrol,Grey,GG99 JP WC,2027-02-14,Passed
+V00473,Suzuki,Ertiga,2022,4,Economy,4,Petrol,Blue,FR75 HP GP,2026-04-26,Passed
+V00474,Toyota,Starlet,2016,10,Standard,5,Petrol,White,SX91 ZY GP,2025-11-04,Passed
+V00475,Suzuki,Swift,2020,6,Comfort,5,Petrol,Silver,TC23 YE EC,2026-01-19,Passed
+V00476,Suzuki,Dzire,2016,10,Standard,5,Diesel,White,JS22 HL NW,2026-06-01,Passed
+V00477,Toyota,Etios,2022,4,Comfort,5,Petrol,White,CP15 RB WC,2026-04-23,Passed
+V00478,Suzuki,Swift,2017,9,Standard,5,Petrol,Silver,RT40 FP GP,2027-03-09,Passed
+V00479,Toyota,Corolla Quest,2023,3,Comfort,5,Diesel,Grey,MK90 DC GP,2025-08-21,Passed
+V00480,Volkswagen,Golf,2022,4,Comfort,5,Petrol,White,EF93 BW EC,2026-12-07,Passed
+V00481,BMW,118i,2021,5,Standard,5,Petrol,Grey,NW45 FZ GP,2025-08-10,Passed
+V00482,Volkswagen,Polo,2023,3,Standard,5,Petrol,White,SJ23 HZ GP,2027-02-06,Passed
+V00483,Suzuki,Ertiga,2025,1,Comfort,5,Petrol,White,PM38 YX EC,2027-04-01,Passed
+V00484,Toyota,Avanza,2018,8,Standard,5,Petrol,White,SG58 PJ GP,2025-12-07,Passed
+V00485,Mercedes-Benz,C180,2016,10,Standard,5,Electric,White,FF27 ME GP,2027-03-13,Passed
+V00486,Volkswagen,Golf,2019,7,XL,6,Petrol,Red,XZ59 ST WC,2027-04-07,Passed
+V00487,Toyota,Avanza,2025,1,Economy,4,Petrol,Grey,SE98 TM GP,2025-07-20,Passed
+V00488,Volkswagen,Polo Vivo,2025,1,Economy,4,Petrol,Grey,AH45 HG GP,2026-06-20,Pending
+V00489,Kia,Picanto,2020,6,Standard,5,Diesel,Silver,HV75 CA NW,2025-10-17,Passed
+V00490,Suzuki,S-Presso,2021,5,Standard,5,Petrol,Grey,TJ78 ZG GP,2027-03-19,Passed
+V00491,Toyota,Starlet,2019,7,XL,6,Petrol,White,JB79 AY WC,2026-10-18,Passed
+V00492,Hyundai,Grand i10,2025,1,Economy,4,Petrol,White,CY90 XY WC,2026-12-09,Passed
+V00493,Kia,Picanto,2017,9,Standard,5,Petrol,White,JJ78 XS WC,2026-10-28,Passed
+V00494,Toyota,Corolla Cross,2018,8,Standard,5,Petrol,Silver,ZW78 KG EC,2025-08-09,Passed
+V00495,Renault,Triber,2018,8,Economy,4,Petrol,Red,AF71 KM WC,2025-12-09,Passed
+V00496,Volkswagen,Golf,2018,8,Standard,5,Petrol,Grey,YE82 DM GP,2026-12-28,Passed
+V00497,Toyota,Corolla Cross,2018,8,Standard,5,Petrol,White,GG60 KZ GP,2025-10-10,Passed
+V00498,Mercedes-Benz,A200,2021,5,Economy,4,Petrol,White,MS63 ZA ZN,2026-02-13,Pending
+V00499,Suzuki,Ertiga,2025,1,Standard,5,Diesel,Grey,XB84 VN ZN,2026-11-24,Passed
+V00500,Volkswagen,Polo Vivo,2015,11,Standard,5,Petrol,Black,LA36 BA WC,2025-09-19,Passed
+V00501,Toyota,Starlet,2019,7,Standard,5,Petrol,Silver,TK20 DS GP,2025-08-06,Passed
+V00502,Kia,Rio,2025,1,Standard,5,Petrol,Silver,GN64 YX GP,2025-10-06,Passed
+V00503,Toyota,Etios,2019,7,XL,6,Petrol,Grey,BC58 SV GP,2025-10-12,Pending
+V00504,Suzuki,Ertiga,2013,13,Standard,5,Diesel,Black,GA74 CG WC,2026-05-28,Pending
+V00505,Toyota,Corolla Quest,2023,3,Economy,4,Petrol,Grey,RT27 YN GP,2027-03-25,Passed
+V00506,Volkswagen,Caddy,2024,2,XL,6,Petrol,Silver,HL53 FL GP,2025-11-30,Passed
+V00507,Hyundai,Accent,2018,8,Economy,4,Petrol,Grey,FE71 WW GP,2027-04-22,Pending
+V00508,Toyota,Starlet,2013,13,Standard,5,Petrol,Red,DR84 CB GP,2025-10-28,Passed
+V00509,Toyota,Starlet,2019,7,XL,6,Hybrid,Silver,AE90 HM ZN,2026-04-06,Passed
+V00510,Toyota,Corolla Quest,2022,4,Economy,4,Petrol,Red,YV71 SD GP,2027-06-06,Passed
+V00511,Nissan,Magnite,2019,7,Standard,5,Diesel,White,JK18 WH GP,2027-04-27,Passed
+V00512,Toyota,Corolla Quest,2020,6,Standard,5,Petrol,Silver,XV56 KP GP,2026-05-16,Passed
+V00513,Nissan,Almera,2021,5,Economy,4,Petrol,White,XB71 XW WC,2026-11-26,Passed
+V00514,Mercedes-Benz,C180,2025,1,Economy,4,Petrol,White,TM11 NX GP,2027-02-14,Passed
+V00515,Suzuki,Swift,2020,6,XL,6,Diesel,Black,NF26 DE GP,2026-02-15,Passed
+V00516,Toyota,Avanza,2014,12,Standard,5,Petrol,White,LL61 NG GP,2026-06-03,Passed
+V00517,Hyundai,i20,2015,11,Standard,5,Petrol,Silver,CV66 FJ WC,2027-04-30,Passed
+V00518,Renault,Triber,2019,7,Standard,5,Diesel,Grey,PY54 KD GP,2025-07-03,Passed
+V00519,Nissan,Almera,2017,9,Economy,4,Petrol,White,KA33 WH WC,2027-02-26,Passed
+V00520,Toyota,Corolla Cross,2019,7,XL,6,Diesel,Blue,XT43 JN GP,2027-04-22,Passed
+V00521,Hyundai,Venue,2016,10,Standard,5,Petrol,Silver,KA92 DF WC,2026-04-16,Passed
+V00522,Hyundai,i20,2022,4,Comfort,5,Petrol,Grey,XT19 EM GP,2026-02-21,Passed
+V00523,Toyota,Etios,2015,11,Standard,5,Petrol,Silver,GE98 EF GP,2027-01-05,Passed
+V00524,Toyota,Corolla Quest,2024,2,Economy,4,Petrol,White,EH46 PN GP,2026-10-06,Passed
+V00525,Mercedes-Benz,C180,2025,1,Comfort,5,Petrol,Black,AR54 LE ZN,2027-05-23,Pending
+V00526,Suzuki,Ertiga,2024,2,Standard,5,Hybrid,White,BW90 YA WC,2026-01-27,Passed
+V00527,Mercedes-Benz,A200,2024,2,Standard,5,Petrol,White,FV27 MY GP,2026-12-17,Passed
+V00528,Toyota,Corolla Quest,2023,3,Standard,5,Petrol,White,KS60 ES NW,2027-05-30,Passed
+V00529,Toyota,Etios,2021,5,Standard,5,Petrol,White,WM87 BY EC,2025-12-18,Pending
+V00530,Hyundai,Accent,2020,6,Standard,5,Petrol,Black,JK42 NF GP,2025-07-09,Passed
+V00531,Volkswagen,Caddy,2020,6,Economy,4,Petrol,White,HA32 SC GP,2026-10-22,Passed
+V00532,Suzuki,Swift,2014,12,Standard,5,Petrol,White,VP90 AV GP,2026-10-28,Passed
+V00533,Toyota,Avanza,2024,2,Economy,4,Petrol,Blue,EV66 SH WC,2027-01-25,Passed
+V00534,Hyundai,Venue,2020,6,Economy,4,Petrol,Black,FN68 AH NW,2027-01-09,Pending
+V00535,BMW,X1,2019,7,Comfort,5,Petrol,White,SR83 SE GP,2026-09-29,Passed
+V00536,Kia,Sonet,2021,5,Standard,5,Petrol,Grey,EB67 ER GP,2026-07-15,Passed
+V00537,Toyota,Corolla Quest,2023,3,Standard,5,Petrol,Red,TH12 PK WC,2026-11-05,Passed
+V00538,Kia,Sonet,2020,6,Economy,4,Petrol,Black,TB36 DD GP,2025-11-19,Pending
+V00539,Toyota,Corolla Cross,2022,4,Standard,5,Petrol,Black,VF77 AM GP,2025-09-17,Passed
+V00540,Renault,Kwid,2025,1,Economy,4,Petrol,Silver,JH30 LJ GP,2025-09-13,Passed
+V00541,Nissan,NP200,2023,3,Standard,5,Petrol,Black,JJ50 MJ GP,2027-04-26,Pending
+V00542,Hyundai,Accent,2018,8,Standard,5,Petrol,Blue,LN79 BZ GP,2026-04-30,Failed
+V00543,Volkswagen,Polo Vivo,2013,13,Standard,5,Petrol,Red,MG21 HY WC,2027-02-08,Passed
+V00544,Kia,Sonet,2025,1,Economy,4,Petrol,White,YZ98 KJ WC,2025-11-07,Passed
+V00545,Toyota,Starlet,2017,9,Economy,4,Petrol,Black,LH26 MJ GP,2026-11-03,Passed
+V00546,Kia,Rio,2014,12,Standard,5,Petrol,Grey,YX13 TN GP,2026-06-25,Passed
+V00547,Kia,Picanto,2019,7,Comfort,5,Petrol,Silver,AH76 ZA WC,2026-06-13,Passed
+V00548,Renault,Kwid,2015,11,Standard,5,Petrol,White,MV15 WF GP,2026-02-13,Passed
+V00549,Toyota,Corolla Cross,2016,10,Standard,5,Petrol,Grey,MR20 PF EC,2027-04-06,Passed
+V00550,Renault,Triber,2014,12,Standard,5,Petrol,Red,XJ91 RD ZN,2026-05-25,Passed
+V00551,Toyota,Corolla Cross,2025,1,Comfort,5,Electric,Grey,KG30 YX GP,2026-09-08,Passed
+V00552,Hyundai,Grand i10,2013,13,Standard,5,Petrol,Silver,LG23 MH GP,2025-09-19,Passed
+V00553,Honda,Ballade,2024,2,Comfort,5,Petrol,Silver,JN99 AA GP,2025-10-14,Passed
+V00554,Toyota,Avanza,2013,13,Standard,5,Petrol,Blue,NG16 CV GP,2025-10-02,Passed
+V00555,Toyota,Corolla Quest,2017,9,Economy,4,Petrol,Grey,HF72 SS ZN,2026-02-13,Passed
+V00556,Hyundai,Venue,2020,6,Standard,5,Petrol,Silver,TE62 VN GP,2027-02-20,Passed
+V00557,Toyota,Corolla Cross,2019,7,Comfort,5,Petrol,White,RS27 GG WC,2026-05-21,Passed
+V00558,Nissan,Magnite,2014,12,Standard,5,Petrol,White,JF26 AP GP,2027-02-10,Passed
+V00559,Toyota,Corolla Quest,2024,2,Economy,4,Petrol,White,JL67 TG GP,2026-12-13,Passed
+V00560,Volkswagen,Caddy,2024,2,Economy,4,Diesel,Black,HR39 GK WC,2026-08-22,Passed
+V00561,Volkswagen,Polo,2017,9,Standard,5,Petrol,Grey,HF97 FE GP,2026-12-13,Passed
+V00562,Nissan,Almera,2024,2,Economy,4,Hybrid,Black,HE73 WH GP,2026-11-09,Passed
+V00563,Toyota,Avanza,2020,6,Standard,5,Petrol,Silver,LS74 HC GP,2026-08-24,Passed
+V00564,Volkswagen,Caddy,2022,4,Economy,4,Petrol,Black,TN21 TT WC,2027-01-24,Passed
+V00565,Hyundai,Venue,2021,5,Standard,5,Petrol,Silver,FD38 WT GP,2026-10-31,Passed
+V00566,BMW,X1,2025,1,Standard,5,Petrol,White,GD19 DF GP,2025-06-28,Passed
+V00567,Toyota,Starlet,2025,1,Standard,5,Petrol,Black,WY52 JD GP,2026-10-29,Passed
+V00568,Toyota,Corolla Cross,2024,2,Standard,5,Petrol,Silver,LE93 WC ZN,2025-11-21,Passed
+V00569,Toyota,Etios,2018,8,Standard,5,Diesel,Grey,XF74 MG GP,2026-05-03,Passed
+V00570,Toyota,Corolla Cross,2022,4,Standard,5,Petrol,White,RF66 GD GP,2027-03-23,Passed
+V00571,Mercedes-Benz,C180,2023,3,Standard,5,Petrol,Grey,XA79 AZ WC,2027-02-14,Pending
+V00572,Toyota,Avanza,2018,8,Economy,4,Petrol,White,LR67 XD GP,2026-08-20,Passed
+V00573,Nissan,NP200,2025,1,Standard,5,Petrol,Grey,CT40 SC EC,2025-07-23,Passed
+V00574,Toyota,Corolla Quest,2024,2,Comfort,5,Petrol,White,GP19 SJ WC,2026-04-25,Passed
+V00575,Volkswagen,Polo Vivo,2015,11,Economy,4,Diesel,White,TJ77 SA EC,2027-04-29,Passed
+V00576,Volkswagen,Golf,2017,9,Economy,4,Petrol,White,ET29 HY WC,2027-02-26,Passed
+V00577,Toyota,Corolla Quest,2017,9,Economy,4,Petrol,Black,SC83 YE WC,2027-02-17,Passed
+V00578,Nissan,Almera,2019,7,XL,6,Petrol,White,NB39 DP NW,2025-12-06,Passed
+V00579,Suzuki,S-Presso,2019,7,Standard,5,Petrol,White,VV85 JA WC,2027-02-10,Passed
+V00580,Toyota,Avanza,2021,5,Standard,5,Petrol,Black,TG22 MT GP,2027-05-12,Pending
+V00581,Renault,Kwid,2017,9,Standard,5,Petrol,Black,HS35 XJ ZN,2026-04-25,Passed
+V00582,Toyota,Starlet,2016,10,Economy,4,Diesel,White,DZ92 AX GP,2027-02-08,Passed
+V00583,Suzuki,Swift,2023,3,Standard,5,Petrol,Silver,XJ17 ND GP,2026-01-14,Passed
+V00584,Hyundai,Venue,2016,10,Standard,5,Petrol,White,XS97 YZ GP,2026-09-09,Failed
+V00585,Toyota,Starlet,2016,10,Standard,5,Petrol,White,ZD38 YP GP,2026-09-19,Passed
+V00586,Suzuki,Dzire,2017,9,Economy,4,Petrol,Silver,NZ80 XG EC,2026-07-06,Passed
+V00587,Kia,Rio,2017,9,Standard,5,Petrol,Red,TS24 WM WC,2026-03-03,Pending
+V00588,Suzuki,Ertiga,2013,13,Standard,5,Petrol,Red,RA83 VD EC,2026-10-13,Passed
+V00589,Toyota,Starlet,2024,2,Economy,4,Petrol,White,NN51 NY WC,2027-02-01,Passed
+V00590,Volkswagen,Caddy,2019,7,Standard,5,Petrol,Silver,MA15 HR GP,2025-07-15,Pending
+V00591,Kia,Picanto,2025,1,Economy,4,Petrol,White,NL48 DW EC,2027-01-13,Passed
+V00592,Volkswagen,Polo Vivo,2014,12,Economy,4,Electric,White,LP59 JR GP,2027-02-05,Passed
+V00593,Toyota,Starlet,2022,4,Standard,5,Petrol,Silver,VS17 PH EC,2027-05-08,Passed
+V00594,Mercedes-Benz,C180,2021,5,Standard,5,Petrol,Red,FW39 JL EC,2027-05-01,Passed
+V00595,Hyundai,Accent,2015,11,Standard,5,Diesel,Grey,DW51 WC NW,2027-05-05,Passed
+V00596,Toyota,Corolla Quest,2021,5,Standard,5,Petrol,Silver,LR41 TJ WC,2026-07-13,Passed
+V00597,Renault,Triber,2022,4,Economy,4,Petrol,Red,BB86 XX ZN,2025-08-27,Passed
+V00598,Suzuki,S-Presso,2023,3,Standard,5,Petrol,Silver,NK18 TC ZN,2025-08-08,Passed
+V00599,Toyota,Corolla Cross,2021,5,Economy,4,Diesel,White,FP62 YR ZN,2027-05-25,Passed
+V00600,Mercedes-Benz,C180,2020,6,Comfort,5,Hybrid,Silver,DS72 AD GP,2025-11-21,Passed
+V00601,Kia,Sonet,2022,4,Standard,5,Petrol,White,GS20 VK GP,2026-06-12,Pending
+V00602,Hyundai,Grand i10,2024,2,Standard,5,Petrol,Blue,JX39 PP GP,2025-07-11,Passed
+V00603,Toyota,Corolla Quest,2023,3,Standard,5,Petrol,White,EM69 LV ZN,2026-10-22,Passed
+V00604,Volkswagen,Golf,2013,13,Standard,5,Petrol,White,RF68 MD GP,2027-06-07,Passed
+V00605,Toyota,Corolla Cross,2017,9,Standard,5,Petrol,Grey,NA85 HT WC,2026-03-22,Passed
+V00606,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,White,PY10 SR ZN,2027-03-25,Passed
+V00607,Toyota,Corolla Quest,2014,12,Economy,4,Diesel,Grey,HA87 ED GP,2026-05-10,Passed
+V00608,Volkswagen,Polo,2017,9,Standard,5,Petrol,Red,LA13 AG ZN,2027-04-26,Passed
+V00609,Suzuki,Ertiga,2015,11,Standard,5,Petrol,Grey,SE21 XN WC,2025-07-28,Passed
+V00610,Mercedes-Benz,C180,2020,6,Economy,4,Hybrid,Silver,NL83 HH WC,2026-01-12,Failed
+V00611,Hyundai,Grand i10,2023,3,Economy,4,Petrol,Silver,RB72 SW GP,2027-04-04,Pending
+V00612,Toyota,Avanza,2019,7,XL,6,Petrol,Black,KD48 WV ZN,2026-01-30,Passed
+V00613,Hyundai,Accent,2019,7,Standard,5,Petrol,White,YT67 XF GP,2025-12-11,Passed
+V00614,Renault,Triber,2019,7,XL,6,Petrol,White,SA72 TC GP,2026-01-01,Passed
+V00615,Toyota,Starlet,2016,10,Standard,5,Hybrid,Black,HV51 YB GP,2025-11-24,Passed
+V00616,Volkswagen,Polo Vivo,2019,7,XL,6,Diesel,White,GG83 PA GP,2026-12-31,Passed
+V00617,Suzuki,Ertiga,2017,9,Standard,5,Petrol,Blue,DP33 DH EC,2026-07-25,Passed
+V00618,Toyota,Starlet,2015,11,Standard,5,Petrol,White,EM78 ND GP,2026-09-04,Passed
+V00619,Honda,Amaze,2025,1,Standard,5,Petrol,White,TT83 BZ WC,2026-04-09,Passed
+V00620,Toyota,Corolla Quest,2018,8,Standard,5,Petrol,Grey,RX40 EX GP,2025-12-29,Passed
+V00621,Renault,Kwid,2019,7,XL,6,Petrol,Grey,YJ88 GG GP,2026-07-14,Pending
+V00622,BMW,320i,2019,7,Comfort,5,Petrol,White,CC60 ZA EC,2025-09-20,Passed
+V00623,Volkswagen,Golf,2019,7,XL,6,Hybrid,White,DS80 WF GP,2026-06-14,Passed
+V00624,Suzuki,Dzire,2025,1,Standard,5,Petrol,Blue,DH46 FR ZN,2027-04-02,Passed
+V00625,Toyota,Corolla Cross,2020,6,Standard,5,Petrol,Grey,RA50 XN GP,2025-08-05,Passed
+V00626,Volkswagen,Golf,2019,7,Economy,4,Petrol,White,LR54 SD GP,2025-10-28,Passed
+V00627,Toyota,Starlet,2017,9,Standard,5,Diesel,Black,HZ72 XB GP,2027-05-02,Passed
+V00628,Toyota,Avanza,2025,1,Standard,5,Diesel,White,SH18 PB GP,2026-03-23,Passed
+V00629,Toyota,Etios,2018,8,Standard,5,Petrol,Blue,JC79 TV GP,2027-04-17,Passed
+V00630,Toyota,Corolla Cross,2019,7,Standard,5,Petrol,Black,ET70 MP GP,2026-05-03,Pending
+V00631,Volkswagen,Polo,2023,3,Comfort,5,Petrol,Black,KL30 ZZ GP,2025-08-15,Passed
+V00632,Volkswagen,Polo Vivo,2019,7,Standard,5,Diesel,Silver,GG70 BR WC,2025-08-14,Passed
+V00633,Volkswagen,Caddy,2018,8,Standard,5,Diesel,Grey,RZ31 SC WC,2026-10-29,Pending
+V00634,BMW,118i,2023,3,Comfort,5,Petrol,Grey,TE55 GK GP,2025-09-30,Passed
+V00635,Hyundai,Grand i10,2025,1,Standard,5,Petrol,White,PR52 VC ZN,2027-05-25,Passed
+V00636,Suzuki,Dzire,2020,6,Standard,5,Petrol,White,TP58 VJ WC,2026-04-11,Passed
+V00637,Toyota,Etios,2021,5,Standard,5,Hybrid,Grey,RW39 EV WC,2027-03-08,Pending
+V00638,Toyota,Starlet,2020,6,Economy,4,Petrol,Grey,DG97 AY GP,2026-12-20,Passed
+V00639,Suzuki,Dzire,2024,2,Standard,5,Petrol,White,VV96 RJ GP,2025-08-14,Passed
+V00640,Suzuki,Dzire,2019,7,XL,6,Petrol,White,RL15 RN WC,2026-04-20,Passed
+V00641,Hyundai,i20,2019,7,Standard,5,Petrol,Silver,GX88 PB EC,2027-06-05,Passed
+V00642,Volkswagen,Polo Vivo,2021,5,XL,6,Diesel,Blue,JX43 PM GP,2026-09-13,Passed
+V00643,Nissan,NP200,2015,11,Standard,5,Petrol,Grey,NX70 PJ GP,2026-06-17,Passed
+V00644,BMW,X1,2021,5,Standard,5,Hybrid,White,WH51 TG GP,2025-11-17,Passed
+V00645,Mercedes-Benz,C180,2025,1,Comfort,5,Petrol,White,HH79 JF ZN,2026-03-29,Passed
+V00646,Toyota,Corolla Quest,2013,13,Standard,5,Petrol,White,RZ90 TX ZN,2027-02-21,Passed
+V00647,Toyota,Etios,2019,7,XL,6,Petrol,Red,SN87 SM ZN,2025-10-14,Pending
+V00648,Nissan,NP200,2013,13,Standard,5,Petrol,Black,WW60 KE GP,2026-11-15,Passed
+V00649,Toyota,Corolla Cross,2025,1,Standard,5,Diesel,Grey,LX42 LZ GP,2026-07-11,Passed
+V00650,Toyota,Starlet,2013,13,Economy,4,Petrol,White,NK51 CZ WC,2026-04-06,Passed
+V00651,Hyundai,Venue,2023,3,Standard,5,Petrol,White,HH85 DE NW,2026-11-14,Passed
+V00652,Hyundai,i20,2013,13,Economy,4,Petrol,White,XM53 CS WC,2025-11-05,Passed
+V00653,Nissan,Almera,2017,9,Economy,4,Hybrid,White,VF69 ER WC,2025-11-03,Passed
+V00654,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,Blue,XV21 HZ GP,2025-08-03,Passed
+V00655,Hyundai,Accent,2017,9,Standard,5,Petrol,Red,PC99 YJ GP,2026-09-13,Passed
+V00656,Renault,Triber,2022,4,Standard,5,Diesel,White,CH78 WN GP,2026-03-02,Passed
+V00657,Toyota,Corolla Cross,2020,6,Standard,5,Petrol,Blue,AN13 BY WC,2025-10-04,Pending
+V00658,Kia,Rio,2018,8,Standard,5,Diesel,White,KW18 GM GP,2027-03-13,Passed
+V00659,Suzuki,Ertiga,2019,7,Standard,5,Diesel,Blue,XZ90 HZ GP,2026-07-29,Passed
+V00660,Kia,Picanto,2025,1,Standard,5,Petrol,Silver,FR33 XC ZN,2025-11-30,Passed
+V00661,Kia,Sonet,2022,4,Standard,5,Diesel,Grey,RK52 DS GP,2026-08-09,Passed
+V00662,Mercedes-Benz,C180,2019,7,Comfort,5,Diesel,Black,TR57 VP GP,2026-04-01,Passed
+V00663,Hyundai,Venue,2019,7,Standard,5,Petrol,White,VE18 YJ GP,2026-06-17,Passed
+V00664,Hyundai,i20,2019,7,Economy,4,Petrol,White,XH20 HC ZN,2027-01-02,Passed
+V00665,Toyota,Etios,2024,2,Economy,4,Petrol,Blue,VN17 HH GP,2027-04-03,Pending
+V00666,Toyota,Etios,2017,9,Standard,5,Petrol,White,GE83 VA GP,2026-05-12,Passed
+V00667,Toyota,Etios,2018,8,Standard,5,Petrol,Red,RC29 VP GP,2027-05-08,Passed
+V00668,Mercedes-Benz,C180,2022,4,Comfort,5,Petrol,White,EV25 KB GP,2025-08-23,Passed
+V00669,Renault,Triber,2024,2,Economy,4,Diesel,White,BD68 MZ EC,2027-04-27,Passed
+V00670,BMW,320i,2024,2,Comfort,5,Petrol,White,KE38 HY EC,2025-09-28,Passed
+V00671,BMW,118i,2020,6,Economy,4,Petrol,White,HC89 FB GP,2027-04-18,Pending
+V00672,Volkswagen,Polo Vivo,2013,13,Standard,5,Petrol,Grey,HN49 DP EC,2027-04-05,Passed
+V00673,Hyundai,Grand i10,2015,11,Standard,5,Petrol,Red,DA37 JJ GP,2025-07-09,Passed
+V00674,Hyundai,Accent,2023,3,Economy,4,Petrol,White,XD84 GW WC,2027-05-09,Passed
+V00675,Honda,Ballade,2025,1,Economy,4,Petrol,Black,EF49 FT WC,2027-02-04,Passed
+V00676,Mercedes-Benz,C180,2023,3,Comfort,5,Petrol,White,VS69 AW GP,2027-01-22,Passed
+V00677,Hyundai,i20,2017,9,Standard,5,Petrol,Black,ZT68 GV ZN,2027-06-02,Passed
+V00678,Hyundai,Accent,2014,12,Economy,4,Petrol,Blue,SY90 SY EC,2025-10-20,Passed
+V00679,Volkswagen,Polo,2020,6,Comfort,5,Petrol,Silver,RA13 VV EC,2026-12-24,Passed
+V00680,Suzuki,S-Presso,2020,6,XL,6,Petrol,Grey,LH15 WA GP,2026-12-20,Passed
+V00681,Volkswagen,Golf,2019,7,XL,6,Petrol,Blue,NK23 DP GP,2026-08-24,Passed
+V00682,Toyota,Corolla Quest,2021,5,Standard,5,Petrol,Blue,DW66 WD WC,2026-01-11,Passed
+V00683,Toyota,Corolla Cross,2025,1,Economy,4,Petrol,Silver,HE86 XR WC,2026-09-13,Passed
+V00684,Toyota,Corolla Quest,2016,10,Economy,4,Petrol,Black,HZ12 YH GP,2025-11-08,Passed
+V00685,BMW,118i,2019,7,Comfort,5,Petrol,Blue,ZV86 BW GP,2026-12-26,Passed
+V00686,Toyota,Avanza,2016,10,Standard,5,Petrol,White,VB27 WJ GP,2026-05-13,Passed
+V00687,Suzuki,Ertiga,2019,7,Comfort,5,Petrol,Silver,MB19 DM ZN,2027-03-04,Passed
+V00688,Toyota,Corolla Quest,2023,3,Economy,4,Hybrid,Grey,GB62 ZW EC,2025-11-16,Passed
+V00689,Hyundai,Venue,2016,10,Economy,4,Petrol,Blue,WD66 GC GP,2025-08-03,Passed
+V00690,BMW,118i,2019,7,Standard,5,Petrol,Blue,LJ48 RM WC,2027-06-16,Passed
+V00691,Hyundai,Grand i10,2025,1,Standard,5,Petrol,Silver,ZE39 TF GP,2025-08-15,Passed
+V00692,Volkswagen,Polo,2014,12,Standard,5,Diesel,Silver,YR48 WL GP,2027-02-21,Passed
+V00693,Toyota,Corolla Quest,2016,10,Economy,4,Petrol,White,TG74 GA WC,2025-07-11,Passed
+V00694,BMW,118i,2024,2,Economy,4,Petrol,White,VH71 WP EC,2026-06-03,Passed
+V00695,Volkswagen,Polo,2023,3,Economy,4,Petrol,Grey,NR18 BH ZN,2026-12-15,Passed
+V00696,Volkswagen,Golf,2021,5,Standard,5,Petrol,Blue,XT77 XM GP,2025-11-29,Passed
+V00697,Kia,Picanto,2019,7,Comfort,5,Diesel,Silver,EN34 TA GP,2026-03-22,Passed
+V00698,Renault,Kwid,2019,7,XL,6,Petrol,Red,DX63 JH ZN,2027-06-09,Passed
+V00699,Hyundai,Venue,2023,3,Economy,4,Petrol,Red,EB10 WA GP,2025-11-21,Passed
+V00700,Suzuki,Dzire,2021,5,Standard,5,Petrol,Grey,TG86 DN GP,2027-05-10,Passed
+V00701,Toyota,Starlet,2019,7,XL,6,Electric,Grey,ZH37 LZ NW,2026-01-14,Passed
+V00702,Renault,Kwid,2019,7,XL,6,Petrol,White,FK29 LB GP,2025-12-19,Passed
+V00703,Renault,Triber,2018,8,Standard,5,Petrol,Silver,ZG43 DN GP,2026-11-01,Pending
+V00704,Kia,Rio,2014,12,Economy,4,Petrol,Silver,ZY14 FY NW,2026-04-11,Passed
+V00705,Hyundai,Grand i10,2018,8,Standard,5,Petrol,Red,TX54 CR WC,2026-12-06,Passed
+V00706,Toyota,Avanza,2018,8,Economy,4,Petrol,Grey,BH15 SV GP,2027-01-16,Passed
+V00707,Toyota,Corolla Quest,2016,10,Standard,5,Petrol,Blue,FF34 RA GP,2027-05-06,Passed
+V00708,BMW,320i,2022,4,Comfort,5,Petrol,White,ZZ36 AE GP,2027-02-11,Passed
+V00709,Volkswagen,Golf,2019,7,XL,6,Petrol,White,FJ46 JH EC,2025-09-19,Pending
+V00710,Toyota,Starlet,2021,5,Economy,4,Petrol,White,CP80 BS EC,2027-02-25,Passed
+V00711,Renault,Kwid,2019,7,Standard,5,Petrol,Silver,AF93 WW GP,2025-06-15,Pending
+V00712,Volkswagen,Polo Vivo,2020,6,XL,6,Petrol,Silver,FY92 JH GP,2025-06-16,Passed
+V00713,Nissan,NP200,2023,3,Standard,5,Petrol,White,YW88 LF EC,2026-11-14,Passed
+V00714,Kia,Rio,2013,13,Economy,4,Petrol,White,ZH71 AJ GP,2026-02-04,Passed
+V00715,Volkswagen,Caddy,2023,3,XL,6,Petrol,Black,AB88 VE GP,2026-02-16,Passed
+V00716,Suzuki,S-Presso,2017,9,Standard,5,Hybrid,White,KG11 ZL WC,2025-11-07,Passed
+V00717,Suzuki,Ertiga,2023,3,Standard,5,Petrol,Black,LS96 JP ZN,2027-04-16,Passed
+V00718,Volkswagen,Caddy,2014,12,Economy,4,Petrol,Black,CF94 DP ZN,2026-12-06,Passed
+V00719,Nissan,Magnite,2019,7,Comfort,5,Petrol,White,TD90 JJ ZN,2025-12-18,Passed
+V00720,Toyota,Corolla Quest,2020,6,Comfort,5,Petrol,White,NJ93 JX GP,2027-04-08,Passed
+V00721,Toyota,Avanza,2025,1,Standard,5,Petrol,Black,FS66 BY GP,2026-03-15,Passed
+V00722,Volkswagen,Polo,2025,1,Standard,5,Petrol,White,NL15 AR WC,2027-02-08,Failed
+V00723,Hyundai,Grand i10,2019,7,Economy,4,Diesel,White,AB25 CY WC,2027-01-30,Passed
+V00724,Hyundai,Grand i10,2018,8,Standard,5,Hybrid,White,BX35 TY GP,2025-09-03,Passed
+V00725,Toyota,Avanza,2019,7,XL,6,Petrol,Silver,HA22 CA GP,2025-06-30,Passed
+V00726,BMW,118i,2019,7,Comfort,5,Diesel,Blue,GM61 TA GP,2026-04-26,Passed
+V00727,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,Black,VS37 RW GP,2025-07-17,Passed
+V00728,Suzuki,S-Presso,2019,7,Economy,4,Petrol,White,AM22 NY ZN,2026-09-20,Passed
+V00729,Suzuki,Ertiga,2022,4,Standard,5,Petrol,White,NX38 PJ GP,2025-12-18,Passed
+V00730,Toyota,Corolla Quest,2016,10,Standard,5,Petrol,White,MH70 YR GP,2026-08-05,Passed
+V00731,Volkswagen,Polo Vivo,2013,13,Standard,5,Petrol,Red,VJ85 WW ZN,2025-10-14,Passed
+V00732,Suzuki,S-Presso,2015,11,Economy,4,Diesel,Blue,WX43 VG WC,2027-05-02,Passed
+V00733,Suzuki,S-Presso,2024,2,Standard,5,Petrol,Silver,AD31 GB GP,2025-08-05,Passed
+V00734,Suzuki,S-Presso,2023,3,XL,6,Petrol,Grey,BC10 NF WC,2025-10-28,Pending
+V00735,Kia,Sonet,2025,1,Standard,5,Petrol,Blue,AS26 RH GP,2026-09-20,Passed
+V00736,Kia,Picanto,2023,3,Economy,4,Petrol,White,BH47 ZA GP,2027-04-04,Passed
+V00737,Toyota,Starlet,2017,9,Standard,5,Petrol,White,SB30 NA WC,2026-02-06,Passed
+V00738,Kia,Sonet,2022,4,Standard,5,Petrol,Grey,VV87 EJ WC,2026-03-30,Passed
+V00739,Renault,Kwid,2019,7,Comfort,5,Diesel,Grey,ME36 YY GP,2026-03-25,Passed
+V00740,Toyota,Corolla Cross,2015,11,Standard,5,Petrol,White,LK59 VG GP,2026-09-15,Passed
+V00741,Kia,Picanto,2015,11,Standard,5,Petrol,White,BV41 WN GP,2025-12-21,Passed
+V00742,Honda,Ballade,2015,11,Standard,5,Petrol,White,XE73 WT GP,2027-01-05,Passed
+V00743,Volkswagen,Polo,2019,7,Comfort,5,Petrol,Grey,GZ39 YD GP,2026-03-10,Passed
+V00744,Suzuki,S-Presso,2025,1,Standard,5,Petrol,Black,AK50 FW EC,2026-05-11,Passed
+V00745,Volkswagen,Caddy,2013,13,Standard,5,Petrol,White,BG95 PY WC,2026-02-24,Passed
+V00746,Toyota,Corolla Quest,2019,7,Comfort,5,Petrol,Red,TN29 RX GP,2026-09-24,Passed
+V00747,Toyota,Corolla Cross,2023,3,Standard,5,Petrol,Red,MR89 VX WC,2025-07-14,Pending
+V00748,Hyundai,Grand i10,2023,3,Standard,5,Diesel,Silver,GY31 KR GP,2026-02-26,Passed
+V00749,Toyota,Corolla Quest,2017,9,Economy,4,Petrol,Black,ZG33 ER EC,2027-01-26,Passed
+V00750,Renault,Kwid,2019,7,Comfort,5,Hybrid,Silver,GA18 SC GP,2026-06-29,Passed
+V00751,Renault,Triber,2019,7,Comfort,5,Petrol,White,DR36 KJ WC,2025-10-10,Passed
+V00752,Toyota,Corolla Cross,2025,1,Economy,4,Petrol,Blue,TM70 VT WC,2026-12-10,Passed
+V00753,Suzuki,Ertiga,2018,8,Standard,5,Petrol,Black,FL50 HV GP,2026-04-12,Passed
+V00754,Volkswagen,Caddy,2014,12,Standard,5,Petrol,White,VC98 RP EC,2027-03-25,Passed
+V00755,BMW,320i,2024,2,Economy,4,Petrol,Silver,BB56 GN GP,2026-11-29,Passed
+V00756,Volkswagen,Caddy,2019,7,Comfort,5,Petrol,Grey,EW66 MN GP,2026-09-29,Pending
+V00757,Toyota,Corolla Quest,2020,6,Standard,5,Petrol,Grey,YE41 EZ GP,2025-11-02,Passed
+V00758,Toyota,Corolla Cross,2022,4,XL,6,Petrol,Black,GA14 LH WC,2026-05-18,Passed
+V00759,Suzuki,Swift,2015,11,Standard,5,Petrol,White,PW58 LJ GP,2027-05-26,Passed
+V00760,Renault,Triber,2020,6,Economy,4,Petrol,White,LD48 TH GP,2026-05-11,Passed
+V00761,Toyota,Starlet,2013,13,Standard,5,Diesel,Black,SJ49 TB WC,2025-09-02,Passed
+V00762,Renault,Triber,2021,5,Comfort,5,Petrol,White,AA80 AM ZN,2026-03-27,Passed
+V00763,Toyota,Starlet,2016,10,Standard,5,Diesel,Blue,YZ12 RF GP,2026-08-01,Passed
+V00764,Mercedes-Benz,A200,2020,6,Standard,5,Petrol,Grey,EA64 WW WC,2027-06-04,Passed
+V00765,Toyota,Corolla Quest,2015,11,Economy,4,Hybrid,Black,ZM67 VK WC,2025-09-11,Passed
+V00766,Toyota,Starlet,2016,10,Standard,5,Petrol,Black,WL82 AK GP,2026-02-12,Passed
+V00767,Volkswagen,Caddy,2022,4,Economy,4,Petrol,Grey,AR92 HC ZN,2027-02-02,Passed
+V00768,Volkswagen,Golf,2013,13,Standard,5,Petrol,Grey,TJ33 NJ GP,2026-12-01,Passed
+V00769,Toyota,Corolla Quest,2023,3,Comfort,5,Petrol,White,NA64 XY WC,2025-12-06,Passed
+V00770,BMW,320i,2017,9,Standard,5,Diesel,Grey,WP88 RB WC,2025-06-26,Passed
+V00771,Hyundai,i20,2015,11,Standard,5,Petrol,White,BN73 BA GP,2027-06-02,Passed
+V00772,Hyundai,Venue,2025,1,Comfort,5,Petrol,Blue,YB57 PS EC,2026-12-11,Passed
+V00773,Hyundai,i20,2024,2,Standard,5,Diesel,Silver,TC35 SA ZN,2025-10-13,Passed
+V00774,BMW,320i,2025,1,Comfort,5,Petrol,White,CS53 KW NW,2026-11-01,Passed
+V00775,Volkswagen,Polo Vivo,2014,12,Standard,5,Petrol,Black,RA84 AB GP,2026-03-25,Pending
+V00776,Toyota,Avanza,2019,7,Comfort,5,Petrol,White,DF77 RR GP,2026-04-15,Passed
+V00777,Toyota,Avanza,2015,11,Standard,5,Hybrid,Black,EN23 GF WC,2027-03-03,Passed
+V00778,Toyota,Etios,2022,4,Standard,5,Hybrid,White,JB34 MM ZN,2026-04-14,Passed
+V00779,Volkswagen,Polo,2022,4,Economy,4,Petrol,White,KG55 HP GP,2026-03-19,Passed
+V00780,Toyota,Corolla Quest,2019,7,Comfort,5,Diesel,White,RP80 RK WC,2025-12-03,Passed
+V00781,Toyota,Corolla Quest,2021,5,Economy,4,Petrol,Silver,SV48 DD WC,2026-06-29,Passed
+V00782,Suzuki,S-Presso,2020,6,Economy,4,Petrol,Silver,JE59 JN GP,2026-02-27,Passed
+V00783,Toyota,Corolla Cross,2024,2,Economy,4,Petrol,Black,NB97 AT GP,2025-06-19,Passed
+V00784,Toyota,Starlet,2025,1,Standard,5,Diesel,White,AL43 CV WC,2027-04-16,Passed
+V00785,Volkswagen,Golf,2023,3,Standard,5,Petrol,Grey,CG88 BS GP,2026-02-08,Passed
+V00786,Toyota,Etios,2014,12,Standard,5,Petrol,White,DK99 NF GP,2026-08-01,Passed
+V00787,BMW,118i,2020,6,Comfort,5,Petrol,Black,XA56 HP GP,2026-12-28,Failed
+V00788,Volkswagen,Polo,2025,1,Comfort,5,Petrol,Blue,TM28 BL GP,2025-09-23,Passed
+V00789,Suzuki,Swift,2015,11,Standard,5,Petrol,White,ME77 YG ZN,2026-06-19,Pending
+V00790,BMW,118i,2021,5,Comfort,5,Diesel,Silver,SV53 YA GP,2026-12-19,Pending
+V00791,Toyota,Avanza,2019,7,XL,6,Petrol,Red,AH15 GN GP,2025-09-03,Passed
+V00792,Volkswagen,Polo,2015,11,Economy,4,Petrol,Red,EY62 LB GP,2026-06-06,Passed
+V00793,Volkswagen,Caddy,2016,10,Economy,4,Petrol,White,WG17 JW ZN,2027-02-17,Passed
+V00794,Kia,Sonet,2015,11,Economy,4,Petrol,Black,KK23 KY NW,2026-08-25,Passed
+V00795,Hyundai,i20,2022,4,Standard,5,Petrol,White,BJ46 GT GP,2027-02-14,Passed
+V00796,Toyota,Avanza,2017,9,Standard,5,Diesel,Silver,RV65 ZA WC,2026-11-14,Passed
+V00797,Toyota,Etios,2018,8,Standard,5,Petrol,Silver,ZM23 CA EC,2025-11-09,Failed
+V00798,BMW,X1,2022,4,Comfort,5,Petrol,White,ZE72 ZP GP,2027-03-26,Passed
+V00799,Kia,Picanto,2013,13,Standard,5,Diesel,White,GM94 FF WC,2025-06-27,Passed
+V00800,Suzuki,Dzire,2017,9,Standard,5,Petrol,Silver,TT78 JD GP,2026-12-24,Passed
+V00801,Kia,Rio,2016,10,Standard,5,Diesel,White,TB19 DD GP,2026-02-09,Passed
+V00802,Toyota,Avanza,2021,5,Standard,5,Petrol,White,CN10 EN GP,2027-04-02,Passed
+V00803,Toyota,Avanza,2018,8,Economy,4,Petrol,Black,NV92 XR WC,2026-06-30,Passed
+V00804,Hyundai,Grand i10,2020,6,Standard,5,Petrol,Red,FF33 TT GP,2027-02-18,Passed
+V00805,Honda,Ballade,2015,11,Standard,5,Petrol,Black,ZE46 CK GP,2027-01-23,Passed
+V00806,Suzuki,S-Presso,2014,12,Standard,5,Petrol,Black,MY97 WE GP,2026-09-04,Pending
+V00807,Suzuki,Swift,2013,13,Economy,4,Petrol,Silver,TB43 AC ZN,2026-06-10,Pending
+V00808,BMW,320i,2020,6,Comfort,5,Petrol,White,VG83 DA WC,2025-08-22,Passed
+V00809,Hyundai,Accent,2016,10,Standard,5,Diesel,White,PX90 YE GP,2026-03-03,Passed
+V00810,Toyota,Starlet,2023,3,Standard,5,Diesel,Silver,CB98 TK ZN,2025-06-20,Passed
+V00811,Nissan,NP200,2021,5,Standard,5,Petrol,Silver,ZK33 MG WC,2026-06-24,Passed
+V00812,Nissan,NP200,2013,13,Standard,5,Diesel,Black,PN31 SX GP,2027-06-21,Passed
+V00813,Nissan,Magnite,2023,3,Standard,5,Petrol,Grey,KD51 VA GP,2025-11-28,Passed
+V00814,Hyundai,Accent,2018,8,Economy,4,Petrol,Grey,PR24 WK GP,2026-12-22,Passed
+V00815,Volkswagen,Golf,2021,5,Comfort,5,Petrol,Grey,PP11 AF GP,2027-02-16,Passed
+V00816,Volkswagen,Polo,2025,1,XL,6,Petrol,Silver,HJ44 NW WC,2025-11-09,Passed
+V00817,Mercedes-Benz,A200,2016,10,Standard,5,Petrol,White,XM56 BJ GP,2027-06-23,Passed
+V00818,Volkswagen,Golf,2014,12,Standard,5,Petrol,Blue,NY11 TB GP,2026-12-24,Passed
+V00819,Nissan,NP200,2020,6,XL,6,Petrol,White,CV90 ZP GP,2025-08-24,Pending
+V00820,Nissan,Magnite,2014,12,Standard,5,Petrol,Grey,LJ27 HV WC,2026-02-07,Passed
+V00821,Kia,Picanto,2021,5,Standard,5,Petrol,Grey,XT30 ZH GP,2025-08-26,Passed
+V00822,Volkswagen,Polo,2025,1,Comfort,5,Petrol,White,MH80 PH ZN,2025-07-13,Pending
+V00823,BMW,320i,2025,1,Comfort,5,Hybrid,Grey,DV75 AZ WC,2026-05-31,Passed
+V00824,Volkswagen,Polo,2017,9,Standard,5,Petrol,White,WN26 EM ZN,2026-01-04,Passed
+V00825,Toyota,Starlet,2018,8,Standard,5,Diesel,White,PN76 DR ZN,2027-02-27,Passed
+V00826,Volkswagen,Golf,2024,2,Economy,4,Petrol,White,KS14 ZV ZN,2025-12-13,Passed
+V00827,Hyundai,i20,2014,12,Economy,4,Diesel,Grey,HA19 VS NW,2025-11-08,Passed
+V00828,Hyundai,i20,2021,5,Economy,4,Diesel,White,YH16 HD GP,2026-03-23,Passed
+V00829,Suzuki,Swift,2019,7,Comfort,5,Petrol,White,LG51 ND WC,2025-11-20,Passed
+V00830,Toyota,Corolla Quest,2019,7,Standard,5,Petrol,Silver,KJ54 AJ GP,2025-11-04,Passed
+V00831,Toyota,Etios,2024,2,Standard,5,Petrol,Black,HL47 CS GP,2025-10-27,Pending
+V00832,Toyota,Starlet,2020,6,Standard,5,Electric,White,TL81 CY NW,2026-08-04,Passed
+V00833,BMW,X1,2022,4,Comfort,5,Petrol,White,JF59 EL GP,2026-05-12,Pending
+V00834,Honda,Amaze,2024,2,Standard,5,Petrol,Red,MV30 WX GP,2026-10-06,Passed
+V00835,Volkswagen,Caddy,2019,7,Comfort,5,Petrol,Silver,CA56 XP WC,2025-08-13,Passed
+V00836,Volkswagen,Golf,2013,13,Economy,4,Petrol,Blue,AM86 WH GP,2026-05-07,Passed
+V00837,BMW,320i,2019,7,Comfort,5,Diesel,White,SW40 EP GP,2026-06-24,Failed
+V00838,Nissan,Almera,2020,6,Standard,5,Petrol,Silver,VC31 PP GP,2026-10-13,Passed
+V00839,Kia,Rio,2023,3,Comfort,5,Diesel,Black,AV33 CG GP,2026-10-15,Passed
+V00840,Volkswagen,Polo,2013,13,Standard,5,Petrol,White,ZE14 SS GP,2026-05-22,Passed
+V00841,Mercedes-Benz,C180,2019,7,Comfort,5,Petrol,Silver,HT89 WY GP,2026-10-24,Passed
+V00842,Toyota,Etios,2020,6,XL,6,Petrol,White,FL44 CP ZN,2026-10-28,Passed
+V00843,Toyota,Etios,2016,10,Standard,5,Petrol,Red,CY52 BZ GP,2027-06-20,Passed
+V00844,Toyota,Starlet,2016,10,Economy,4,Petrol,White,HA99 JH GP,2026-05-04,Passed
+V00845,Hyundai,i20,2016,10,Standard,5,Petrol,Silver,CS27 DW EC,2026-06-22,Passed
+V00846,Hyundai,Grand i10,2019,7,Comfort,5,Petrol,Silver,BY31 TM GP,2027-05-26,Passed
+V00847,Mercedes-Benz,C180,2022,4,Economy,4,Petrol,White,DP74 YD ZN,2025-09-03,Passed
+V00848,Volkswagen,Polo,2016,10,Standard,5,Petrol,Black,XG59 ZF ZN,2026-12-02,Passed
+V00849,Hyundai,Accent,2021,5,Economy,4,Petrol,White,JW86 HY GP,2026-08-25,Passed
+V00850,Toyota,Corolla Cross,2019,7,XL,6,Petrol,Silver,AX35 XJ GP,2027-02-13,Passed
+V00851,Hyundai,Venue,2025,1,Standard,5,Petrol,Silver,PA75 CB NW,2026-04-03,Passed
+V00852,Toyota,Corolla Quest,2019,7,Standard,5,Petrol,White,TW71 CB GP,2025-12-12,Passed
+V00853,Renault,Kwid,2020,6,XL,6,Diesel,White,TA30 PK GP,2026-12-19,Passed
+V00854,Suzuki,S-Presso,2014,12,Standard,5,Petrol,Grey,MX50 FW WC,2027-03-13,Passed
+V00855,Renault,Triber,2016,10,Standard,5,Petrol,Grey,VE27 VV WC,2025-10-29,Passed
+V00856,BMW,X1,2019,7,Comfort,5,Petrol,Grey,WG49 MD GP,2026-01-14,Passed
+V00857,BMW,320i,2020,6,Standard,5,Petrol,Grey,DE47 WM WC,2026-08-29,Passed
+V00858,Toyota,Corolla Cross,2013,13,Standard,5,Petrol,Grey,NA92 YS ZN,2026-11-05,Passed
+V00859,Suzuki,S-Presso,2022,4,Standard,5,Petrol,White,LK18 AF ZN,2025-09-27,Passed
+V00860,Honda,Ballade,2019,7,Comfort,5,Petrol,Black,BF50 CA GP,2025-12-10,Pending
+V00861,Hyundai,Accent,2014,12,Standard,5,Electric,White,JW50 DD GP,2026-12-23,Pending
+V00862,Kia,Sonet,2025,1,Standard,5,Petrol,Grey,LX87 AE GP,2026-06-03,Passed
+V00863,Toyota,Starlet,2022,4,Standard,5,Petrol,Blue,XV52 HZ GP,2026-02-19,Passed
+V00864,Mercedes-Benz,C180,2025,1,Economy,4,Petrol,White,TA70 HF GP,2025-11-16,Passed
+V00865,Volkswagen,Polo Vivo,2024,2,Standard,5,Petrol,White,SZ45 GA WC,2027-06-03,Passed
+V00866,BMW,X1,2020,6,Standard,5,Petrol,White,EX84 TT GP,2026-02-15,Passed
+V00867,Toyota,Corolla Cross,2013,13,Economy,4,Petrol,White,EJ81 RW GP,2026-07-16,Passed
+V00868,Volkswagen,Polo Vivo,2016,10,Standard,5,Petrol,Grey,GK52 GX EC,2026-02-14,Passed
+V00869,Suzuki,Dzire,2024,2,XL,6,Electric,Grey,WW66 KK ZN,2027-04-13,Passed
+V00870,Toyota,Corolla Cross,2019,7,Comfort,5,Petrol,Silver,RE93 VB GP,2025-08-02,Passed
+V00871,Toyota,Etios,2017,9,Economy,4,Petrol,Black,LP59 RM WC,2026-02-16,Passed
+V00872,Volkswagen,Polo,2021,5,Economy,4,Petrol,Black,LH39 HP ZN,2026-02-23,Failed
+V00873,Toyota,Etios,2023,3,Standard,5,Petrol,White,EV43 CV GP,2026-04-18,Passed
+V00874,BMW,X1,2025,1,Comfort,5,Petrol,White,FS28 YN GP,2026-08-30,Passed
+V00875,Toyota,Corolla Quest,2022,4,Economy,4,Petrol,Blue,FY89 BK GP,2025-09-03,Passed
+V00876,Volkswagen,Polo,2014,12,Economy,4,Diesel,Silver,SH47 CC GP,2027-03-30,Pending
+V00877,Kia,Picanto,2019,7,Comfort,5,Petrol,White,HP59 CV GP,2026-08-19,Passed
+V00878,Volkswagen,Polo Vivo,2019,7,Standard,5,Petrol,Silver,FF56 LP WC,2027-05-22,Passed
+V00879,Volkswagen,Polo Vivo,2025,1,Standard,5,Petrol,White,RX70 ME WC,2026-07-07,Pending
+V00880,Nissan,Almera,2017,9,Economy,4,Diesel,White,ZP83 MS GP,2026-09-13,Passed
+V00881,Toyota,Corolla Quest,2020,6,Standard,5,Petrol,White,WG70 CD WC,2026-01-22,Failed
+V00882,Suzuki,S-Presso,2018,8,Economy,4,Petrol,White,VB45 SV GP,2026-02-26,Failed
+V00883,BMW,X1,2019,7,Comfort,5,Hybrid,Grey,XT57 SB GP,2026-07-23,Passed
+V00884,Nissan,Almera,2017,9,Economy,4,Petrol,Silver,CE58 JK ZN,2027-06-07,Passed
+V00885,Volkswagen,Golf,2019,7,XL,6,Petrol,Red,DN20 FT ZN,2027-03-17,Pending
+V00886,Suzuki,Swift,2019,7,XL,6,Petrol,Blue,NC51 EC GP,2026-09-19,Passed
+V00887,BMW,118i,2025,1,Economy,4,Petrol,White,LZ92 PM GP,2025-10-05,Passed
+V00888,Nissan,NP200,2013,13,Standard,5,Petrol,White,VM84 MC WC,2026-01-20,Failed
+V00889,Toyota,Avanza,2015,11,Standard,5,Petrol,Black,WL77 VF WC,2026-02-20,Passed
+V00890,Toyota,Avanza,2019,7,XL,6,Hybrid,Silver,TN13 DS GP,2026-05-07,Passed
+V00891,Kia,Picanto,2019,7,Standard,5,Diesel,Silver,MM35 BH GP,2026-02-04,Passed
+V00892,Toyota,Avanza,2025,1,Economy,4,Diesel,Silver,WB95 LB ZN,2025-10-23,Passed
+V00893,Toyota,Etios,2015,11,Standard,5,Petrol,Silver,HZ79 FN EC,2025-10-03,Failed
+V00894,Toyota,Avanza,2021,5,Standard,5,Petrol,Black,VL35 BZ WC,2025-08-10,Passed
+V00895,Nissan,NP200,2014,12,Standard,5,Petrol,Silver,RZ62 MX GP,2027-01-12,Passed
+V00896,Toyota,Etios,2014,12,Standard,5,Petrol,Black,BT40 PK GP,2027-03-21,Passed
+V00897,Volkswagen,Caddy,2017,9,Economy,4,Petrol,Red,VJ76 LG ZN,2025-11-21,Passed
+V00898,Kia,Picanto,2022,4,Comfort,5,Petrol,White,PS88 AF GP,2025-12-08,Passed
+V00899,BMW,320i,2020,6,Comfort,5,Petrol,Grey,VA34 TR WC,2025-07-05,Passed
+V00900,Toyota,Corolla Quest,2021,5,XL,6,Petrol,Blue,PC78 KD GP,2026-10-31,Passed
